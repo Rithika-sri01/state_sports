@@ -14,7 +14,14 @@ app.use(require('./middleware/error'));
 module.exports = app;
 if (require.main === module) {
   mongoose.connect(cfg.mongo).then(() => {
-    console.log('MongoDB connected');
-    app.listen(cfg.port, () => console.log(`API running on http://localhost:${cfg.port}`));
-  }).catch(e => { console.error('MongoDB connection failed:', e.message); process.exit(1); });
+  console.log('MongoDB connected');
+  app.listen(cfg.port, () => console.log(`API running on port ${cfg.port}`));
+}).catch(e => {
+  console.error('MongoDB connection failed:', e);
+  if (e.reason?.servers) {
+    for (const [address, server] of e.reason.servers) {
+      console.error(address, server.error?.message || server.type);
+    }
+  }
+  process.exit(1); });
 }
