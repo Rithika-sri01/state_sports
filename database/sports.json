@@ -1,0 +1,263 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "name": "Athletics",
+  "code": "ATH",
+  "description": "Track & field events",
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "100 m",
+    "category": "Track",
+    "unit": "s"
+   },
+   {
+    "name": "200 m",
+    "category": "Track",
+    "unit": "s"
+   },
+   {
+    "name": "400 m",
+    "category": "Track",
+    "unit": "s"
+   },
+   {
+    "name": "800 m",
+    "category": "Track",
+    "unit": "s"
+   },
+   {
+    "name": "Long Jump",
+    "category": "Field",
+    "unit": "m"
+   },
+   {
+    "name": "Javelin Throw",
+    "category": "Field",
+    "unit": "m"
+   }
+  ],
+  "positions": [],
+  "source": {
+   "name": "World Athletics",
+   "url": "https://worldathletics.org"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "name": "Football",
+  "code": "FTB",
+  "description": "Association football",
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "Match",
+    "category": "Team",
+    "unit": "goals"
+   }
+  ],
+  "positions": [
+   "Goalkeeper",
+   "Defender",
+   "Midfielder",
+   "Forward"
+  ],
+  "source": {
+   "name": "Kaggle football datasets",
+   "url": "https://www.kaggle.com/datasets"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "name": "Badminton",
+  "code": "BDM",
+  "description": "Singles & doubles",
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "Singles",
+    "category": "Individual",
+    "unit": "games"
+   },
+   {
+    "name": "Doubles",
+    "category": "Individual",
+    "unit": "games"
+   }
+  ],
+  "positions": [],
+  "source": {
+   "name": "Badminton World Federation",
+   "url": "https://bwfbadminton.com"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "name": "Cricket",
+  "code": "CRK",
+  "description": "Batting, bowling & fielding",
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "T20 Match",
+    "category": "Team",
+    "unit": "runs"
+   },
+   {
+    "name": "One-Day Match",
+    "category": "Team",
+    "unit": "runs"
+   }
+  ],
+  "positions": [
+   "Batter",
+   "Bowler",
+   "All-rounder",
+   "Wicket-keeper"
+  ],
+  "source": {
+   "name": "ESPNcricinfo Statsguru",
+   "url": "https://www.espncricinfo.com"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "name": "Basketball",
+  "code": "BKB",
+  "description": "5x5 basketball",
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "5x5 Game",
+    "category": "Team",
+    "unit": "points"
+   }
+  ],
+  "positions": [
+   "Point Guard",
+   "Shooting Guard",
+   "Small Forward",
+   "Power Forward",
+   "Center"
+  ],
+  "source": {
+   "name": "FIBA",
+   "url": "https://www.fiba.basketball"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "name": "Volleyball",
+  "code": "VLB",
+  "description": "Indoor volleyball",
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "active": true,
+  "events": [
+   {
+    "name": "Match",
+    "category": "Team",
+    "unit": "sets"
+   }
+  ],
+  "positions": [
+   "Setter",
+   "Outside Hitter",
+   "Middle Blocker",
+   "Opposite",
+   "Libero"
+  ],
+  "source": {
+   "name": "FIVB",
+   "url": "https://www.fivb.com"
+  }
+ }
+]

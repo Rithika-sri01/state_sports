@@ -1,0 +1,52 @@
+[
+ {
+  "athleteId": "SSA-CRK-001",
+  "playerPosition": "Batter",
+  "matches": 18,
+  "runs": 604,
+  "battingAverage": 43.14,
+  "wickets": 0,
+  "bowlingFigures": "",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "playerPosition": "Bowler",
+  "matches": 27,
+  "runs": 78,
+  "battingAverage": 3.55,
+  "wickets": 14,
+  "bowlingFigures": "3/20",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "playerPosition": "All-rounder",
+  "matches": 28,
+  "runs": 582,
+  "battingAverage": 26.45,
+  "wickets": 20,
+  "bowlingFigures": "2/23",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "playerPosition": "Wicket-keeper",
+  "matches": 25,
+  "runs": 662,
+  "battingAverage": 33.1,
+  "wickets": 0,
+  "bowlingFigures": "",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "playerPosition": "Batter",
+  "matches": 15,
+  "runs": 844,
+  "battingAverage": 70.33,
+  "wickets": 0,
+  "bowlingFigures": "",
+  "dataOrigin": "synthetic-demo"
+ }
+]

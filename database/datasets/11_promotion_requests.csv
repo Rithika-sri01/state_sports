@@ -1,0 +1,20 @@
+requestId,athleteId,currentLevel,requestedLevel,eligibility,overallScore,coachId,coachRecommendation,requestDate,status,dataOrigin
+PR-SSA-ATH-002,SSA-ATH-002,Academy Level 2,District Camp,Eligible,70.5,CH-ATH,Consistent improvement with supporting evidence; recommended for review.,2026-09-23,Under Review,synthetic-demo
+PR-SSA-ATH-003,SSA-ATH-003,Academy Level 1,Academy Level 2,Eligible,67.7,CH-ATH,Consistent improvement with supporting evidence; recommended for review.,2026-09-12,Approved,synthetic-demo
+PR-SSA-FTB-001,SSA-FTB-001,Academy Level 1,Academy Level 2,Eligible,70,CH-FTB,Consistent improvement with supporting evidence; recommended for review.,2026-09-27,Approved,synthetic-demo
+PR-SSA-FTB-002,SSA-FTB-002,Academy Level 1,Academy Level 2,Eligible,65.8,CH-FTB,Consistent improvement with supporting evidence; recommended for review.,2026-09-26,Rejected,synthetic-demo
+PR-SSA-FTB-003,SSA-FTB-003,District Camp,State Camp,Eligible,79.3,CH-FTB,Consistent improvement with supporting evidence; recommended for review.,2026-09-16,Further Review,synthetic-demo
+PR-SSA-FTB-004,SSA-FTB-004,Academy Level 2,District Camp,Eligible,73,CH-FTB,Consistent improvement with supporting evidence; recommended for review.,2026-09-25,Under Review,synthetic-demo
+PR-SSA-BDM-001,SSA-BDM-001,District Camp,State Camp,Eligible,79.2,CH-BDM,Consistent improvement with supporting evidence; recommended for review.,2026-09-14,Rejected,synthetic-demo
+PR-SSA-BDM-002,SSA-BDM-002,District Camp,State Camp,Eligible,81.7,CH-BDM,Consistent improvement with supporting evidence; recommended for review.,2026-09-11,Further Review,synthetic-demo
+PR-SSA-BDM-003,SSA-BDM-003,Elite Camp,State Team,Eligible,88,CH-BDM,Consistent improvement with supporting evidence; recommended for review.,2026-09-16,Under Review,synthetic-demo
+PR-SSA-BDM-005,SSA-BDM-005,District Camp,State Camp,Eligible,82.7,CH-BDM,Consistent improvement with supporting evidence; recommended for review.,2026-09-11,Approved,synthetic-demo
+PR-SSA-CRK-002,SSA-CRK-002,State Camp,Elite Camp,Eligible,88.5,CH-CRK,Consistent improvement with supporting evidence; recommended for review.,2026-09-19,Further Review,synthetic-demo
+PR-SSA-CRK-004,SSA-CRK-004,Elite Camp,State Team,Eligible,89.5,CH-CRK,Consistent improvement with supporting evidence; recommended for review.,2026-09-24,Under Review,synthetic-demo
+PR-SSA-BKB-002,SSA-BKB-002,State Camp,Elite Camp,Eligible,87.7,CH-BKB,Consistent improvement with supporting evidence; recommended for review.,2026-09-18,Under Review,synthetic-demo
+PR-SSA-BKB-003,SSA-BKB-003,District Camp,State Camp,Eligible,82.3,CH-BKB,Consistent improvement with supporting evidence; recommended for review.,2026-09-13,Approved,synthetic-demo
+PR-SSA-BKB-005,SSA-BKB-005,Elite Camp,State Team,Eligible,88.5,CH-BKB,Consistent improvement with supporting evidence; recommended for review.,2026-09-16,Rejected,synthetic-demo
+PR-SSA-VLB-001,SSA-VLB-001,Elite Camp,State Team,Eligible,94.6,CH-VLB,Consistent improvement with supporting evidence; recommended for review.,2026-09-09,Approved,synthetic-demo
+PR-SSA-VLB-002,SSA-VLB-002,Academy Level 1,Academy Level 2,Eligible,67.7,CH-VLB,Consistent improvement with supporting evidence; recommended for review.,2026-09-14,Rejected,synthetic-demo
+PR-SSA-VLB-003,SSA-VLB-003,District Camp,State Camp,Eligible,75.3,CH-VLB,Consistent improvement with supporting evidence; recommended for review.,2026-09-08,Further Review,synthetic-demo
+PR-SSA-VLB-005,SSA-VLB-005,Elite Camp,State Team,Eligible,92.7,CH-VLB,Consistent improvement with supporting evidence; recommended for review.,2026-09-20,Under Review,synthetic-demo

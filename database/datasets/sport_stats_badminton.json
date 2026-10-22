@@ -1,0 +1,47 @@
+[
+ {
+  "athleteId": "SSA-BDM-001",
+  "matches": 32,
+  "wins": 22,
+  "losses": 10,
+  "tournamentResults": "Runner-up",
+  "ranking": 52,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "matches": 31,
+  "wins": 21,
+  "losses": 10,
+  "tournamentResults": "Runner-up",
+  "ranking": 283,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "matches": 22,
+  "wins": 16,
+  "losses": 6,
+  "tournamentResults": "Winner",
+  "ranking": 140,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "matches": 25,
+  "wins": 17,
+  "losses": 8,
+  "tournamentResults": "Runner-up",
+  "ranking": 32,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "matches": 30,
+  "wins": 21,
+  "losses": 9,
+  "tournamentResults": "Runner-up",
+  "ranking": 143,
+  "dataOrigin": "synthetic-demo"
+ }
+]

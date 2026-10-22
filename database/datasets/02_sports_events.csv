@@ -1,0 +1,31 @@
+sport,event,category,position,measurementUnit,dataOrigin
+Athletics,100 m,Track,,s,synthetic-demo
+Athletics,200 m,Track,,s,synthetic-demo
+Athletics,400 m,Track,,s,synthetic-demo
+Athletics,800 m,Track,,s,synthetic-demo
+Athletics,Long Jump,Field,,m,synthetic-demo
+Athletics,Javelin Throw,Field,,m,synthetic-demo
+Football,Match,Team,Goalkeeper,goals,synthetic-demo
+Football,Match,Team,Defender,goals,synthetic-demo
+Football,Match,Team,Midfielder,goals,synthetic-demo
+Football,Match,Team,Forward,goals,synthetic-demo
+Badminton,Singles,Individual,,games,synthetic-demo
+Badminton,Doubles,Individual,,games,synthetic-demo
+Cricket,T20 Match,Team,Batter,runs,synthetic-demo
+Cricket,T20 Match,Team,Bowler,runs,synthetic-demo
+Cricket,T20 Match,Team,All-rounder,runs,synthetic-demo
+Cricket,T20 Match,Team,Wicket-keeper,runs,synthetic-demo
+Cricket,One-Day Match,Team,Batter,runs,synthetic-demo
+Cricket,One-Day Match,Team,Bowler,runs,synthetic-demo
+Cricket,One-Day Match,Team,All-rounder,runs,synthetic-demo
+Cricket,One-Day Match,Team,Wicket-keeper,runs,synthetic-demo
+Basketball,5x5 Game,Team,Point Guard,points,synthetic-demo
+Basketball,5x5 Game,Team,Shooting Guard,points,synthetic-demo
+Basketball,5x5 Game,Team,Small Forward,points,synthetic-demo
+Basketball,5x5 Game,Team,Power Forward,points,synthetic-demo
+Basketball,5x5 Game,Team,Center,points,synthetic-demo
+Volleyball,Match,Team,Setter,sets,synthetic-demo
+Volleyball,Match,Team,Outside Hitter,sets,synthetic-demo
+Volleyball,Match,Team,Middle Blocker,sets,synthetic-demo
+Volleyball,Match,Team,Opposite,sets,synthetic-demo
+Volleyball,Match,Team,Libero,sets,synthetic-demo

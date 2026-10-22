@@ -1,0 +1,1112 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "athleteId": "SSA-2026-0001",
+  "name": "Arjun Karthik",
+  "dob": {
+   "$date": "2004-07-05T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9876272870",
+  "district": "Chennai",
+  "guardian": "Karthik (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "eventOrPosition": "100 m",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a7"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-12-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "athleteId": "SSA-2026-0002",
+  "name": "Divya Lakshmi",
+  "dob": {
+   "$date": "2007-09-18T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9409801753",
+  "district": "Chennai",
+  "guardian": "Lakshmi (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "eventOrPosition": "Goalkeeper",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a9"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-02-01T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "athleteId": "SSA-2026-0003",
+  "name": "Harish Kumar",
+  "dob": {
+   "$date": "2005-02-28T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9591478563",
+  "district": "Erode",
+  "guardian": "Kumar (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "eventOrPosition": "Doubles",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ab"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-08-25T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "athleteId": "SSA-2026-0004",
+  "name": "Meena Priya",
+  "dob": {
+   "$date": "2006-06-21T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9260262373",
+  "district": "Trichy",
+  "guardian": "Priya (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "eventOrPosition": "Batter",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ad"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-06T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "athleteId": "SSA-2026-0005",
+  "name": "Surya Prakash",
+  "dob": {
+   "$date": "2007-02-28T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9413731867",
+  "district": "Trichy",
+  "guardian": "Prakash (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "eventOrPosition": "Point Guard",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9af"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-02-02T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "athleteId": "SSA-2026-0006",
+  "name": "Kavya Shree",
+  "dob": {
+   "$date": "2006-10-24T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9768376375",
+  "district": "Madurai",
+  "guardian": "Shree (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "eventOrPosition": "Setter",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b1"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-01T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "athleteId": "SSA-2026-0007",
+  "name": "Naveen Raj",
+  "dob": {
+   "$date": "2004-06-13T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9108551850",
+  "district": "Tiruppur",
+  "guardian": "Raj (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "eventOrPosition": "200 m",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b3"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-01-06T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b6"
+  },
+  "athleteId": "SSA-2026-0008",
+  "name": "Aishwarya Devi",
+  "dob": {
+   "$date": "2006-09-26T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9116036779",
+  "district": "Chennai",
+  "guardian": "Devi (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "eventOrPosition": "Defender",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b5"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "athleteId": "SSA-2026-0009",
+  "name": "Vignesh Murugan",
+  "dob": {
+   "$date": "2007-05-08T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9447818329",
+  "district": "Salem",
+  "guardian": "Murugan (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "eventOrPosition": "Singles",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b7"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-11-16T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "athleteId": "SSA-2026-0010",
+  "name": "Sandhya Rani",
+  "dob": {
+   "$date": "2005-05-07T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9368932669",
+  "district": "Coimbatore",
+  "guardian": "Rani (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "eventOrPosition": "Bowler",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b9"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-09-03T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bc"
+  },
+  "athleteId": "SSA-2026-0011",
+  "name": "Praveen Kumar",
+  "dob": {
+   "$date": "2006-06-10T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9417391430",
+  "district": "Erode",
+  "guardian": "Kumar (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "eventOrPosition": "Shooting Guard",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bb"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "athleteId": "SSA-2026-0012",
+  "name": "Janani Selvam",
+  "dob": {
+   "$date": "2009-12-22T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9309832744",
+  "district": "Madurai",
+  "guardian": "Selvam (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "eventOrPosition": "Outside Hitter",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bd"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-02-17T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "athleteId": "SSA-2026-0013",
+  "name": "Gokul Krishnan",
+  "dob": {
+   "$date": "2005-08-28T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9978105389",
+  "district": "Coimbatore",
+  "guardian": "Krishnan (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "eventOrPosition": "400 m",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bf"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-01-10T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "athleteId": "SSA-2026-0014",
+  "name": "Harini Balaji",
+  "dob": {
+   "$date": "2006-09-12T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9961689624",
+  "district": "Madurai",
+  "guardian": "Balaji (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "eventOrPosition": "Midfielder",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c1"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-12-23T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "athleteId": "SSA-2026-0015",
+  "name": "Dinesh Babu",
+  "dob": {
+   "$date": "2007-08-10T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9450276663",
+  "district": "Coimbatore",
+  "guardian": "Babu (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "eventOrPosition": "Doubles",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c3"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-04T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "athleteId": "SSA-2026-0016",
+  "name": "Nandhini Ravi",
+  "dob": {
+   "$date": "2008-03-02T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9513599353",
+  "district": "Tiruppur",
+  "guardian": "Ravi (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "eventOrPosition": "All-rounder",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c5"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-09-01T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "athleteId": "SSA-2026-0017",
+  "name": "Santhosh Kumar",
+  "dob": {
+   "$date": "2008-11-16T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9147108924",
+  "district": "Tiruppur",
+  "guardian": "Kumar (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "eventOrPosition": "Small Forward",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c7"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-02-03T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "athleteId": "SSA-2026-0018",
+  "name": "Ramya Subramani",
+  "dob": {
+   "$date": "2009-06-14T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9898043820",
+  "district": "Erode",
+  "guardian": "Subramani (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "eventOrPosition": "Middle Blocker",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c9"
+  },
+  "active": false,
+  "registeredAt": {
+   "$date": "2026-03-24T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "athleteId": "SSA-2026-0019",
+  "name": "Yuvaraj Sekar",
+  "dob": {
+   "$date": "2005-10-23T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9973944765",
+  "district": "Chennai",
+  "guardian": "Sekar (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "eventOrPosition": "800 m",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cb"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-03-13T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "athleteId": "SSA-2026-0020",
+  "name": "Pavithra Anand",
+  "dob": {
+   "$date": "2006-02-26T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9665528059",
+  "district": "Namakkal",
+  "guardian": "Anand (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "eventOrPosition": "Forward",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cd"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "athleteId": "SSA-2026-0021",
+  "name": "Tharun Vel",
+  "dob": {
+   "$date": "2008-09-08T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9486077932",
+  "district": "Trichy",
+  "guardian": "Vel (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "eventOrPosition": "Singles",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cf"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-11-15T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d2"
+  },
+  "athleteId": "SSA-2026-0022",
+  "name": "Keerthana Mohan",
+  "dob": {
+   "$date": "2006-04-18T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9207880267",
+  "district": "Madurai",
+  "guardian": "Mohan (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "eventOrPosition": "Wicket-keeper",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d1"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "athleteId": "SSA-2026-0023",
+  "name": "Mohammed Imran",
+  "dob": {
+   "$date": "2004-04-20T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9861389480",
+  "district": "Madurai",
+  "guardian": "Imran (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "eventOrPosition": "Power Forward",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d3"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-03-30T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "athleteId": "SSA-2026-0024",
+  "name": "Deepika Suresh",
+  "dob": {
+   "$date": "2007-03-02T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9730902811",
+  "district": "Trichy",
+  "guardian": "Suresh (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "eventOrPosition": "Opposite",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d5"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-03-11T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "athleteId": "SSA-2026-0025",
+  "name": "Lokesh Waran",
+  "dob": {
+   "$date": "2005-07-19T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9293440932",
+  "district": "Chennai",
+  "guardian": "Waran (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "eventOrPosition": "Long Jump",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d7"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-11-23T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "athleteId": "SSA-2026-0026",
+  "name": "Rohit Anand",
+  "dob": {
+   "$date": "2008-10-25T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9493180805",
+  "district": "Chennai",
+  "guardian": "Anand (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "eventOrPosition": "Goalkeeper",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d9"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-01-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "athleteId": "SSA-2026-0027",
+  "name": "Swetha Narayanan",
+  "dob": {
+   "$date": "2009-07-06T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9769276284",
+  "district": "Salem",
+  "guardian": "Narayanan (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "eventOrPosition": "Doubles",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9db"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-12-24T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "athleteId": "SSA-2026-0028",
+  "name": "Bharath Kannan",
+  "dob": {
+   "$date": "2006-06-16T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9679948632",
+  "district": "Coimbatore",
+  "guardian": "Kannan (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "eventOrPosition": "Batter",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dd"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "athleteId": "SSA-2026-0029",
+  "name": "Monica Joseph",
+  "dob": {
+   "$date": "2006-05-08T00:00:00Z"
+  },
+  "gender": "Female",
+  "phone": "+91 9604956177",
+  "district": "Trichy",
+  "guardian": "Joseph (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "eventOrPosition": "Center",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9df"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2025-10-05T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "athleteId": "SSA-2026-0030",
+  "name": "Aravind Pandian",
+  "dob": {
+   "$date": "2007-09-08T00:00:00Z"
+  },
+  "gender": "Male",
+  "phone": "+91 9658186150",
+  "district": "Trichy",
+  "guardian": "Pandian (Parent)",
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "eventOrPosition": "Libero",
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "user": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e1"
+  },
+  "active": true,
+  "registeredAt": {
+   "$date": "2026-03-26T11:42:05.039Z"
+  }
+ }
+]

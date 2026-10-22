@@ -1,0 +1,14 @@
+decisionId,requestId,athleteId,decision,reason,reviewer,decisionDate,dataOrigin
+SD-SSA-ATH-003,PR-SSA-ATH-003,SSA-ATH-003,Selected,Evidence and competition record support promotion.,Selection Committee - Member,2026-10-06,synthetic-demo
+SD-SSA-FTB-001,PR-SSA-FTB-001,SSA-FTB-001,Selected,Evidence and competition record support promotion.,Selection Committee - Chair,2026-10-14,synthetic-demo
+SD-SSA-FTB-002,PR-SSA-FTB-002,SSA-FTB-002,Not Selected,Competition consistency below the standard for the next level.,Selection Committee - Member,2026-10-10,synthetic-demo
+SD-SSA-FTB-003,PR-SSA-FTB-003,SSA-FTB-003,Further Review,Needs another assessment cycle and updated evidence.,Selection Committee - Chair,2026-10-04,synthetic-demo
+SD-SSA-BDM-001,PR-SSA-BDM-001,SSA-BDM-001,Not Selected,Competition consistency below the standard for the next level.,Selection Committee - Chair,2026-10-04,synthetic-demo
+SD-SSA-BDM-002,PR-SSA-BDM-002,SSA-BDM-002,Further Review,Needs another assessment cycle and updated evidence.,Selection Committee - Member,2026-10-11,synthetic-demo
+SD-SSA-BDM-005,PR-SSA-BDM-005,SSA-BDM-005,Selected,Evidence and competition record support promotion.,Selection Committee - Member,2026-10-06,synthetic-demo
+SD-SSA-CRK-002,PR-SSA-CRK-002,SSA-CRK-002,Further Review,Needs another assessment cycle and updated evidence.,Selection Committee - Chair,2026-10-09,synthetic-demo
+SD-SSA-BKB-003,PR-SSA-BKB-003,SSA-BKB-003,Selected,Evidence and competition record support promotion.,Selection Committee - Member,2026-10-11,synthetic-demo
+SD-SSA-BKB-005,PR-SSA-BKB-005,SSA-BKB-005,Not Selected,Competition consistency below the standard for the next level.,Selection Committee - Chair,2026-10-11,synthetic-demo
+SD-SSA-VLB-001,PR-SSA-VLB-001,SSA-VLB-001,Selected,Evidence and competition record support promotion.,Selection Committee - Chair,2026-10-12,synthetic-demo
+SD-SSA-VLB-002,PR-SSA-VLB-002,SSA-VLB-002,Not Selected,Competition consistency below the standard for the next level.,Selection Committee - Member,2026-10-15,synthetic-demo
+SD-SSA-VLB-003,PR-SSA-VLB-003,SSA-VLB-003,Further Review,Needs another assessment cycle and updated evidence.,Selection Committee - Chair,2026-10-08,synthetic-demo

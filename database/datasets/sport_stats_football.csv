@@ -1,0 +1,6 @@
+athleteId,playerPosition,matches,goals,assists,minutesPlayed,dataOrigin
+SSA-FTB-001,Goalkeeper,29,0,3,1856,synthetic-demo
+SSA-FTB-002,Defender,26,1,3,1690,synthetic-demo
+SSA-FTB-003,Midfielder,11,2,3,924,synthetic-demo
+SSA-FTB-004,Forward,25,11,3,1525,synthetic-demo
+SSA-FTB-005,Goalkeeper,16,0,2,944,synthetic-demo

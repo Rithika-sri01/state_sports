@@ -1,0 +1,181 @@
+resultId,athleteId,sport,competition,competitionDate,event,result,resultValue,unit,rank,performanceScore,referenceSource,sourceUrl,verificationStatus,dataOrigin
+CR-SSA-ATH-001-1,SSA-ATH-001,Athletics,District Junior Championship (demo),2025-03-13,100 m,13.28 s,13.28,s,8,54,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-001-2,SSA-ATH-001,Athletics,State Junior Championship (demo),2025-06-04,100 m,12.95 s,12.95,s,6,65,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-001-3,SSA-ATH-001,Athletics,Inter-Academy Cup (demo),2025-06-17,100 m,12.98 s,12.98,s,7,64,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-001-4,SSA-ATH-001,Athletics,Zonal Championship (demo),2025-07-08,100 m,13.16 s,13.16,s,8,58,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-001-5,SSA-ATH-001,Athletics,National Junior Meet (demo),2026-01-31,100 m,13.16 s,13.16,s,8,58,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-001-6,SSA-ATH-001,Athletics,Regional Open (demo),2026-08-12,100 m,13.16 s,13.16,s,8,58,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-1,SSA-ATH-002,Athletics,District Junior Championship (demo),2024-12-06,200 m,26.6 s,26.6,s,6,65,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-2,SSA-ATH-002,Athletics,State Junior Championship (demo),2024-12-24,200 m,26.3 s,26.3,s,5,70,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-3,SSA-ATH-002,Athletics,Inter-Academy Cup (demo),2025-06-13,200 m,26.3 s,26.3,s,5,70,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-4,SSA-ATH-002,Athletics,Zonal Championship (demo),2025-07-20,200 m,26.42 s,26.42,s,6,68,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-5,SSA-ATH-002,Athletics,National Junior Meet (demo),2025-08-21,200 m,26.3 s,26.3,s,5,70,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-002-6,SSA-ATH-002,Athletics,Regional Open (demo),2026-08-22,200 m,26.12 s,26.12,s,6,73,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-1,SSA-ATH-003,Athletics,District Junior Championship (demo),2024-12-04,400 m,58 s,58,s,6,70,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-2,SSA-ATH-003,Athletics,State Junior Championship (demo),2025-04-08,400 m,58.8 s,58.8,s,7,66,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-3,SSA-ATH-003,Athletics,Inter-Academy Cup (demo),2025-05-08,400 m,57.4 s,57.4,s,5,73,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-4,SSA-ATH-003,Athletics,Zonal Championship (demo),2025-08-02,400 m,59.8 s,59.8,s,8,61,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-5,SSA-ATH-003,Athletics,National Junior Meet (demo),2026-02-13,400 m,57.8 s,57.8,s,7,71,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-003-6,SSA-ATH-003,Athletics,Regional Open (demo),2026-05-22,400 m,59.8 s,59.8,s,8,61,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-1,SSA-ATH-004,Athletics,District Junior Championship (demo),2025-11-22,800 m,125.5 s,125.5,s,5,79,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-2,SSA-ATH-004,Athletics,State Junior Championship (demo),2025-12-21,800 m,125 s,125,s,5,80,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-3,SSA-ATH-004,Athletics,Inter-Academy Cup (demo),2026-03-16,800 m,128.5 s,128.5,s,7,73,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-4,SSA-ATH-004,Athletics,Zonal Championship (demo),2026-05-22,800 m,126 s,126,s,4,78,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-5,SSA-ATH-004,Athletics,National Junior Meet (demo),2026-08-23,800 m,127.5 s,127.5,s,4,75,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-004-6,SSA-ATH-004,Athletics,Regional Open (demo),2026-09-12,800 m,124.5 s,124.5,s,4,81,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-1,SSA-ATH-005,Athletics,District Junior Championship (demo),2025-01-11,Long Jump,6.2 m,6.2,m,3,85,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-2,SSA-ATH-005,Athletics,State Junior Championship (demo),2025-09-06,Long Jump,6.04 m,6.04,m,4,81,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-3,SSA-ATH-005,Athletics,Inter-Academy Cup (demo),2025-09-08,Long Jump,6.16 m,6.16,m,4,84,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-4,SSA-ATH-005,Athletics,Zonal Championship (demo),2026-03-20,Long Jump,6.48 m,6.48,m,3,92,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-5,SSA-ATH-005,Athletics,National Junior Meet (demo),2026-04-06,Long Jump,6.4 m,6.4,m,4,90,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-ATH-005-6,SSA-ATH-005,Athletics,Regional Open (demo),2026-09-02,Long Jump,6.44 m,6.44,m,3,91,World Athletics,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-1,SSA-FTB-001,Football,State Junior Championship (demo),2024-11-27,Match,W 2-1,,goals,2,73,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-2,SSA-FTB-001,Football,Inter-Academy Cup (demo),2024-12-11,Match,W 2-0,,goals,3,70,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-3,SSA-FTB-001,Football,Zonal Championship (demo),2025-06-21,Match,L 2-4,,goals,4,66,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-4,SSA-FTB-001,Football,National Junior Meet (demo),2025-07-23,Match,W 3-1,,goals,1,67,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-5,SSA-FTB-001,Football,Regional Open (demo),2026-03-14,Match,W 1-0,,goals,1,69,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-001-6,SSA-FTB-001,Football,District Junior Championship (demo),2026-08-11,Match,W 1-0,,goals,2,73,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-1,SSA-FTB-002,Football,State Junior Championship (demo),2025-04-19,Match,W 4-2,,goals,3,70,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-2,SSA-FTB-002,Football,Inter-Academy Cup (demo),2025-11-23,Match,L 1-2,,goals,4,66,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-3,SSA-FTB-002,Football,Zonal Championship (demo),2026-04-25,Match,L 0-1,,goals,5,58,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-4,SSA-FTB-002,Football,National Junior Meet (demo),2026-06-16,Match,L 0-2,,goals,5,60,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-5,SSA-FTB-002,Football,Regional Open (demo),2026-07-14,Match,W 1-0,,goals,1,65,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-002-6,SSA-FTB-002,Football,District Junior Championship (demo),2026-09-04,Match,W 4-0,,goals,2,63,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-1,SSA-FTB-003,Football,State Junior Championship (demo),2024-12-15,Match,W 4-0,,goals,2,80,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-2,SSA-FTB-003,Football,Inter-Academy Cup (demo),2025-02-27,Match,L 1-3,,goals,7,74,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-3,SSA-FTB-003,Football,Zonal Championship (demo),2025-04-22,Match,L 1-2,,goals,5,78,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-4,SSA-FTB-003,Football,National Junior Meet (demo),2025-05-05,Match,W 3-2,,goals,2,72,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-5,SSA-FTB-003,Football,Regional Open (demo),2025-12-16,Match,W 2-1,,goals,2,80,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-003-6,SSA-FTB-003,Football,District Junior Championship (demo),2026-07-18,Match,W 4-2,,goals,3,82,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-1,SSA-FTB-004,Football,State Junior Championship (demo),2025-04-18,Match,L 0-3,,goals,8,79,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-2,SSA-FTB-004,Football,Inter-Academy Cup (demo),2025-09-03,Match,W 3-1,,goals,2,67,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-3,SSA-FTB-004,Football,Zonal Championship (demo),2025-12-01,Match,W 1-0,,goals,2,70,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-4,SSA-FTB-004,Football,National Junior Meet (demo),2026-01-13,Match,W 2-1,,goals,2,75,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-5,SSA-FTB-004,Football,Regional Open (demo),2026-06-13,Match,L 1-3,,goals,7,69,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-004-6,SSA-FTB-004,Football,District Junior Championship (demo),2026-09-03,Match,W 3-0,,goals,3,68,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-1,SSA-FTB-005,Football,State Junior Championship (demo),2024-12-14,Match,W 4-1,,goals,2,58,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-2,SSA-FTB-005,Football,Inter-Academy Cup (demo),2025-05-13,Match,W 3-2,,goals,3,60,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-3,SSA-FTB-005,Football,Zonal Championship (demo),2025-12-05,Match,L 0-1,,goals,3,58,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-4,SSA-FTB-005,Football,National Junior Meet (demo),2026-02-26,Match,L 0-2,,goals,5,62,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-5,SSA-FTB-005,Football,Regional Open (demo),2026-05-18,Match,L 1-3,,goals,6,58,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-FTB-005-6,SSA-FTB-005,Football,District Junior Championship (demo),2026-07-27,Match,W 3-1,,goals,2,61,Kaggle football datasets,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-1,SSA-BDM-001,Badminton,Inter-Academy Cup (demo),2024-12-27,Singles,W 2-1,,games,1,76,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-2,SSA-BDM-001,Badminton,Zonal Championship (demo),2025-02-24,Doubles,L 0-2,,games,5,72,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-3,SSA-BDM-001,Badminton,National Junior Meet (demo),2025-03-17,Singles,W 2-1,,games,2,83,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-4,SSA-BDM-001,Badminton,Regional Open (demo),2025-07-04,Doubles,W 2-0,,games,1,77,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-5,SSA-BDM-001,Badminton,District Junior Championship (demo),2026-07-02,Singles,W 2-1,,games,2,76,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-001-6,SSA-BDM-001,Badminton,State Junior Championship (demo),2026-07-05,Doubles,W 2-1,,games,2,84,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-1,SSA-BDM-002,Badminton,Inter-Academy Cup (demo),2025-01-06,Singles,L 0-2,,games,4,76,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-2,SSA-BDM-002,Badminton,Zonal Championship (demo),2025-05-21,Doubles,W 2-1,,games,2,84,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-3,SSA-BDM-002,Badminton,National Junior Meet (demo),2025-06-30,Singles,W 2-0,,games,1,83,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-4,SSA-BDM-002,Badminton,Regional Open (demo),2025-08-19,Doubles,W 2-0,,games,1,87,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-5,SSA-BDM-002,Badminton,District Junior Championship (demo),2026-01-21,Singles,W 2-1,,games,3,86,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-002-6,SSA-BDM-002,Badminton,State Junior Championship (demo),2026-04-26,Doubles,W 2-0,,games,1,78,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-1,SSA-BDM-003,Badminton,Inter-Academy Cup (demo),2025-03-01,Singles,W 2-0,,games,2,85,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-2,SSA-BDM-003,Badminton,Zonal Championship (demo),2025-07-14,Doubles,W 2-0,,games,1,95,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-3,SSA-BDM-003,Badminton,National Junior Meet (demo),2025-09-06,Singles,W 2-0,,games,3,87,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-4,SSA-BDM-003,Badminton,Regional Open (demo),2025-09-21,Doubles,W 2-1,,games,2,94,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-5,SSA-BDM-003,Badminton,District Junior Championship (demo),2026-02-25,Singles,W 2-0,,games,2,82,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-003-6,SSA-BDM-003,Badminton,State Junior Championship (demo),2026-06-24,Doubles,W 2-0,,games,2,88,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-1,SSA-BDM-004,Badminton,Inter-Academy Cup (demo),2025-01-20,Singles,W 2-1,,games,2,80,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-2,SSA-BDM-004,Badminton,Zonal Championship (demo),2025-06-17,Doubles,W 2-0,,games,3,78,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-3,SSA-BDM-004,Badminton,National Junior Meet (demo),2025-08-14,Singles,L 0-2,,games,7,87,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-4,SSA-BDM-004,Badminton,Regional Open (demo),2025-12-08,Doubles,W 2-1,,games,2,83,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-5,SSA-BDM-004,Badminton,District Junior Championship (demo),2026-02-13,Singles,L 0-2,,games,6,77,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-004-6,SSA-BDM-004,Badminton,State Junior Championship (demo),2026-02-22,Doubles,L 0-2,,games,5,81,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-1,SSA-BDM-005,Badminton,Inter-Academy Cup (demo),2024-11-25,Singles,L 0-2,,games,3,87,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-2,SSA-BDM-005,Badminton,Zonal Championship (demo),2025-03-19,Doubles,W 2-1,,games,1,85,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-3,SSA-BDM-005,Badminton,National Junior Meet (demo),2025-04-22,Singles,L 1-2,,games,7,89,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-4,SSA-BDM-005,Badminton,Regional Open (demo),2025-04-30,Doubles,W 2-1,,games,2,79,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-5,SSA-BDM-005,Badminton,District Junior Championship (demo),2025-07-15,Singles,W 2-0,,games,1,83,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-BDM-005-6,SSA-BDM-005,Badminton,State Junior Championship (demo),2025-12-06,Doubles,W 2-1,,games,2,76,Badminton World Federation,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-1,SSA-CRK-001,Cricket,Zonal Championship (demo),2025-05-07,T20 Match,W by 56 runs,,runs,2,72,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-2,SSA-CRK-001,Cricket,National Junior Meet (demo),2025-07-04,One-Day Match,L by 52 runs,,runs,4,62,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-3,SSA-CRK-001,Cricket,Regional Open (demo),2025-12-28,T20 Match,L by 7 runs,,runs,5,65,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-4,SSA-CRK-001,Cricket,District Junior Championship (demo),2026-03-19,One-Day Match,W by 47 runs,,runs,3,61,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-5,SSA-CRK-001,Cricket,State Junior Championship (demo),2026-05-09,T20 Match,W by 33 runs,,runs,1,68,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-001-6,SSA-CRK-001,Cricket,Inter-Academy Cup (demo),2026-06-08,One-Day Match,W by 45 runs,,runs,3,63,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-1,SSA-CRK-002,Cricket,Zonal Championship (demo),2025-04-22,T20 Match,L by 10 runs,,runs,4,84,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-2,SSA-CRK-002,Cricket,National Junior Meet (demo),2025-06-17,One-Day Match,W by 54 runs,,runs,1,80,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-3,SSA-CRK-002,Cricket,Regional Open (demo),2025-06-23,T20 Match,L by 52 runs,,runs,5,91,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-4,SSA-CRK-002,Cricket,District Junior Championship (demo),2025-11-02,One-Day Match,W by 33 runs,,runs,3,85,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-5,SSA-CRK-002,Cricket,State Junior Championship (demo),2026-05-26,T20 Match,W by 38 runs,,runs,3,93,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-002-6,SSA-CRK-002,Cricket,Inter-Academy Cup (demo),2026-07-18,One-Day Match,W by 46 runs,,runs,2,86,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-1,SSA-CRK-003,Cricket,Zonal Championship (demo),2025-02-02,T20 Match,L by 22 runs,,runs,6,64,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-2,SSA-CRK-003,Cricket,National Junior Meet (demo),2025-03-14,One-Day Match,W by 45 runs,,runs,2,59,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-3,SSA-CRK-003,Cricket,Regional Open (demo),2025-06-02,T20 Match,W by 23 runs,,runs,3,60,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-4,SSA-CRK-003,Cricket,District Junior Championship (demo),2025-10-25,One-Day Match,L by 21 runs,,runs,4,59,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-5,SSA-CRK-003,Cricket,State Junior Championship (demo),2025-12-06,T20 Match,W by 47 runs,,runs,2,54,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-003-6,SSA-CRK-003,Cricket,Inter-Academy Cup (demo),2026-07-08,One-Day Match,L by 15 runs,,runs,7,55,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-1,SSA-CRK-004,Cricket,Zonal Championship (demo),2025-03-29,T20 Match,W by 22 runs,,runs,1,83,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-2,SSA-CRK-004,Cricket,National Junior Meet (demo),2025-12-08,One-Day Match,W by 60 runs,,runs,2,93,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-3,SSA-CRK-004,Cricket,Regional Open (demo),2026-05-15,T20 Match,W by 9 runs,,runs,2,83,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-4,SSA-CRK-004,Cricket,District Junior Championship (demo),2026-06-05,One-Day Match,W by 29 runs,,runs,3,96,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-5,SSA-CRK-004,Cricket,State Junior Championship (demo),2026-07-02,T20 Match,W by 58 runs,,runs,3,87,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-004-6,SSA-CRK-004,Cricket,Inter-Academy Cup (demo),2026-09-15,One-Day Match,W by 41 runs,,runs,2,85,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-1,SSA-CRK-005,Cricket,Zonal Championship (demo),2024-11-24,T20 Match,W by 31 runs,,runs,2,63,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-2,SSA-CRK-005,Cricket,National Junior Meet (demo),2025-03-07,One-Day Match,L by 52 runs,,runs,5,62,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-3,SSA-CRK-005,Cricket,Regional Open (demo),2025-11-14,T20 Match,W by 12 runs,,runs,2,66,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-4,SSA-CRK-005,Cricket,District Junior Championship (demo),2026-04-21,One-Day Match,L by 32 runs,,runs,8,64,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-5,SSA-CRK-005,Cricket,State Junior Championship (demo),2026-06-22,T20 Match,W by 50 runs,,runs,3,57,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-CRK-005-6,SSA-CRK-005,Cricket,Inter-Academy Cup (demo),2026-08-28,One-Day Match,L by 56 runs,,runs,4,67,ESPNcricinfo Statsguru,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-1,SSA-BKB-001,Basketball,National Junior Meet (demo),2025-01-06,5x5 Game,W 79-55,,points,2,61,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-2,SSA-BKB-001,Basketball,Regional Open (demo),2025-05-07,5x5 Game,W 87-55,,points,2,57,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-3,SSA-BKB-001,Basketball,District Junior Championship (demo),2025-05-22,5x5 Game,L 61-67,,points,5,67,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-4,SSA-BKB-001,Basketball,State Junior Championship (demo),2025-08-15,5x5 Game,L 49-84,,points,8,58,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-5,SSA-BKB-001,Basketball,Inter-Academy Cup (demo),2025-10-30,5x5 Game,W 92-67,,points,2,60,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-001-6,SSA-BKB-001,Basketball,Zonal Championship (demo),2025-11-12,5x5 Game,W 62-49,,points,1,57,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-1,SSA-BKB-002,Basketball,National Junior Meet (demo),2025-03-29,5x5 Game,W 70-66,,points,1,93,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-2,SSA-BKB-002,Basketball,Regional Open (demo),2025-08-12,5x5 Game,W 72-56,,points,3,81,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-3,SSA-BKB-002,Basketball,District Junior Championship (demo),2025-10-25,5x5 Game,W 80-57,,points,2,87,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-4,SSA-BKB-002,Basketball,State Junior Championship (demo),2025-12-10,5x5 Game,W 70-62,,points,2,81,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-5,SSA-BKB-002,Basketball,Inter-Academy Cup (demo),2026-05-28,5x5 Game,W 69-50,,points,1,82,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-002-6,SSA-BKB-002,Basketball,Zonal Championship (demo),2026-06-06,5x5 Game,W 80-63,,points,3,82,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-1,SSA-BKB-003,Basketball,National Junior Meet (demo),2024-12-05,5x5 Game,W 89-82,,points,3,82,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-2,SSA-BKB-003,Basketball,Regional Open (demo),2025-04-24,5x5 Game,W 77-65,,points,3,82,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-3,SSA-BKB-003,Basketball,District Junior Championship (demo),2025-06-06,5x5 Game,W 94-70,,points,1,87,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-4,SSA-BKB-003,Basketball,State Junior Championship (demo),2025-06-18,5x5 Game,W 94-80,,points,1,84,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-5,SSA-BKB-003,Basketball,Inter-Academy Cup (demo),2025-12-28,5x5 Game,W 81-74,,points,2,83,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-003-6,SSA-BKB-003,Basketball,Zonal Championship (demo),2026-04-24,5x5 Game,L 50-63,,points,3,86,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-1,SSA-BKB-004,Basketball,National Junior Meet (demo),2024-12-15,5x5 Game,L 59-91,,points,6,78,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-2,SSA-BKB-004,Basketball,Regional Open (demo),2025-01-08,5x5 Game,W 94-50,,points,1,73,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-3,SSA-BKB-004,Basketball,District Junior Championship (demo),2025-02-04,5x5 Game,W 84-50,,points,2,81,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-4,SSA-BKB-004,Basketball,State Junior Championship (demo),2025-09-16,5x5 Game,W 73-62,,points,2,84,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-5,SSA-BKB-004,Basketball,Inter-Academy Cup (demo),2025-11-12,5x5 Game,L 63-94,,points,5,76,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-004-6,SSA-BKB-004,Basketball,Zonal Championship (demo),2026-09-11,5x5 Game,W 81-60,,points,2,72,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-1,SSA-BKB-005,Basketball,National Junior Meet (demo),2024-12-05,5x5 Game,W 70-62,,points,1,83,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-2,SSA-BKB-005,Basketball,Regional Open (demo),2025-07-14,5x5 Game,L 66-79,,points,7,90,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-3,SSA-BKB-005,Basketball,District Junior Championship (demo),2025-07-14,5x5 Game,W 93-75,,points,3,94,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-4,SSA-BKB-005,Basketball,State Junior Championship (demo),2025-08-14,5x5 Game,W 83-65,,points,3,95,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-5,SSA-BKB-005,Basketball,Inter-Academy Cup (demo),2026-04-14,5x5 Game,W 66-59,,points,2,88,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-BKB-005-6,SSA-BKB-005,Basketball,Zonal Championship (demo),2026-06-23,5x5 Game,W 75-52,,points,2,94,FIBA,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-1,SSA-VLB-001,Volleyball,Regional Open (demo),2025-05-10,Match,W 3-2,,sets,1,93,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-2,SSA-VLB-001,Volleyball,District Junior Championship (demo),2025-09-26,Match,W 3-2,,sets,2,95,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-3,SSA-VLB-001,Volleyball,State Junior Championship (demo),2025-10-09,Match,W 3-1,,sets,3,99,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-4,SSA-VLB-001,Volleyball,Inter-Academy Cup (demo),2025-12-17,Match,W 3-0,,sets,1,88,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-5,SSA-VLB-001,Volleyball,Zonal Championship (demo),2025-12-29,Match,W 3-0,,sets,2,95,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-001-6,SSA-VLB-001,Volleyball,National Junior Meet (demo),2026-05-17,Match,W 3-0,,sets,2,93,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-1,SSA-VLB-002,Volleyball,Regional Open (demo),2025-06-10,Match,W 3-2,,sets,2,60,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-2,SSA-VLB-002,Volleyball,District Junior Championship (demo),2025-06-29,Match,L 2-3,,sets,8,64,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-3,SSA-VLB-002,Volleyball,State Junior Championship (demo),2026-01-05,Match,W 3-1,,sets,2,65,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-4,SSA-VLB-002,Volleyball,Inter-Academy Cup (demo),2026-01-18,Match,W 3-1,,sets,2,72,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-5,SSA-VLB-002,Volleyball,Zonal Championship (demo),2026-02-27,Match,W 3-1,,sets,2,69,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-002-6,SSA-VLB-002,Volleyball,National Junior Meet (demo),2026-06-23,Match,L 2-3,,sets,4,70,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-1,SSA-VLB-003,Volleyball,Regional Open (demo),2025-01-03,Match,L 2-3,,sets,4,75,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-2,SSA-VLB-003,Volleyball,District Junior Championship (demo),2025-02-17,Match,L 1-3,,sets,4,78,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-3,SSA-VLB-003,Volleyball,State Junior Championship (demo),2025-05-15,Match,W 3-1,,sets,2,83,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-4,SSA-VLB-003,Volleyball,Inter-Academy Cup (demo),2025-07-23,Match,L 2-3,,sets,6,83,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-5,SSA-VLB-003,Volleyball,Zonal Championship (demo),2025-11-17,Match,L 1-3,,sets,5,73,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-003-6,SSA-VLB-003,Volleyball,National Junior Meet (demo),2026-03-20,Match,W 3-2,,sets,2,79,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-1,SSA-VLB-004,Volleyball,Regional Open (demo),2024-12-14,Match,L 1-3,,sets,4,59,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-2,SSA-VLB-004,Volleyball,District Junior Championship (demo),2025-06-22,Match,L 1-3,,sets,3,56,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-3,SSA-VLB-004,Volleyball,State Junior Championship (demo),2025-09-24,Match,W 3-0,,sets,3,65,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-4,SSA-VLB-004,Volleyball,Inter-Academy Cup (demo),2025-10-13,Match,W 3-0,,sets,1,69,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-5,SSA-VLB-004,Volleyball,Zonal Championship (demo),2026-05-11,Match,L 0-3,,sets,8,56,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-004-6,SSA-VLB-004,Volleyball,National Junior Meet (demo),2026-05-15,Match,L 0-3,,sets,3,60,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-1,SSA-VLB-005,Volleyball,Regional Open (demo),2024-11-29,Match,W 3-1,,sets,1,96,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-2,SSA-VLB-005,Volleyball,District Junior Championship (demo),2025-01-14,Match,W 3-1,,sets,2,96,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-3,SSA-VLB-005,Volleyball,State Junior Championship (demo),2025-05-04,Match,W 3-2,,sets,2,97,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-4,SSA-VLB-005,Volleyball,Inter-Academy Cup (demo),2026-05-22,Match,L 0-3,,sets,4,94,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-5,SSA-VLB-005,Volleyball,Zonal Championship (demo),2026-05-22,Match,W 3-0,,sets,2,95,FIVB,,synthetic-demo,synthetic-demo
+CR-SSA-VLB-005-6,SSA-VLB-005,Volleyball,National Junior Meet (demo),2026-05-29,Match,W 3-1,,sets,3,97,FIVB,,synthetic-demo,synthetic-demo

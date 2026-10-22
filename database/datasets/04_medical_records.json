@@ -1,0 +1,212 @@
+[
+ {
+  "athleteId": "SSA-ATH-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "examinationDate": "2026-10-14",
+  "clearanceStatus": "Pending",
+  "restrictions": "Awaiting examination",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "examinationDate": "2026-10-12",
+  "clearanceStatus": "Under Review",
+  "restrictions": "Light training only until review",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "examinationDate": "2026-10-14",
+  "clearanceStatus": "Pending",
+  "restrictions": "Awaiting examination",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "examinationDate": "2026-10-12",
+  "clearanceStatus": "Under Review",
+  "restrictions": "Light training only until review",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "examinationDate": "2026-10-14",
+  "clearanceStatus": "Pending",
+  "restrictions": "Awaiting examination",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "examinationDate": "2026-05-21",
+  "clearanceStatus": "Cleared",
+  "restrictions": "None",
+  "dataOrigin": "synthetic-demo"
+ }
+]

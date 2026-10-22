@@ -1,0 +1,2162 @@
+[
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "30 m Sprint",
+  "result": 5.38,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 61,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Vertical Jump",
+  "result": 44,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 54,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Yo-Yo IR1",
+  "result": 16.2,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 52,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Plank Hold",
+  "result": 148,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 49,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "30 m Sprint",
+  "result": 5.48,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Vertical Jump",
+  "result": 46,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Yo-Yo IR1",
+  "result": 16.5,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "testName": "Plank Hold",
+  "result": 175,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Vertical Jump",
+  "result": 52,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 77,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Plank Hold",
+  "result": 193,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "30 m Sprint",
+  "result": 5.3,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 65,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Yo-Yo IR1",
+  "result": 17.8,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 73,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "testName": "Plank Hold",
+  "result": 195,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 75,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Yo-Yo IR1",
+  "result": 17.3,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Plank Hold",
+  "result": 164,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "30 m Sprint",
+  "result": 5.24,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 68,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Yo-Yo IR1",
+  "result": 17.7,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "testName": "Plank Hold",
+  "result": 170,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 61,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "30 m Sprint",
+  "result": 5.12,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Vertical Jump",
+  "result": 51,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.5,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Plank Hold",
+  "result": 181,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 67,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "30 m Sprint",
+  "result": 4.96,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 82,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.4,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "testName": "Plank Hold",
+  "result": 211,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "30 m Sprint",
+  "result": 5.02,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Vertical Jump",
+  "result": 55,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Yo-Yo IR1",
+  "result": 19,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Plank Hold",
+  "result": 218,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 88,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "30 m Sprint",
+  "result": 4.88,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Vertical Jump",
+  "result": 53,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Yo-Yo IR1",
+  "result": 19.4,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 92,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "testName": "Plank Hold",
+  "result": 215,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "30 m Sprint",
+  "result": 5.42,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 59,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Vertical Jump",
+  "result": 47,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 16.6,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Plank Hold",
+  "result": 164,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Vertical Jump",
+  "result": 47,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 17.1,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "testName": "Plank Hold",
+  "result": 170,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 61,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "30 m Sprint",
+  "result": 5.38,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 61,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Vertical Jump",
+  "result": 49,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 69,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 16.5,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Plank Hold",
+  "result": 186,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "30 m Sprint",
+  "result": 5.42,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 59,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Vertical Jump",
+  "result": 49,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 68,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "testName": "Plank Hold",
+  "result": 184,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 69,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "30 m Sprint",
+  "result": 4.98,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Vertical Jump",
+  "result": 51,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 73,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 18.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Plank Hold",
+  "result": 200,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 78,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "30 m Sprint",
+  "result": 5.12,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Vertical Jump",
+  "result": 55,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 18.9,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "testName": "Plank Hold",
+  "result": 193,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "30 m Sprint",
+  "result": 5.1,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 75,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Vertical Jump",
+  "result": 47,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 17.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 67,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Plank Hold",
+  "result": 175,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "30 m Sprint",
+  "result": 5.28,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Vertical Jump",
+  "result": 48,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.1,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "testName": "Plank Hold",
+  "result": 188,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "30 m Sprint",
+  "result": 5.54,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 53,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Vertical Jump",
+  "result": 46,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Plank Hold",
+  "result": 164,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "30 m Sprint",
+  "result": 5.18,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Vertical Jump",
+  "result": 46,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 59,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 17.2,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 65,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "testName": "Plank Hold",
+  "result": 170,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 61,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "30 m Sprint",
+  "result": 5.14,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 73,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Vertical Jump",
+  "result": 52,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Yo-Yo IR1",
+  "result": 18.5,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Plank Hold",
+  "result": 197,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "30 m Sprint",
+  "result": 5.18,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Yo-Yo IR1",
+  "result": 18.8,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "testName": "Plank Hold",
+  "result": 215,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "30 m Sprint",
+  "result": 5.16,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 72,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Yo-Yo IR1",
+  "result": 18.5,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Plank Hold",
+  "result": 200,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 78,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "30 m Sprint",
+  "result": 5.12,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 74,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Yo-Yo IR1",
+  "result": 18.7,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "testName": "Plank Hold",
+  "result": 211,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "30 m Sprint",
+  "result": 5.02,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Vertical Jump",
+  "result": 53,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Yo-Yo IR1",
+  "result": 19.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 92,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Plank Hold",
+  "result": 222,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 90,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "30 m Sprint",
+  "result": 4.9,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Vertical Jump",
+  "result": 59,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 96,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Yo-Yo IR1",
+  "result": 18.5,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "testName": "Plank Hold",
+  "result": 217,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "30 m Sprint",
+  "result": 5.06,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 77,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.8,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Plank Hold",
+  "result": 202,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "30 m Sprint",
+  "result": 4.96,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 82,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Vertical Jump",
+  "result": 51,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 73,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Yo-Yo IR1",
+  "result": 19.1,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "testName": "Plank Hold",
+  "result": 215,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "30 m Sprint",
+  "result": 4.9,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Vertical Jump",
+  "result": 53,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Yo-Yo IR1",
+  "result": 18.9,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Plank Hold",
+  "result": 188,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "30 m Sprint",
+  "result": 4.88,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Vertical Jump",
+  "result": 53,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Yo-Yo IR1",
+  "result": 19.1,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "testName": "Plank Hold",
+  "result": 204,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "30 m Sprint",
+  "result": 5.4,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Vertical Jump",
+  "result": 48,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Yo-Yo IR1",
+  "result": 17.1,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Plank Hold",
+  "result": 163,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 57,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "30 m Sprint",
+  "result": 5.4,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Vertical Jump",
+  "result": 45,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Yo-Yo IR1",
+  "result": 16.6,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "testName": "Plank Hold",
+  "result": 186,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "30 m Sprint",
+  "result": 4.84,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 88,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Vertical Jump",
+  "result": 55,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Yo-Yo IR1",
+  "result": 19.1,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Plank Hold",
+  "result": 204,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "30 m Sprint",
+  "result": 4.88,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Vertical Jump",
+  "result": 56,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Yo-Yo IR1",
+  "result": 19.6,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 95,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "testName": "Plank Hold",
+  "result": 213,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "30 m Sprint",
+  "result": 5.58,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 51,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Vertical Jump",
+  "result": 44,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 55,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Yo-Yo IR1",
+  "result": 16.2,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 53,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Plank Hold",
+  "result": 168,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "30 m Sprint",
+  "result": 5.48,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Vertical Jump",
+  "result": 45,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "testName": "Plank Hold",
+  "result": 157,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 54,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "30 m Sprint",
+  "result": 4.74,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Vertical Jump",
+  "result": 55,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Yo-Yo IR1",
+  "result": 19.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Plank Hold",
+  "result": 226,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 92,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "30 m Sprint",
+  "result": 4.66,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 97,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Vertical Jump",
+  "result": 54,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.5,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "testName": "Plank Hold",
+  "result": 217,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Vertical Jump",
+  "result": 45,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Yo-Yo IR1",
+  "result": 16.6,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Plank Hold",
+  "result": 163,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 57,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "30 m Sprint",
+  "result": 5.46,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 57,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Vertical Jump",
+  "result": 47,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 62,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Yo-Yo IR1",
+  "result": 17.6,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "testName": "Plank Hold",
+  "result": 161,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Vertical Jump",
+  "result": 45,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 56,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 62,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Plank Hold",
+  "result": 155,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 53,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "30 m Sprint",
+  "result": 5.52,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 54,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Vertical Jump",
+  "result": 47,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 17.2,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 65,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "testName": "Plank Hold",
+  "result": 155,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 53,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "30 m Sprint",
+  "result": 5.08,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Vertical Jump",
+  "result": 57,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 90,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 18.9,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Plank Hold",
+  "result": 200,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 78,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "30 m Sprint",
+  "result": 4.82,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Vertical Jump",
+  "result": 58,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 94,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 19.4,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "testName": "Plank Hold",
+  "result": 227,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "30 m Sprint",
+  "result": 4.92,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 18,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 75,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Plank Hold",
+  "result": 197,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "30 m Sprint",
+  "result": 4.94,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Vertical Jump",
+  "result": 56,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 89,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 18.2,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 77,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "testName": "Plank Hold",
+  "result": 204,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "30 m Sprint",
+  "result": 5.16,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 72,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Vertical Jump",
+  "result": 52,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 78,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 17.6,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Plank Hold",
+  "result": 184,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 69,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "30 m Sprint",
+  "result": 5,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 72,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 18.6,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 82,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "testName": "Plank Hold",
+  "result": 195,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 75,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "30 m Sprint",
+  "result": 4.84,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 88,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Vertical Jump",
+  "result": 52,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 78,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 18.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 80,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Plank Hold",
+  "result": 226,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 92,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "30 m Sprint",
+  "result": 4.96,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 82,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Vertical Jump",
+  "result": 58,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 18.9,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 86,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "testName": "Plank Hold",
+  "result": 233,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 96,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "30 m Sprint",
+  "result": 4.68,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 96,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Vertical Jump",
+  "result": 57,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 90,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 19.7,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 96,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Plank Hold",
+  "result": 213,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "30 m Sprint",
+  "result": 4.9,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 85,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Vertical Jump",
+  "result": 60,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 99,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Yo-Yo IR1",
+  "result": 19.2,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 90,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "testName": "Plank Hold",
+  "result": 217,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "30 m Sprint",
+  "result": 5.36,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 62,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Vertical Jump",
+  "result": 46,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 60,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 17.4,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 68,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Plank Hold",
+  "result": 184,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 69,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "30 m Sprint",
+  "result": 5.32,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Vertical Jump",
+  "result": 50,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 72,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "testName": "Plank Hold",
+  "result": 179,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "30 m Sprint",
+  "result": 5.2,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 70,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Vertical Jump",
+  "result": 52,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 17.8,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 73,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Plank Hold",
+  "result": 209,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 83,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "30 m Sprint",
+  "result": 5.16,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 72,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Vertical Jump",
+  "result": 51,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 75,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Yo-Yo IR1",
+  "result": 17.7,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 71,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "testName": "Plank Hold",
+  "result": 202,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 79,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "30 m Sprint",
+  "result": 5.28,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 66,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Vertical Jump",
+  "result": 44,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 53,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 17,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 63,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Plank Hold",
+  "result": 172,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 62,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "30 m Sprint",
+  "result": 5.44,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Vertical Jump",
+  "result": 44,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 55,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Yo-Yo IR1",
+  "result": 17.1,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 64,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "testName": "Plank Hold",
+  "result": 164,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 58,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "30 m Sprint",
+  "result": 4.98,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 81,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Vertical Jump",
+  "result": 56,
+  "unit": "cm",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 88,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 19,
+  "unit": "level",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 87,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Plank Hold",
+  "result": 229,
+  "unit": "s",
+  "assessmentDate": "2026-06-20",
+  "normalizedScore": 94,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "30 m Sprint",
+  "result": 4.74,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 93,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Vertical Jump",
+  "result": 59,
+  "unit": "cm",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 98,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Yo-Yo IR1",
+  "result": 19.8,
+  "unit": "level",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 97,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "testName": "Plank Hold",
+  "result": 211,
+  "unit": "s",
+  "assessmentDate": "2026-09-28",
+  "normalizedScore": 84,
+  "dataOrigin": "synthetic-demo"
+ }
+]

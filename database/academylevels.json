@@ -1,0 +1,151 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "order": 1,
+  "name": "Academy Level 1",
+  "description": "Entry level - foundation skills and conditioning",
+  "minOverall": 0,
+  "minCategory": 0,
+  "minSessions": 0,
+  "minAttendance": 0,
+  "requiresMedical": true,
+  "criteria": [
+   "Registration completed",
+   "Medical verification completed",
+   "Baseline fitness assessment recorded"
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "order": 2,
+  "name": "Academy Level 2",
+  "description": "Structured technical development",
+  "minOverall": 65,
+  "minCategory": 55,
+  "minSessions": 6,
+  "minAttendance": 70,
+  "requiresMedical": true,
+  "criteria": [
+   "Overall development score of 65+",
+   "No category below 55",
+   "Minimum 70% attendance",
+   "Medical clearance valid"
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "order": 3,
+  "name": "District Camp",
+  "description": "District-level competitive exposure",
+  "minOverall": 70,
+  "minCategory": 60,
+  "minSessions": 8,
+  "minAttendance": 75,
+  "requiresMedical": true,
+  "criteria": [
+   "Overall development score of 70+",
+   "No category below 60",
+   "At least one tournament result",
+   "Coach recommendation"
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "order": 4,
+  "name": "State Camp",
+  "description": "State-level preparation camp",
+  "minOverall": 75,
+  "minCategory": 65,
+  "minSessions": 10,
+  "minAttendance": 75,
+  "requiresMedical": true,
+  "criteria": [
+   "Overall development score of 75+",
+   "No category below 65",
+   "Consistent skill assessments",
+   "Coach recommendation and committee review"
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "order": 5,
+  "name": "Elite Camp",
+  "description": "High-performance elite training",
+  "minOverall": 80,
+  "minCategory": 68,
+  "minSessions": 12,
+  "minAttendance": 80,
+  "requiresMedical": true,
+  "criteria": [
+   "Overall development score of 80+",
+   "No category below 68",
+   "80% attendance",
+   "Evidence videos reviewed by committee"
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "order": 6,
+  "name": "State Team",
+  "description": "Represents the state in national competitions",
+  "minOverall": 85,
+  "minCategory": 70,
+  "minSessions": 12,
+  "minAttendance": 80,
+  "requiresMedical": true,
+  "criteria": [
+   "Overall development score of 85+",
+   "No category below 70",
+   "Clean medical clearance",
+   "Final selection committee approval"
+  ]
+ }
+]

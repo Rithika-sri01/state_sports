@@ -1,0 +1,6 @@
+athleteId,matches,wins,losses,tournamentResults,ranking,dataOrigin
+SSA-BDM-001,32,22,10,Runner-up,52,synthetic-demo
+SSA-BDM-002,31,21,10,Runner-up,283,synthetic-demo
+SSA-BDM-003,22,16,6,Winner,140,synthetic-demo
+SSA-BDM-004,25,17,8,Runner-up,32,synthetic-demo
+SSA-BDM-005,30,21,9,Runner-up,143,synthetic-demo

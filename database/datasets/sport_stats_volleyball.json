@@ -1,0 +1,52 @@
+[
+ {
+  "athleteId": "SSA-VLB-001",
+  "playerPosition": "Setter",
+  "matches": 19,
+  "sets": 76,
+  "attacks": 247,
+  "blocks": 38,
+  "serves": 76,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "playerPosition": "Outside Hitter",
+  "matches": 28,
+  "sets": 112,
+  "attacks": 588,
+  "blocks": 28,
+  "serves": 224,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "playerPosition": "Middle Blocker",
+  "matches": 29,
+  "sets": 116,
+  "attacks": 319,
+  "blocks": 58,
+  "serves": 232,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "playerPosition": "Opposite",
+  "matches": 17,
+  "sets": 51,
+  "attacks": 408,
+  "blocks": 51,
+  "serves": 102,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "playerPosition": "Libero",
+  "matches": 18,
+  "sets": 54,
+  "attacks": 144,
+  "blocks": 36,
+  "serves": 36,
+  "dataOrigin": "synthetic-demo"
+ }
+]

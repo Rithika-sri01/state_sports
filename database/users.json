@@ -1,0 +1,682 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e997"
+  },
+  "name": "Dr. Meenakshi Sundaram",
+  "email": "admin@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "admin",
+  "active": true,
+  "phone": "+91 9100295837"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "name": "Dr. Priya Raghavan",
+  "email": "medical@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "medical",
+  "active": true,
+  "phone": "+91 9572128391"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e999"
+  },
+  "name": "Selection Committee - Chair",
+  "email": "committee@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "committee",
+  "active": true,
+  "phone": "+91 9761881178"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e99a"
+  },
+  "name": "Selection Committee - Member",
+  "email": "committee2@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "committee",
+  "active": true,
+  "phone": "+91 9336974986"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  },
+  "name": "Ravi Chandran",
+  "email": "coach.athletics@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9438601574"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  },
+  "name": "Senthil Nathan",
+  "email": "coach.football@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9978286492"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  },
+  "name": "Anitha Rajan",
+  "email": "coach.badminton@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9577404140"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  },
+  "name": "Muthu Kumaran",
+  "email": "coach.cricket@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9196378529"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  },
+  "name": "Lakshmi Narayanan",
+  "email": "coach.basketball@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9910490082"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  },
+  "name": "Karthik Subbiah",
+  "email": "coach.volleyball@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "coach",
+  "active": true,
+  "phone": "+91 9320849804"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a7"
+  },
+  "name": "Arjun Karthik",
+  "email": "athlete01@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9269446718"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a9"
+  },
+  "name": "Divya Lakshmi",
+  "email": "athlete02@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9505004470"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ab"
+  },
+  "name": "Harish Kumar",
+  "email": "athlete03@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9416563149"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ad"
+  },
+  "name": "Meena Priya",
+  "email": "athlete04@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9490357077"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9af"
+  },
+  "name": "Surya Prakash",
+  "email": "athlete05@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9187715043"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b1"
+  },
+  "name": "Kavya Shree",
+  "email": "athlete06@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9699799107"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b3"
+  },
+  "name": "Naveen Raj",
+  "email": "athlete07@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9578102972"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b5"
+  },
+  "name": "Aishwarya Devi",
+  "email": "athlete08@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9502203995"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b7"
+  },
+  "name": "Vignesh Murugan",
+  "email": "athlete09@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9839434725"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b9"
+  },
+  "name": "Sandhya Rani",
+  "email": "athlete10@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9283795800"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bb"
+  },
+  "name": "Praveen Kumar",
+  "email": "athlete11@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9753170129"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bd"
+  },
+  "name": "Janani Selvam",
+  "email": "athlete12@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9756159244"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bf"
+  },
+  "name": "Gokul Krishnan",
+  "email": "athlete13@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9884163211"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c1"
+  },
+  "name": "Harini Balaji",
+  "email": "athlete14@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9136388921"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c3"
+  },
+  "name": "Dinesh Babu",
+  "email": "athlete15@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9673561223"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c5"
+  },
+  "name": "Nandhini Ravi",
+  "email": "athlete16@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9533461323"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c7"
+  },
+  "name": "Santhosh Kumar",
+  "email": "athlete17@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9582051423"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c9"
+  },
+  "name": "Ramya Subramani",
+  "email": "athlete18@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9654127497"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cb"
+  },
+  "name": "Yuvaraj Sekar",
+  "email": "athlete19@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9532706209"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cd"
+  },
+  "name": "Pavithra Anand",
+  "email": "athlete20@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9497815411"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cf"
+  },
+  "name": "Tharun Vel",
+  "email": "athlete21@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9865492471"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d1"
+  },
+  "name": "Keerthana Mohan",
+  "email": "athlete22@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9544018621"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d3"
+  },
+  "name": "Mohammed Imran",
+  "email": "athlete23@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9433457047"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d5"
+  },
+  "name": "Deepika Suresh",
+  "email": "athlete24@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9811795399"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d7"
+  },
+  "name": "Lokesh Waran",
+  "email": "athlete25@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9884256235"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d9"
+  },
+  "name": "Rohit Anand",
+  "email": "athlete26@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9641396145"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9db"
+  },
+  "name": "Swetha Narayanan",
+  "email": "athlete27@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9229719540"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dd"
+  },
+  "name": "Bharath Kannan",
+  "email": "athlete28@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9234094568"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9df"
+  },
+  "name": "Monica Joseph",
+  "email": "athlete29@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9696011814"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e1"
+  },
+  "name": "Aravind Pandian",
+  "email": "athlete30@academy.in",
+  "password": "$2a$10$NLC.iS2s6SZkq5eDG2/1x.FfCLc0qSU3GnunS1BR7ybbPAk8bJa3y",
+  "role": "athlete",
+  "active": true,
+  "phone": "+91 9864058537"
+ }
+]

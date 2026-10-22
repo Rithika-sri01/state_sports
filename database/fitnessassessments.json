@@ -1,0 +1,4376 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea79"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 53,
+  "endurance": 51,
+  "strength": 49,
+  "agility": 50,
+  "flexibility": 51,
+  "score": 51,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.54,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 148,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 43,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 54,
+  "endurance": 55,
+  "strength": 54,
+  "agility": 53,
+  "flexibility": 50,
+  "score": 53,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.52,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 157,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 44,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 60,
+  "endurance": 55,
+  "strength": 61,
+  "agility": 57,
+  "flexibility": 57,
+  "score": 58,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.4,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 170,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea81"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 42,
+  "endurance": 51,
+  "strength": 49,
+  "agility": 52,
+  "flexibility": 51,
+  "score": 49,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.76,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 148,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 43,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea82"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 51,
+  "endurance": 54,
+  "strength": 48,
+  "agility": 45,
+  "flexibility": 49,
+  "score": 49,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.58,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.3,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 146,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 41,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea83"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 51,
+  "endurance": 49,
+  "strength": 58,
+  "agility": 49,
+  "flexibility": 50,
+  "score": 51,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.58,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 15.9,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 164,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 42,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea89"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 68,
+  "endurance": 62,
+  "strength": 70,
+  "agility": 68,
+  "flexibility": 63,
+  "score": 66,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.24,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 186,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 27,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 72,
+  "endurance": 75,
+  "strength": 71,
+  "agility": 66,
+  "flexibility": 71,
+  "score": 71,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.16,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 188,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 48,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 73,
+  "endurance": 71,
+  "strength": 67,
+  "agility": 70,
+  "flexibility": 70,
+  "score": 70,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.14,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 181,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 50,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea92"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 64,
+  "endurance": 64,
+  "strength": 56,
+  "agility": 56,
+  "flexibility": 56,
+  "score": 59,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.32,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 161,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea93"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 68,
+  "endurance": 69,
+  "strength": 68,
+  "agility": 59,
+  "flexibility": 69,
+  "score": 67,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.24,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 182,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 46,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea94"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 70,
+  "endurance": 70,
+  "strength": 62,
+  "agility": 62,
+  "flexibility": 70,
+  "score": 67,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.2,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 172,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 57,
+  "endurance": 64,
+  "strength": 62,
+  "agility": 55,
+  "flexibility": 61,
+  "score": 60,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.46,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 172,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 44,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 26,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 62,
+  "endurance": 65,
+  "strength": 65,
+  "agility": 58,
+  "flexibility": 67,
+  "score": 63,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.36,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 177,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 63,
+  "endurance": 64,
+  "strength": 62,
+  "agility": 68,
+  "flexibility": 71,
+  "score": 66,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.34,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 172,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 78,
+  "endurance": 75,
+  "strength": 73,
+  "agility": 70,
+  "flexibility": 74,
+  "score": 74,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.04,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 191,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 50,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 30,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 71,
+  "endurance": 69,
+  "strength": 80,
+  "agility": 75,
+  "flexibility": 73,
+  "score": 74,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.18,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 204,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 30,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 80,
+  "endurance": 75,
+  "strength": 74,
+  "agility": 73,
+  "flexibility": 81,
+  "score": 77,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 193,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaab"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 64,
+  "endurance": 73,
+  "strength": 68,
+  "agility": 76,
+  "flexibility": 74,
+  "score": 71,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.32,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.8,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 182,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 30,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaac"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 72,
+  "endurance": 75,
+  "strength": 79,
+  "agility": 71,
+  "flexibility": 69,
+  "score": 73,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.16,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 202,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 50,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaad"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 73,
+  "endurance": 81,
+  "strength": 73,
+  "agility": 73,
+  "flexibility": 76,
+  "score": 75,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.14,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 191,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 31,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 82,
+  "endurance": 85,
+  "strength": 91,
+  "agility": 88,
+  "flexibility": 80,
+  "score": 85,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.96,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.8,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 224,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 56,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 89,
+  "endurance": 87,
+  "strength": 90,
+  "agility": 93,
+  "flexibility": 83,
+  "score": 88,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.82,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 222,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 58,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 93,
+  "endurance": 96,
+  "strength": 96,
+  "agility": 96,
+  "flexibility": 88,
+  "score": 94,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.74,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 233,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 59,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 34,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eabd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 63,
+  "endurance": 61,
+  "strength": 63,
+  "agility": 63,
+  "flexibility": 54,
+  "score": 61,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.34,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.9,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 173,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 24,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eabe"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 56,
+  "endurance": 60,
+  "strength": 58,
+  "agility": 58,
+  "flexibility": 56,
+  "score": 58,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.48,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.8,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 164,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eabf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 67,
+  "endurance": 69,
+  "strength": 60,
+  "agility": 67,
+  "flexibility": 65,
+  "score": 66,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.26,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 168,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 48,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 68,
+  "endurance": 69,
+  "strength": 61,
+  "agility": 63,
+  "flexibility": 60,
+  "score": 64,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.24,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 170,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 26,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 66,
+  "endurance": 66,
+  "strength": 71,
+  "agility": 61,
+  "flexibility": 62,
+  "score": 65,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.28,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.3,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 188,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 46,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 27,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 71,
+  "endurance": 68,
+  "strength": 72,
+  "agility": 64,
+  "flexibility": 67,
+  "score": 68,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.18,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 190,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eace"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 81,
+  "endurance": 86,
+  "strength": 83,
+  "agility": 87,
+  "flexibility": 82,
+  "score": 84,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.98,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.9,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 209,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 55,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eacf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 83,
+  "endurance": 89,
+  "strength": 88,
+  "agility": 82,
+  "flexibility": 82,
+  "score": 85,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.94,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 218,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 88,
+  "endurance": 83,
+  "strength": 91,
+  "agility": 90,
+  "flexibility": 86,
+  "score": 88,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.84,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 224,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 57,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 34,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 91,
+  "endurance": 89,
+  "strength": 80,
+  "agility": 91,
+  "flexibility": 86,
+  "score": 87,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.78,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 204,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 57,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 34,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 83,
+  "endurance": 91,
+  "strength": 93,
+  "agility": 90,
+  "flexibility": 89,
+  "score": 89,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.94,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.3,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 227,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 57,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 35,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 86,
+  "endurance": 90,
+  "strength": 91,
+  "agility": 89,
+  "flexibility": 95,
+  "score": 90,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.88,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 224,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 56,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 37,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 70,
+  "endurance": 67,
+  "strength": 63,
+  "agility": 60,
+  "flexibility": 68,
+  "score": 66,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.2,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 173,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 46,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 68,
+  "endurance": 67,
+  "strength": 70,
+  "agility": 64,
+  "flexibility": 70,
+  "score": 68,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.24,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 186,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 75,
+  "endurance": 68,
+  "strength": 68,
+  "agility": 76,
+  "flexibility": 71,
+  "score": 72,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.1,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 182,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 71,
+  "endurance": 70,
+  "strength": 70,
+  "agility": 70,
+  "flexibility": 75,
+  "score": 71,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.18,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 186,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 50,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 31,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 73,
+  "endurance": 78,
+  "strength": 78,
+  "agility": 74,
+  "flexibility": 69,
+  "score": 74,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.14,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 200,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaea"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 71,
+  "endurance": 77,
+  "strength": 73,
+  "agility": 77,
+  "flexibility": 79,
+  "score": 75,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.18,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 191,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 76,
+  "endurance": 77,
+  "strength": 87,
+  "agility": 82,
+  "flexibility": 77,
+  "score": 80,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.08,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 217,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 31,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 88,
+  "endurance": 91,
+  "strength": 82,
+  "agility": 80,
+  "flexibility": 80,
+  "score": 84,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.84,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.3,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 208,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 53,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 84,
+  "endurance": 83,
+  "strength": 92,
+  "agility": 85,
+  "flexibility": 93,
+  "score": 87,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.92,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 226,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 55,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 36,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eafa"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 44,
+  "endurance": 44,
+  "strength": 53,
+  "agility": 53,
+  "flexibility": 47,
+  "score": 48,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.72,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 15.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 155,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 44,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 22,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eafb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 50,
+  "endurance": 53,
+  "strength": 57,
+  "agility": 48,
+  "flexibility": 55,
+  "score": 53,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.6,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 163,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 42,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eafc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 53,
+  "endurance": 56,
+  "strength": 59,
+  "agility": 57,
+  "flexibility": 54,
+  "score": 56,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.54,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 166,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 24,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb02"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 56,
+  "endurance": 62,
+  "strength": 60,
+  "agility": 57,
+  "flexibility": 57,
+  "score": 58,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.48,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 168,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb03"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 70,
+  "endurance": 69,
+  "strength": 67,
+  "agility": 69,
+  "flexibility": 69,
+  "score": 69,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.2,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 181,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb04"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 73,
+  "endurance": 65,
+  "strength": 67,
+  "agility": 73,
+  "flexibility": 68,
+  "score": 69,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.14,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 181,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 83,
+  "endurance": 75,
+  "strength": 83,
+  "agility": 82,
+  "flexibility": 81,
+  "score": 81,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.94,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 209,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 81,
+  "endurance": 81,
+  "strength": 85,
+  "agility": 77,
+  "flexibility": 83,
+  "score": 81,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.98,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 213,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 88,
+  "endurance": 80,
+  "strength": 84,
+  "agility": 85,
+  "flexibility": 86,
+  "score": 85,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.84,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 211,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 55,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 34,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb13"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 66,
+  "endurance": 76,
+  "strength": 70,
+  "agility": 65,
+  "flexibility": 74,
+  "score": 70,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.28,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 186,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 48,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 30,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb14"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 73,
+  "endurance": 68,
+  "strength": 73,
+  "agility": 68,
+  "flexibility": 68,
+  "score": 70,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.14,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 191,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb15"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 79,
+  "endurance": 79,
+  "strength": 82,
+  "agility": 81,
+  "flexibility": 77,
+  "score": 80,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.02,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.3,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 208,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 53,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 31,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb1c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 82,
+  "endurance": 81,
+  "strength": 81,
+  "agility": 80,
+  "flexibility": 85,
+  "score": 82,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.96,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 206,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 53,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 34,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb1d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 87,
+  "endurance": 89,
+  "strength": 79,
+  "agility": 84,
+  "flexibility": 80,
+  "score": 84,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.86,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 202,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb1e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 83,
+  "endurance": 84,
+  "strength": 91,
+  "agility": 81,
+  "flexibility": 80,
+  "score": 84,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.94,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 224,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 53,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb25"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 61,
+  "endurance": 59,
+  "strength": 68,
+  "agility": 68,
+  "flexibility": 67,
+  "score": 65,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.38,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 182,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb26"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 65,
+  "endurance": 68,
+  "strength": 63,
+  "agility": 62,
+  "flexibility": 64,
+  "score": 64,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.3,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 173,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 27,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb27"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 74,
+  "endurance": 64,
+  "strength": 74,
+  "agility": 74,
+  "flexibility": 64,
+  "score": 70,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.12,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.1,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 193,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 27,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb2d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 78,
+  "endurance": 77,
+  "strength": 80,
+  "agility": 76,
+  "flexibility": 69,
+  "score": 76,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.04,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 204,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 29,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb2e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 75,
+  "endurance": 77,
+  "strength": 77,
+  "agility": 75,
+  "flexibility": 82,
+  "score": 77,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.1,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.2,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 199,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb2f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 76,
+  "endurance": 81,
+  "strength": 84,
+  "agility": 77,
+  "flexibility": 74,
+  "score": 78,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.08,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 211,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 52,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 30,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99b"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb36"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 66,
+  "endurance": 57,
+  "strength": 64,
+  "agility": 57,
+  "flexibility": 62,
+  "score": 61,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.28,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 175,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 27,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb37"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 68,
+  "endurance": 68,
+  "strength": 69,
+  "agility": 68,
+  "flexibility": 68,
+  "score": 68,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.24,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 184,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 49,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb38"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 63,
+  "endurance": 68,
+  "strength": 72,
+  "agility": 64,
+  "flexibility": 65,
+  "score": 66,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.34,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 190,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 47,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99d"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb3e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 79,
+  "endurance": 85,
+  "strength": 84,
+  "agility": 87,
+  "flexibility": 81,
+  "score": 83,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.02,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.8,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 211,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 55,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb3f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 89,
+  "endurance": 84,
+  "strength": 83,
+  "agility": 82,
+  "flexibility": 80,
+  "score": 84,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.82,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 209,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb40"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 87,
+  "endurance": 83,
+  "strength": 95,
+  "agility": 86,
+  "flexibility": 91,
+  "score": 88,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.86,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 18.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 231,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 55,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 35,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e99f"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb47"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 64,
+  "endurance": 63,
+  "strength": 63,
+  "agility": 65,
+  "flexibility": 65,
+  "score": 64,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.32,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 173,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 48,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb48"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 69,
+  "endurance": 74,
+  "strength": 73,
+  "agility": 66,
+  "flexibility": 66,
+  "score": 70,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.22,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.9,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 191,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 48,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 28,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb49"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 78,
+  "endurance": 71,
+  "strength": 70,
+  "agility": 74,
+  "flexibility": 80,
+  "score": 75,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.04,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 17.7,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 186,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 51,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 32,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a1"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb50"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 88,
+  "endurance": 92,
+  "strength": 92,
+  "agility": 83,
+  "flexibility": 83,
+  "score": 88,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.84,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 226,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 54,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 33,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb51"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 89,
+  "endurance": 92,
+  "strength": 94,
+  "agility": 97,
+  "flexibility": 97,
+  "score": 94,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.82,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.4,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 229,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 59,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 37,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb52"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 93,
+  "endurance": 95,
+  "strength": 95,
+  "agility": 98,
+  "flexibility": 96,
+  "score": 95,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 4.74,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 19.6,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 231,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 59,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 37,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a3"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb59"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "date": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  },
+  "speed": 48,
+  "endurance": 44,
+  "strength": 47,
+  "agility": 48,
+  "flexibility": 55,
+  "score": 48,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.64,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 15.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 145,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 42,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 25,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "speed": 52,
+  "endurance": 50,
+  "strength": 47,
+  "agility": 48,
+  "flexibility": 50,
+  "score": 49,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.56,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 145,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 42,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 23,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "date": {
+   "$date": "2026-10-08T11:42:05.039Z"
+  },
+  "speed": 50,
+  "endurance": 56,
+  "strength": 61,
+  "agility": 57,
+  "flexibility": 60,
+  "score": 57,
+  "tests": [
+   {
+    "name": "30 m Sprint",
+    "result": 5.6,
+    "unit": "s"
+   },
+   {
+    "name": "Yo-Yo IR1",
+    "result": 16.5,
+    "unit": "level"
+   },
+   {
+    "name": "Plank Hold",
+    "result": 170,
+    "unit": "s"
+   },
+   {
+    "name": "Vertical Jump",
+    "result": 45,
+    "unit": "cm"
+   },
+   {
+    "name": "Sit & Reach",
+    "result": 26,
+    "unit": "cm"
+   }
+  ],
+  "remarks": "Periodic fitness test",
+  "assessor": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a5"
+  }
+ }
+]

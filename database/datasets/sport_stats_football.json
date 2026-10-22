@@ -1,0 +1,47 @@
+[
+ {
+  "athleteId": "SSA-FTB-001",
+  "playerPosition": "Goalkeeper",
+  "matches": 29,
+  "goals": 0,
+  "assists": 3,
+  "minutesPlayed": 1856,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "playerPosition": "Defender",
+  "matches": 26,
+  "goals": 1,
+  "assists": 3,
+  "minutesPlayed": 1690,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "playerPosition": "Midfielder",
+  "matches": 11,
+  "goals": 2,
+  "assists": 3,
+  "minutesPlayed": 924,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "playerPosition": "Forward",
+  "matches": 25,
+  "goals": 11,
+  "assists": 3,
+  "minutesPlayed": 1525,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "playerPosition": "Goalkeeper",
+  "matches": 16,
+  "goals": 0,
+  "assists": 2,
+  "minutesPlayed": 944,
+  "dataOrigin": "synthetic-demo"
+ }
+]

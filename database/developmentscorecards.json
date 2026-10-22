@@ -1,0 +1,7009 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb61"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-05-21",
+  "fitness": 48,
+  "training": 51,
+  "skill": 42,
+  "tournament": 53,
+  "discipline": 61,
+  "overall": 49.7,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb62"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-06-20",
+  "fitness": 50,
+  "training": 54,
+  "skill": 45,
+  "tournament": 55,
+  "discipline": 63,
+  "overall": 52.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb63"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-07-20",
+  "fitness": 52,
+  "training": 57,
+  "skill": 48,
+  "tournament": 57,
+  "discipline": 65,
+  "overall": 54.5,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb64"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-08-19",
+  "fitness": 54,
+  "training": 60,
+  "skill": 51,
+  "tournament": 59,
+  "discipline": 67,
+  "overall": 56.9,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb65"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-09-18",
+  "fitness": 56,
+  "training": 63,
+  "skill": 54,
+  "tournament": 61,
+  "discipline": 69,
+  "overall": 59.3,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb66"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-10-18",
+  "fitness": 58,
+  "training": 66,
+  "skill": 57,
+  "tournament": 63,
+  "discipline": 71,
+  "overall": 61.7,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 65",
+    "pass": false,
+    "detail": "Current 61.7"
+   },
+   {
+    "label": "Every category ≥ 55",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 6",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 70%",
+    "pass": true,
+    "detail": "71%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb67"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-05-21",
+  "fitness": 41,
+  "training": 56,
+  "skill": 57,
+  "tournament": 46,
+  "discipline": 66,
+  "overall": 52.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb68"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-06-20",
+  "fitness": 43,
+  "training": 58,
+  "skill": 58,
+  "tournament": 49,
+  "discipline": 70,
+  "overall": 54.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb69"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-07-20",
+  "fitness": 45,
+  "training": 60,
+  "skill": 59,
+  "tournament": 52,
+  "discipline": 74,
+  "overall": 56.5,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-08-19",
+  "fitness": 47,
+  "training": 62,
+  "skill": 60,
+  "tournament": 55,
+  "discipline": 78,
+  "overall": 58.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-09-18",
+  "fitness": 49,
+  "training": 64,
+  "skill": 61,
+  "tournament": 58,
+  "discipline": 82,
+  "overall": 60.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-10-18",
+  "fitness": 51,
+  "training": 66,
+  "skill": 62,
+  "tournament": 61,
+  "discipline": 86,
+  "overall": 62.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "fitness",
+    "score": 51,
+    "target": 55,
+    "action": "Follow the strength & conditioning plan and re-test fitness before the next promotion review."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 65",
+    "pass": false,
+    "detail": "Current 62.8"
+   },
+   {
+    "label": "Every category ≥ 55",
+    "pass": false,
+    "detail": "Below target: Fitness"
+   },
+   {
+    "label": "Training sessions ≥ 6",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 70%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-05-21",
+  "fitness": 55,
+  "training": 74,
+  "skill": 67,
+  "tournament": 66,
+  "discipline": 78,
+  "overall": 66.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-06-20",
+  "fitness": 58,
+  "training": 76,
+  "skill": 68,
+  "tournament": 68,
+  "discipline": 81,
+  "overall": 68.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb6f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-07-20",
+  "fitness": 61,
+  "training": 78,
+  "skill": 69,
+  "tournament": 70,
+  "discipline": 84,
+  "overall": 70.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb70"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-08-19",
+  "fitness": 64,
+  "training": 80,
+  "skill": 70,
+  "tournament": 72,
+  "discipline": 87,
+  "overall": 72.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb71"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-09-18",
+  "fitness": 67,
+  "training": 82,
+  "skill": 71,
+  "tournament": 74,
+  "discipline": 90,
+  "overall": 74.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb72"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 70,
+  "training": 84,
+  "skill": 72,
+  "tournament": 76,
+  "discipline": 93,
+  "overall": 76.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": true,
+    "detail": "Current 76.9"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb73"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-05-21",
+  "fitness": 62,
+  "training": 53,
+  "skill": 54,
+  "tournament": 56,
+  "discipline": 59,
+  "overall": 56.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb74"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-06-20",
+  "fitness": 63,
+  "training": 57,
+  "skill": 58,
+  "tournament": 58,
+  "discipline": 63,
+  "overall": 59.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb75"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-07-20",
+  "fitness": 64,
+  "training": 61,
+  "skill": 62,
+  "tournament": 60,
+  "discipline": 67,
+  "overall": 62.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb76"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-08-19",
+  "fitness": 65,
+  "training": 65,
+  "skill": 66,
+  "tournament": 62,
+  "discipline": 71,
+  "overall": 65.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb77"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-09-18",
+  "fitness": 66,
+  "training": 69,
+  "skill": 70,
+  "tournament": 64,
+  "discipline": 75,
+  "overall": 68.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb78"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 67,
+  "training": 73,
+  "skill": 74,
+  "tournament": 66,
+  "discipline": 79,
+  "overall": 71.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": true,
+    "detail": "Current 71.3"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb79"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 46,
+  "training": 64,
+  "skill": 57,
+  "tournament": 53,
+  "discipline": 69,
+  "overall": 56.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 50,
+  "training": 66,
+  "skill": 59,
+  "tournament": 56,
+  "discipline": 71,
+  "overall": 58.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 54,
+  "training": 68,
+  "skill": 61,
+  "tournament": 59,
+  "discipline": 73,
+  "overall": 61.5,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 58,
+  "training": 70,
+  "skill": 63,
+  "tournament": 62,
+  "discipline": 75,
+  "overall": 64.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 62,
+  "training": 72,
+  "skill": 65,
+  "tournament": 65,
+  "discipline": 77,
+  "overall": 66.9,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 66,
+  "training": 74,
+  "skill": 67,
+  "tournament": 68,
+  "discipline": 79,
+  "overall": 69.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": false,
+    "detail": "Current 69.6"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb7f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 62,
+  "training": 74,
+  "skill": 66,
+  "tournament": 42,
+  "discipline": 78,
+  "overall": 63,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb80"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 65,
+  "training": 76,
+  "skill": 69,
+  "tournament": 45,
+  "discipline": 81,
+  "overall": 65.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb81"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 68,
+  "training": 78,
+  "skill": 72,
+  "tournament": 48,
+  "discipline": 84,
+  "overall": 68.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb82"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 71,
+  "training": 80,
+  "skill": 75,
+  "tournament": 51,
+  "discipline": 87,
+  "overall": 71.4,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb83"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 74,
+  "training": 82,
+  "skill": 78,
+  "tournament": 54,
+  "discipline": 90,
+  "overall": 74.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb84"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 77,
+  "training": 84,
+  "skill": 81,
+  "tournament": 57,
+  "discipline": 93,
+  "overall": 77,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "tournament",
+    "score": 57,
+    "target": 65,
+    "action": "Improve tournament performance before next promotion review - compete in more events."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": true,
+    "detail": "Current 77"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": false,
+    "detail": "Below target: Tournament"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb85"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 70,
+  "training": 62,
+  "skill": 66,
+  "tournament": 73,
+  "discipline": 54,
+  "overall": 66.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb86"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 71,
+  "training": 64,
+  "skill": 68,
+  "tournament": 74,
+  "discipline": 56,
+  "overall": 68.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb87"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 72,
+  "training": 66,
+  "skill": 70,
+  "tournament": 75,
+  "discipline": 58,
+  "overall": 69.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb88"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 73,
+  "training": 68,
+  "skill": 72,
+  "tournament": 76,
+  "discipline": 60,
+  "overall": 71.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb89"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 74,
+  "training": 70,
+  "skill": 74,
+  "tournament": 77,
+  "discipline": 62,
+  "overall": 72.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 75,
+  "training": 72,
+  "skill": 76,
+  "tournament": 78,
+  "discipline": 64,
+  "overall": 74.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "discipline",
+    "score": 64,
+    "target": 68,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": false,
+    "detail": "Current 74.1"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": false,
+    "detail": "Below target: Discipline"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "64%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 0,
+  "training": 0,
+  "skill": 0,
+  "tournament": 0,
+  "discipline": 0,
+  "overall": 0,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "fitness",
+    "score": 0,
+    "target": 68,
+    "action": "Follow the strength & conditioning plan and re-test fitness before the next promotion review."
+   },
+   {
+    "category": "training",
+    "score": 0,
+    "target": 68,
+    "action": "Increase training quality and intensity in scheduled sessions."
+   },
+   {
+    "category": "skill",
+    "score": 0,
+    "target": 68,
+    "action": "Work on technical and tactical drills with the coach and submit fresh skill evidence."
+   },
+   {
+    "category": "tournament",
+    "score": 0,
+    "target": 68,
+    "action": "Improve tournament performance before next promotion review - compete in more events."
+   },
+   {
+    "category": "discipline",
+    "score": 0,
+    "target": 68,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": false,
+    "detail": "Current 0"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": false,
+    "detail": "Below target: Fitness, Training, Skill, Tournament, Discipline"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": false,
+    "detail": "0 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "0%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": false,
+    "detail": "Under Review"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-05-21",
+  "fitness": 79,
+  "training": 85,
+  "skill": 73,
+  "tournament": 84,
+  "discipline": 78,
+  "overall": 79.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-06-20",
+  "fitness": 82,
+  "training": 86,
+  "skill": 77,
+  "tournament": 85,
+  "discipline": 81,
+  "overall": 81.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-07-20",
+  "fitness": 85,
+  "training": 87,
+  "skill": 81,
+  "tournament": 86,
+  "discipline": 84,
+  "overall": 84.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb8f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-08-19",
+  "fitness": 88,
+  "training": 88,
+  "skill": 85,
+  "tournament": 87,
+  "discipline": 87,
+  "overall": 86.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb90"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-09-18",
+  "fitness": 91,
+  "training": 89,
+  "skill": 89,
+  "tournament": 88,
+  "discipline": 90,
+  "overall": 89.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb91"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-10-18",
+  "fitness": 94,
+  "training": 90,
+  "skill": 93,
+  "tournament": 89,
+  "discipline": 93,
+  "overall": 91.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 85",
+    "pass": true,
+    "detail": "Current 91.8"
+   },
+   {
+    "label": "Every category ≥ 70",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb92"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-05-21",
+  "fitness": 51,
+  "training": 44,
+  "skill": 38,
+  "tournament": 53,
+  "discipline": 44,
+  "overall": 45.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb93"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-06-20",
+  "fitness": 54,
+  "training": 47,
+  "skill": 42,
+  "tournament": 55,
+  "discipline": 48,
+  "overall": 48.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb94"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-07-20",
+  "fitness": 57,
+  "training": 50,
+  "skill": 46,
+  "tournament": 57,
+  "discipline": 52,
+  "overall": 51.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb95"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-08-19",
+  "fitness": 60,
+  "training": 53,
+  "skill": 50,
+  "tournament": 59,
+  "discipline": 56,
+  "overall": 55,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb96"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-09-18",
+  "fitness": 63,
+  "training": 56,
+  "skill": 54,
+  "tournament": 61,
+  "discipline": 60,
+  "overall": 58.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb97"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-10-18",
+  "fitness": 66,
+  "training": 59,
+  "skill": 58,
+  "tournament": 63,
+  "discipline": 64,
+  "overall": 61.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 65",
+    "pass": false,
+    "detail": "Current 61.4"
+   },
+   {
+    "label": "Every category ≥ 55",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 6",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 70%",
+    "pass": false,
+    "detail": "64%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb98"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 0,
+  "training": 0,
+  "skill": 0,
+  "tournament": 0,
+  "discipline": 0,
+  "overall": 0,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "fitness",
+    "score": 0,
+    "target": 60,
+    "action": "Follow the strength & conditioning plan and re-test fitness before the next promotion review."
+   },
+   {
+    "category": "training",
+    "score": 0,
+    "target": 60,
+    "action": "Increase training quality and intensity in scheduled sessions."
+   },
+   {
+    "category": "skill",
+    "score": 0,
+    "target": 60,
+    "action": "Work on technical and tactical drills with the coach and submit fresh skill evidence."
+   },
+   {
+    "category": "tournament",
+    "score": 0,
+    "target": 60,
+    "action": "Improve tournament performance before next promotion review - compete in more events."
+   },
+   {
+    "category": "discipline",
+    "score": 0,
+    "target": 60,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": false,
+    "detail": "Current 0"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": false,
+    "detail": "Below target: Fitness, Training, Skill, Tournament, Discipline"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": false,
+    "detail": "0 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": false,
+    "detail": "0%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": false,
+    "detail": "Pending"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb99"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 53,
+  "training": 69,
+  "skill": 58,
+  "tournament": 50,
+  "discipline": 76,
+  "overall": 59.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 56,
+  "training": 71,
+  "skill": 61,
+  "tournament": 54,
+  "discipline": 78,
+  "overall": 62.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 59,
+  "training": 73,
+  "skill": 64,
+  "tournament": 58,
+  "discipline": 80,
+  "overall": 65,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 62,
+  "training": 75,
+  "skill": 67,
+  "tournament": 62,
+  "discipline": 82,
+  "overall": 67.9,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 65,
+  "training": 77,
+  "skill": 70,
+  "tournament": 66,
+  "discipline": 84,
+  "overall": 70.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 68,
+  "training": 79,
+  "skill": 73,
+  "tournament": 70,
+  "discipline": 86,
+  "overall": 73.7,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": false,
+    "detail": "Current 73.7"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb9f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 78,
+  "training": 67,
+  "skill": 77,
+  "tournament": 69,
+  "discipline": 76,
+  "overall": 73.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 80,
+  "training": 70,
+  "skill": 78,
+  "tournament": 72,
+  "discipline": 78,
+  "overall": 75.8,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 82,
+  "training": 73,
+  "skill": 79,
+  "tournament": 75,
+  "discipline": 80,
+  "overall": 78,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 84,
+  "training": 76,
+  "skill": 80,
+  "tournament": 78,
+  "discipline": 82,
+  "overall": 80.2,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 86,
+  "training": 79,
+  "skill": 81,
+  "tournament": 81,
+  "discipline": 84,
+  "overall": 82.4,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 88,
+  "training": 82,
+  "skill": 82,
+  "tournament": 84,
+  "discipline": 86,
+  "overall": 84.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": true,
+    "detail": "Current 84.6"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-05-21",
+  "fitness": 85,
+  "training": 77,
+  "skill": 88,
+  "tournament": 75,
+  "discipline": 73,
+  "overall": 81.1,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-06-20",
+  "fitness": 86,
+  "training": 80,
+  "skill": 89,
+  "tournament": 78,
+  "discipline": 77,
+  "overall": 83.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-07-20",
+  "fitness": 87,
+  "training": 83,
+  "skill": 90,
+  "tournament": 81,
+  "discipline": 81,
+  "overall": 85.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-08-19",
+  "fitness": 88,
+  "training": 86,
+  "skill": 91,
+  "tournament": 84,
+  "discipline": 85,
+  "overall": 87.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eba9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-09-18",
+  "fitness": 89,
+  "training": 89,
+  "skill": 92,
+  "tournament": 87,
+  "discipline": 89,
+  "overall": 89.5,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebaa"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-10-18",
+  "fitness": 90,
+  "training": 92,
+  "skill": 93,
+  "tournament": 90,
+  "discipline": 93,
+  "overall": 91.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 85",
+    "pass": true,
+    "detail": "Current 91.6"
+   },
+   {
+    "label": "Every category ≥ 70",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebab"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-05-21",
+  "fitness": 57,
+  "training": 59,
+  "skill": 57,
+  "tournament": 67,
+  "discipline": 83,
+  "overall": 62,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebac"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-06-20",
+  "fitness": 60,
+  "training": 63,
+  "skill": 59,
+  "tournament": 68,
+  "discipline": 85,
+  "overall": 64.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebad"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-07-20",
+  "fitness": 63,
+  "training": 67,
+  "skill": 61,
+  "tournament": 69,
+  "discipline": 87,
+  "overall": 66.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebae"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-08-19",
+  "fitness": 66,
+  "training": 71,
+  "skill": 63,
+  "tournament": 70,
+  "discipline": 89,
+  "overall": 69.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebaf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-09-18",
+  "fitness": 69,
+  "training": 75,
+  "skill": 65,
+  "tournament": 71,
+  "discipline": 91,
+  "overall": 71.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 72,
+  "training": 79,
+  "skill": 67,
+  "tournament": 72,
+  "discipline": 93,
+  "overall": 74,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": true,
+    "detail": "Current 74"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 65,
+  "training": 65,
+  "skill": 65,
+  "tournament": 65,
+  "discipline": 74,
+  "overall": 65.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 67,
+  "training": 67,
+  "skill": 67,
+  "tournament": 67,
+  "discipline": 75,
+  "overall": 67.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 69,
+  "training": 69,
+  "skill": 69,
+  "tournament": 69,
+  "discipline": 76,
+  "overall": 69.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 71,
+  "training": 71,
+  "skill": 71,
+  "tournament": 71,
+  "discipline": 77,
+  "overall": 71.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 73,
+  "training": 73,
+  "skill": 73,
+  "tournament": 73,
+  "discipline": 78,
+  "overall": 73.5,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 75,
+  "training": 75,
+  "skill": 75,
+  "tournament": 75,
+  "discipline": 79,
+  "overall": 75.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": true,
+    "detail": "Current 75.4"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": false,
+    "detail": "Under Review"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 77,
+  "training": 75,
+  "skill": 70,
+  "tournament": 75,
+  "discipline": 64,
+  "overall": 73.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 79,
+  "training": 77,
+  "skill": 73,
+  "tournament": 78,
+  "discipline": 67,
+  "overall": 75.7,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebb9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 81,
+  "training": 79,
+  "skill": 76,
+  "tournament": 81,
+  "discipline": 70,
+  "overall": 78.3,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebba"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 83,
+  "training": 81,
+  "skill": 79,
+  "tournament": 84,
+  "discipline": 73,
+  "overall": 80.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebbb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 85,
+  "training": 83,
+  "skill": 82,
+  "tournament": 87,
+  "discipline": 76,
+  "overall": 83.4,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebbc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 87,
+  "training": 85,
+  "skill": 85,
+  "tournament": 90,
+  "discipline": 79,
+  "overall": 85.9,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": true,
+    "detail": "Current 85.9"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebbd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-05-21",
+  "fitness": 41,
+  "training": 61,
+  "skill": 40,
+  "tournament": 35,
+  "discipline": 83,
+  "overall": 47.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebbe"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-06-20",
+  "fitness": 44,
+  "training": 63,
+  "skill": 44,
+  "tournament": 37,
+  "discipline": 85,
+  "overall": 50.5,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebbf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-07-20",
+  "fitness": 47,
+  "training": 65,
+  "skill": 48,
+  "tournament": 41,
+  "discipline": 87,
+  "overall": 53.7,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-08-19",
+  "fitness": 50,
+  "training": 67,
+  "skill": 52,
+  "tournament": 45,
+  "discipline": 89,
+  "overall": 56.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-09-18",
+  "fitness": 53,
+  "training": 69,
+  "skill": 56,
+  "tournament": 49,
+  "discipline": 91,
+  "overall": 60,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-10-18",
+  "fitness": 56,
+  "training": 71,
+  "skill": 60,
+  "tournament": 53,
+  "discipline": 93,
+  "overall": 63.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "tournament",
+    "score": 53,
+    "target": 55,
+    "action": "Improve tournament performance before next promotion review - compete in more events."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 65",
+    "pass": false,
+    "detail": "Current 63.1"
+   },
+   {
+    "label": "Every category ≥ 55",
+    "pass": false,
+    "detail": "Below target: Tournament"
+   },
+   {
+    "label": "Training sessions ≥ 6",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 70%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-05-21",
+  "fitness": 59,
+  "training": 57,
+  "skill": 65,
+  "tournament": 58,
+  "discipline": 49,
+  "overall": 58.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-06-20",
+  "fitness": 61,
+  "training": 59,
+  "skill": 66,
+  "tournament": 61,
+  "discipline": 52,
+  "overall": 60.7,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-07-20",
+  "fitness": 63,
+  "training": 61,
+  "skill": 67,
+  "tournament": 64,
+  "discipline": 55,
+  "overall": 62.8,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-08-19",
+  "fitness": 65,
+  "training": 63,
+  "skill": 68,
+  "tournament": 67,
+  "discipline": 58,
+  "overall": 64.9,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-09-18",
+  "fitness": 67,
+  "training": 65,
+  "skill": 69,
+  "tournament": 70,
+  "discipline": 61,
+  "overall": 67,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 69,
+  "training": 67,
+  "skill": 70,
+  "tournament": 73,
+  "discipline": 64,
+  "overall": 69.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": false,
+    "detail": "Current 69.1"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": false,
+    "detail": "64%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebc9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 70,
+  "training": 72,
+  "skill": 82,
+  "tournament": 73,
+  "discipline": 83,
+  "overall": 75.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebca"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 73,
+  "training": 75,
+  "skill": 83,
+  "tournament": 76,
+  "discipline": 85,
+  "overall": 78.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebcb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 76,
+  "training": 78,
+  "skill": 84,
+  "tournament": 79,
+  "discipline": 87,
+  "overall": 80.5,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebcc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 79,
+  "training": 81,
+  "skill": 85,
+  "tournament": 82,
+  "discipline": 89,
+  "overall": 82.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebcd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 82,
+  "training": 84,
+  "skill": 86,
+  "tournament": 85,
+  "discipline": 91,
+  "overall": 85.1,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebce"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 85,
+  "training": 87,
+  "skill": 87,
+  "tournament": 88,
+  "discipline": 93,
+  "overall": 87.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": true,
+    "detail": "Current 87.4"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebcf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 60,
+  "training": 53,
+  "skill": 63,
+  "tournament": 65,
+  "discipline": 64,
+  "overall": 60.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 64,
+  "training": 57,
+  "skill": 65,
+  "tournament": 67,
+  "discipline": 67,
+  "overall": 63.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 68,
+  "training": 61,
+  "skill": 67,
+  "tournament": 69,
+  "discipline": 70,
+  "overall": 66.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 72,
+  "training": 65,
+  "skill": 69,
+  "tournament": 71,
+  "discipline": 73,
+  "overall": 69.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 76,
+  "training": 69,
+  "skill": 71,
+  "tournament": 73,
+  "discipline": 76,
+  "overall": 72.5,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 80,
+  "training": 73,
+  "skill": 73,
+  "tournament": 75,
+  "discipline": 79,
+  "overall": 75.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": false,
+    "detail": "Current 75.4"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-10-18",
+  "fitness": 0,
+  "training": 0,
+  "skill": 0,
+  "tournament": 0,
+  "discipline": 0,
+  "overall": 0,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "fitness",
+    "score": 0,
+    "target": 70,
+    "action": "Follow the strength & conditioning plan and re-test fitness before the next promotion review."
+   },
+   {
+    "category": "training",
+    "score": 0,
+    "target": 70,
+    "action": "Increase training quality and intensity in scheduled sessions."
+   },
+   {
+    "category": "skill",
+    "score": 0,
+    "target": 70,
+    "action": "Work on technical and tactical drills with the coach and submit fresh skill evidence."
+   },
+   {
+    "category": "tournament",
+    "score": 0,
+    "target": 70,
+    "action": "Improve tournament performance before next promotion review - compete in more events."
+   },
+   {
+    "category": "discipline",
+    "score": 0,
+    "target": 70,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 85",
+    "pass": false,
+    "detail": "Current 0"
+   },
+   {
+    "label": "Every category ≥ 70",
+    "pass": false,
+    "detail": "Below target: Fitness, Training, Skill, Tournament, Discipline"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": false,
+    "detail": "0 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "0%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": false,
+    "detail": "Pending"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-05-21",
+  "fitness": 64,
+  "training": 67,
+  "skill": 74,
+  "tournament": 78,
+  "discipline": 59,
+  "overall": 69.4,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-06-20",
+  "fitness": 68,
+  "training": 69,
+  "skill": 76,
+  "tournament": 80,
+  "discipline": 60,
+  "overall": 71.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-07-20",
+  "fitness": 72,
+  "training": 71,
+  "skill": 78,
+  "tournament": 82,
+  "discipline": 61,
+  "overall": 74.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebd9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-08-19",
+  "fitness": 76,
+  "training": 73,
+  "skill": 80,
+  "tournament": 84,
+  "discipline": 62,
+  "overall": 76.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebda"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-09-18",
+  "fitness": 80,
+  "training": 75,
+  "skill": 82,
+  "tournament": 86,
+  "discipline": 63,
+  "overall": 79,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebdb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e996"
+  },
+  "day": "2026-10-18",
+  "fitness": 84,
+  "training": 77,
+  "skill": 84,
+  "tournament": 88,
+  "discipline": 64,
+  "overall": 81.4,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "discipline",
+    "score": 64,
+    "target": 70,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Next academy level",
+    "pass": false,
+    "detail": "Athlete is already at the highest level"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebdc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 50,
+  "training": 52,
+  "skill": 60,
+  "tournament": 60,
+  "discipline": 49,
+  "overall": 54.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebdd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 54,
+  "training": 55,
+  "skill": 62,
+  "tournament": 62,
+  "discipline": 52,
+  "overall": 57.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebde"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 58,
+  "training": 58,
+  "skill": 64,
+  "tournament": 64,
+  "discipline": 55,
+  "overall": 60.4,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebdf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 62,
+  "training": 61,
+  "skill": 66,
+  "tournament": 66,
+  "discipline": 58,
+  "overall": 63.2,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 66,
+  "training": 64,
+  "skill": 68,
+  "tournament": 68,
+  "discipline": 61,
+  "overall": 66,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 70,
+  "training": 67,
+  "skill": 70,
+  "tournament": 70,
+  "discipline": 64,
+  "overall": 68.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "discipline",
+    "score": 64,
+    "target": 65,
+    "action": "Improve attendance and punctuality across all training sessions."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": false,
+    "detail": "Current 68.8"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": false,
+    "detail": "Below target: Discipline"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": false,
+    "detail": "64%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 58,
+  "training": 71,
+  "skill": 78,
+  "tournament": 60,
+  "discipline": 64,
+  "overall": 65.6,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 62,
+  "training": 73,
+  "skill": 79,
+  "tournament": 64,
+  "discipline": 67,
+  "overall": 68.5,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 66,
+  "training": 75,
+  "skill": 80,
+  "tournament": 68,
+  "discipline": 70,
+  "overall": 71.4,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 70,
+  "training": 77,
+  "skill": 81,
+  "tournament": 72,
+  "discipline": 73,
+  "overall": 74.3,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 74,
+  "training": 79,
+  "skill": 82,
+  "tournament": 76,
+  "discipline": 76,
+  "overall": 77.2,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 78,
+  "training": 81,
+  "skill": 83,
+  "tournament": 80,
+  "discipline": 79,
+  "overall": 80.1,
+  "weights": {
+   "fitness": 0.3,
+   "training": 0.2,
+   "skill": 0.2,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": true,
+    "detail": "Current 80.1"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": false,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-05-21",
+  "fitness": 56,
+  "training": 60,
+  "skill": 53,
+  "tournament": 47,
+  "discipline": 69,
+  "overall": 55.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebe9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-06-20",
+  "fitness": 58,
+  "training": 62,
+  "skill": 55,
+  "tournament": 50,
+  "discipline": 71,
+  "overall": 57.6,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebea"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-07-20",
+  "fitness": 60,
+  "training": 64,
+  "skill": 57,
+  "tournament": 53,
+  "discipline": 73,
+  "overall": 59.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebeb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-08-19",
+  "fitness": 62,
+  "training": 66,
+  "skill": 59,
+  "tournament": 56,
+  "discipline": 75,
+  "overall": 62,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebec"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-09-18",
+  "fitness": 64,
+  "training": 68,
+  "skill": 61,
+  "tournament": 59,
+  "discipline": 77,
+  "overall": 64.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebed"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e992"
+  },
+  "day": "2026-10-18",
+  "fitness": 66,
+  "training": 70,
+  "skill": 63,
+  "tournament": 62,
+  "discipline": 79,
+  "overall": 66.4,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 70",
+    "pass": false,
+    "detail": "Current 66.4"
+   },
+   {
+    "label": "Every category ≥ 60",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 8",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "79%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebee"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-05-21",
+  "fitness": 73,
+  "training": 76,
+  "skill": 69,
+  "tournament": 73,
+  "discipline": 76,
+  "overall": 72.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebef"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-06-20",
+  "fitness": 76,
+  "training": 78,
+  "skill": 72,
+  "tournament": 75,
+  "discipline": 78,
+  "overall": 75.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-07-20",
+  "fitness": 79,
+  "training": 80,
+  "skill": 75,
+  "tournament": 77,
+  "discipline": 80,
+  "overall": 77.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-08-19",
+  "fitness": 82,
+  "training": 82,
+  "skill": 78,
+  "tournament": 79,
+  "discipline": 82,
+  "overall": 80.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-09-18",
+  "fitness": 85,
+  "training": 84,
+  "skill": 81,
+  "tournament": 81,
+  "discipline": 84,
+  "overall": 82.7,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e993"
+  },
+  "day": "2026-10-18",
+  "fitness": 88,
+  "training": 86,
+  "skill": 84,
+  "tournament": 83,
+  "discipline": 86,
+  "overall": 85.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 75",
+    "pass": true,
+    "detail": "Current 85.2"
+   },
+   {
+    "label": "Every category ≥ 65",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 10",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 75%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-05-21",
+  "fitness": 60,
+  "training": 72,
+  "skill": 58,
+  "tournament": 67,
+  "discipline": 71,
+  "overall": 64.3,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-06-20",
+  "fitness": 63,
+  "training": 74,
+  "skill": 62,
+  "tournament": 69,
+  "discipline": 74,
+  "overall": 67.2,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-07-20",
+  "fitness": 66,
+  "training": 76,
+  "skill": 66,
+  "tournament": 71,
+  "discipline": 77,
+  "overall": 70.1,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-08-19",
+  "fitness": 69,
+  "training": 78,
+  "skill": 70,
+  "tournament": 73,
+  "discipline": 80,
+  "overall": 73,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-09-18",
+  "fitness": 72,
+  "training": 80,
+  "skill": 74,
+  "tournament": 75,
+  "discipline": 83,
+  "overall": 75.9,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebf9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e994"
+  },
+  "day": "2026-10-18",
+  "fitness": 75,
+  "training": 82,
+  "skill": 78,
+  "tournament": 77,
+  "discipline": 86,
+  "overall": 78.8,
+  "weights": {
+   "fitness": 0.2,
+   "training": 0.2,
+   "skill": 0.3,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 80",
+    "pass": false,
+    "detail": "Current 78.8"
+   },
+   {
+    "label": "Every category ≥ 68",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebfa"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-05-21",
+  "fitness": 80,
+  "training": 82,
+  "skill": 88,
+  "tournament": 77,
+  "discipline": 78,
+  "overall": 81.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebfb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-06-20",
+  "fitness": 83,
+  "training": 84,
+  "skill": 89,
+  "tournament": 81,
+  "discipline": 81,
+  "overall": 84.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebfc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-07-20",
+  "fitness": 86,
+  "training": 86,
+  "skill": 90,
+  "tournament": 85,
+  "discipline": 84,
+  "overall": 86.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebfd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-08-19",
+  "fitness": 89,
+  "training": 88,
+  "skill": 91,
+  "tournament": 89,
+  "discipline": 87,
+  "overall": 89.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebfe"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-09-18",
+  "fitness": 92,
+  "training": 90,
+  "skill": 92,
+  "tournament": 93,
+  "discipline": 90,
+  "overall": 91.6,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ebff"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e995"
+  },
+  "day": "2026-10-18",
+  "fitness": 95,
+  "training": 92,
+  "skill": 93,
+  "tournament": 97,
+  "discipline": 93,
+  "overall": 94.1,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [
+   {
+    "label": "Overall score ≥ 85",
+    "pass": true,
+    "detail": "Current 94.1"
+   },
+   {
+    "label": "Every category ≥ 70",
+    "pass": true,
+    "detail": "No development gaps"
+   },
+   {
+    "label": "Training sessions ≥ 12",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 80%",
+    "pass": true,
+    "detail": "93%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": true,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec00"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-05-21",
+  "fitness": 52,
+  "training": 53,
+  "skill": 35,
+  "tournament": 44,
+  "discipline": 81,
+  "overall": 49.3,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec01"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-06-20",
+  "fitness": 53,
+  "training": 56,
+  "skill": 38,
+  "tournament": 48,
+  "discipline": 82,
+  "overall": 51.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-06-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec02"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-07-20",
+  "fitness": 54,
+  "training": 59,
+  "skill": 42,
+  "tournament": 52,
+  "discipline": 83,
+  "overall": 54.5,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-07-20T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec03"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-08-19",
+  "fitness": 55,
+  "training": 62,
+  "skill": 46,
+  "tournament": 56,
+  "discipline": 84,
+  "overall": 57.3,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec04"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-09-18",
+  "fitness": 56,
+  "training": 65,
+  "skill": 50,
+  "tournament": 60,
+  "discipline": 85,
+  "overall": 60,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [],
+  "checks": [],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  }
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec05"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "level": {
+   "$oid": "6ad4b08daf6c37c8ec10e991"
+  },
+  "day": "2026-10-18",
+  "fitness": 57,
+  "training": 68,
+  "skill": 54,
+  "tournament": 64,
+  "discipline": 86,
+  "overall": 62.8,
+  "weights": {
+   "fitness": 0.25,
+   "training": 0.2,
+   "skill": 0.25,
+   "tournament": 0.2,
+   "discipline": 0.1
+  },
+  "gaps": [
+   {
+    "category": "skill",
+    "score": 54,
+    "target": 55,
+    "action": "Work on technical and tactical drills with the coach and submit fresh skill evidence."
+   }
+  ],
+  "checks": [
+   {
+    "label": "Overall score ≥ 65",
+    "pass": false,
+    "detail": "Current 62.8"
+   },
+   {
+    "label": "Every category ≥ 55",
+    "pass": false,
+    "detail": "Below target: Skill"
+   },
+   {
+    "label": "Training sessions ≥ 6",
+    "pass": true,
+    "detail": "14 recorded"
+   },
+   {
+    "label": "Attendance ≥ 70%",
+    "pass": true,
+    "detail": "86%"
+   },
+   {
+    "label": "Medical clearance",
+    "pass": true,
+    "detail": "Cleared"
+   }
+  ],
+  "eligible": false,
+  "computedAt": {
+   "$date": "2026-10-18T11:42:05.039Z"
+  }
+ }
+]

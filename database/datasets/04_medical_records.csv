@@ -1,0 +1,31 @@
+athleteId,examinationDate,clearanceStatus,restrictions,dataOrigin
+SSA-ATH-001,2026-05-21,Cleared,Avoid high-impact drills for 2 weeks,synthetic-demo
+SSA-ATH-002,2026-05-21,Cleared,None,synthetic-demo
+SSA-ATH-003,2026-05-21,Cleared,None,synthetic-demo
+SSA-ATH-004,2026-10-14,Pending,Awaiting examination,synthetic-demo
+SSA-ATH-005,2026-10-12,Under Review,Light training only until review,synthetic-demo
+SSA-FTB-001,2026-05-21,Cleared,None,synthetic-demo
+SSA-FTB-002,2026-05-21,Cleared,None,synthetic-demo
+SSA-FTB-003,2026-05-21,Cleared,Avoid high-impact drills for 2 weeks,synthetic-demo
+SSA-FTB-004,2026-05-21,Cleared,None,synthetic-demo
+SSA-FTB-005,2026-05-21,Cleared,None,synthetic-demo
+SSA-BDM-001,2026-05-21,Cleared,None,synthetic-demo
+SSA-BDM-002,2026-05-21,Cleared,None,synthetic-demo
+SSA-BDM-003,2026-05-21,Cleared,None,synthetic-demo
+SSA-BDM-004,2026-10-14,Pending,Awaiting examination,synthetic-demo
+SSA-BDM-005,2026-05-21,Cleared,Avoid high-impact drills for 2 weeks,synthetic-demo
+SSA-CRK-001,2026-05-21,Cleared,None,synthetic-demo
+SSA-CRK-002,2026-05-21,Cleared,None,synthetic-demo
+SSA-CRK-003,2026-10-12,Under Review,Light training only until review,synthetic-demo
+SSA-CRK-004,2026-05-21,Cleared,None,synthetic-demo
+SSA-CRK-005,2026-05-21,Cleared,None,synthetic-demo
+SSA-BKB-001,2026-05-21,Cleared,None,synthetic-demo
+SSA-BKB-002,2026-05-21,Cleared,Avoid high-impact drills for 2 weeks,synthetic-demo
+SSA-BKB-003,2026-05-21,Cleared,None,synthetic-demo
+SSA-BKB-004,2026-10-14,Pending,Awaiting examination,synthetic-demo
+SSA-BKB-005,2026-05-21,Cleared,None,synthetic-demo
+SSA-VLB-001,2026-05-21,Cleared,None,synthetic-demo
+SSA-VLB-002,2026-05-21,Cleared,None,synthetic-demo
+SSA-VLB-003,2026-05-21,Cleared,None,synthetic-demo
+SSA-VLB-004,2026-05-21,Cleared,Avoid high-impact drills for 2 weeks,synthetic-demo
+SSA-VLB-005,2026-05-21,Cleared,None,synthetic-demo

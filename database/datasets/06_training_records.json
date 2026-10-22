@@ -1,0 +1,542 @@
+[
+ {
+  "sessionId": "TS-ATH-001",
+  "sport": "Athletics",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-002",
+  "sport": "Athletics",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-003",
+  "sport": "Athletics",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-004",
+  "sport": "Athletics",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-005",
+  "sport": "Athletics",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-006",
+  "sport": "Athletics",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-007",
+  "sport": "Athletics",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-008",
+  "sport": "Athletics",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-009",
+  "sport": "Athletics",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-ATH-010",
+  "sport": "Athletics",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-ATH",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-001",
+  "sport": "Football",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-002",
+  "sport": "Football",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-003",
+  "sport": "Football",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-004",
+  "sport": "Football",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-005",
+  "sport": "Football",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-006",
+  "sport": "Football",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-007",
+  "sport": "Football",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-008",
+  "sport": "Football",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-009",
+  "sport": "Football",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-FTB-010",
+  "sport": "Football",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-FTB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-001",
+  "sport": "Badminton",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-002",
+  "sport": "Badminton",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-003",
+  "sport": "Badminton",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-004",
+  "sport": "Badminton",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-005",
+  "sport": "Badminton",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-006",
+  "sport": "Badminton",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-007",
+  "sport": "Badminton",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-008",
+  "sport": "Badminton",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-009",
+  "sport": "Badminton",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BDM-010",
+  "sport": "Badminton",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-BDM",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-001",
+  "sport": "Cricket",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-002",
+  "sport": "Cricket",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-003",
+  "sport": "Cricket",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-004",
+  "sport": "Cricket",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-005",
+  "sport": "Cricket",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-006",
+  "sport": "Cricket",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-007",
+  "sport": "Cricket",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-008",
+  "sport": "Cricket",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-009",
+  "sport": "Cricket",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-CRK-010",
+  "sport": "Cricket",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-CRK",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-001",
+  "sport": "Basketball",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-002",
+  "sport": "Basketball",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-003",
+  "sport": "Basketball",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-004",
+  "sport": "Basketball",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-005",
+  "sport": "Basketball",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-006",
+  "sport": "Basketball",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-007",
+  "sport": "Basketball",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-008",
+  "sport": "Basketball",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-009",
+  "sport": "Basketball",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-BKB-010",
+  "sport": "Basketball",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-BKB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-001",
+  "sport": "Volleyball",
+  "date": "2026-07-20",
+  "durationMin": 60,
+  "trainingType": "Technical",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-002",
+  "sport": "Volleyball",
+  "date": "2026-07-29",
+  "durationMin": 90,
+  "trainingType": "Fitness",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-003",
+  "sport": "Volleyball",
+  "date": "2026-08-07",
+  "durationMin": 75,
+  "trainingType": "Tactical",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-004",
+  "sport": "Volleyball",
+  "date": "2026-08-16",
+  "durationMin": 120,
+  "trainingType": "Match Practice",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-005",
+  "sport": "Volleyball",
+  "date": "2026-08-25",
+  "durationMin": 60,
+  "trainingType": "Recovery",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-006",
+  "sport": "Volleyball",
+  "date": "2026-09-03",
+  "durationMin": 90,
+  "trainingType": "Technical",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-007",
+  "sport": "Volleyball",
+  "date": "2026-09-12",
+  "durationMin": 75,
+  "trainingType": "Fitness",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-008",
+  "sport": "Volleyball",
+  "date": "2026-09-21",
+  "durationMin": 120,
+  "trainingType": "Tactical",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-009",
+  "sport": "Volleyball",
+  "date": "2026-09-30",
+  "durationMin": 60,
+  "trainingType": "Match Practice",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sessionId": "TS-VLB-010",
+  "sport": "Volleyball",
+  "date": "2026-10-09",
+  "durationMin": 90,
+  "trainingType": "Recovery",
+  "coachId": "CH-VLB",
+  "dataOrigin": "synthetic-demo"
+ }
+]

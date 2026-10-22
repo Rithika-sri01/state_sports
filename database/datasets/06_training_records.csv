@@ -1,0 +1,61 @@
+sessionId,sport,date,durationMin,trainingType,coachId,dataOrigin
+TS-ATH-001,Athletics,2026-07-20,60,Technical,CH-ATH,synthetic-demo
+TS-ATH-002,Athletics,2026-07-29,90,Fitness,CH-ATH,synthetic-demo
+TS-ATH-003,Athletics,2026-08-07,75,Tactical,CH-ATH,synthetic-demo
+TS-ATH-004,Athletics,2026-08-16,120,Match Practice,CH-ATH,synthetic-demo
+TS-ATH-005,Athletics,2026-08-25,60,Recovery,CH-ATH,synthetic-demo
+TS-ATH-006,Athletics,2026-09-03,90,Technical,CH-ATH,synthetic-demo
+TS-ATH-007,Athletics,2026-09-12,75,Fitness,CH-ATH,synthetic-demo
+TS-ATH-008,Athletics,2026-09-21,120,Tactical,CH-ATH,synthetic-demo
+TS-ATH-009,Athletics,2026-09-30,60,Match Practice,CH-ATH,synthetic-demo
+TS-ATH-010,Athletics,2026-10-09,90,Recovery,CH-ATH,synthetic-demo
+TS-FTB-001,Football,2026-07-20,60,Technical,CH-FTB,synthetic-demo
+TS-FTB-002,Football,2026-07-29,90,Fitness,CH-FTB,synthetic-demo
+TS-FTB-003,Football,2026-08-07,75,Tactical,CH-FTB,synthetic-demo
+TS-FTB-004,Football,2026-08-16,120,Match Practice,CH-FTB,synthetic-demo
+TS-FTB-005,Football,2026-08-25,60,Recovery,CH-FTB,synthetic-demo
+TS-FTB-006,Football,2026-09-03,90,Technical,CH-FTB,synthetic-demo
+TS-FTB-007,Football,2026-09-12,75,Fitness,CH-FTB,synthetic-demo
+TS-FTB-008,Football,2026-09-21,120,Tactical,CH-FTB,synthetic-demo
+TS-FTB-009,Football,2026-09-30,60,Match Practice,CH-FTB,synthetic-demo
+TS-FTB-010,Football,2026-10-09,90,Recovery,CH-FTB,synthetic-demo
+TS-BDM-001,Badminton,2026-07-20,60,Technical,CH-BDM,synthetic-demo
+TS-BDM-002,Badminton,2026-07-29,90,Fitness,CH-BDM,synthetic-demo
+TS-BDM-003,Badminton,2026-08-07,75,Tactical,CH-BDM,synthetic-demo
+TS-BDM-004,Badminton,2026-08-16,120,Match Practice,CH-BDM,synthetic-demo
+TS-BDM-005,Badminton,2026-08-25,60,Recovery,CH-BDM,synthetic-demo
+TS-BDM-006,Badminton,2026-09-03,90,Technical,CH-BDM,synthetic-demo
+TS-BDM-007,Badminton,2026-09-12,75,Fitness,CH-BDM,synthetic-demo
+TS-BDM-008,Badminton,2026-09-21,120,Tactical,CH-BDM,synthetic-demo
+TS-BDM-009,Badminton,2026-09-30,60,Match Practice,CH-BDM,synthetic-demo
+TS-BDM-010,Badminton,2026-10-09,90,Recovery,CH-BDM,synthetic-demo
+TS-CRK-001,Cricket,2026-07-20,60,Technical,CH-CRK,synthetic-demo
+TS-CRK-002,Cricket,2026-07-29,90,Fitness,CH-CRK,synthetic-demo
+TS-CRK-003,Cricket,2026-08-07,75,Tactical,CH-CRK,synthetic-demo
+TS-CRK-004,Cricket,2026-08-16,120,Match Practice,CH-CRK,synthetic-demo
+TS-CRK-005,Cricket,2026-08-25,60,Recovery,CH-CRK,synthetic-demo
+TS-CRK-006,Cricket,2026-09-03,90,Technical,CH-CRK,synthetic-demo
+TS-CRK-007,Cricket,2026-09-12,75,Fitness,CH-CRK,synthetic-demo
+TS-CRK-008,Cricket,2026-09-21,120,Tactical,CH-CRK,synthetic-demo
+TS-CRK-009,Cricket,2026-09-30,60,Match Practice,CH-CRK,synthetic-demo
+TS-CRK-010,Cricket,2026-10-09,90,Recovery,CH-CRK,synthetic-demo
+TS-BKB-001,Basketball,2026-07-20,60,Technical,CH-BKB,synthetic-demo
+TS-BKB-002,Basketball,2026-07-29,90,Fitness,CH-BKB,synthetic-demo
+TS-BKB-003,Basketball,2026-08-07,75,Tactical,CH-BKB,synthetic-demo
+TS-BKB-004,Basketball,2026-08-16,120,Match Practice,CH-BKB,synthetic-demo
+TS-BKB-005,Basketball,2026-08-25,60,Recovery,CH-BKB,synthetic-demo
+TS-BKB-006,Basketball,2026-09-03,90,Technical,CH-BKB,synthetic-demo
+TS-BKB-007,Basketball,2026-09-12,75,Fitness,CH-BKB,synthetic-demo
+TS-BKB-008,Basketball,2026-09-21,120,Tactical,CH-BKB,synthetic-demo
+TS-BKB-009,Basketball,2026-09-30,60,Match Practice,CH-BKB,synthetic-demo
+TS-BKB-010,Basketball,2026-10-09,90,Recovery,CH-BKB,synthetic-demo
+TS-VLB-001,Volleyball,2026-07-20,60,Technical,CH-VLB,synthetic-demo
+TS-VLB-002,Volleyball,2026-07-29,90,Fitness,CH-VLB,synthetic-demo
+TS-VLB-003,Volleyball,2026-08-07,75,Tactical,CH-VLB,synthetic-demo
+TS-VLB-004,Volleyball,2026-08-16,120,Match Practice,CH-VLB,synthetic-demo
+TS-VLB-005,Volleyball,2026-08-25,60,Recovery,CH-VLB,synthetic-demo
+TS-VLB-006,Volleyball,2026-09-03,90,Technical,CH-VLB,synthetic-demo
+TS-VLB-007,Volleyball,2026-09-12,75,Fitness,CH-VLB,synthetic-demo
+TS-VLB-008,Volleyball,2026-09-21,120,Tactical,CH-VLB,synthetic-demo
+TS-VLB-009,Volleyball,2026-09-30,60,Match Practice,CH-VLB,synthetic-demo
+TS-VLB-010,Volleyball,2026-10-09,90,Recovery,CH-VLB,synthetic-demo

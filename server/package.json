@@ -1,0 +1,25 @@
+{
+  "name": "ssa-server",
+  "version": "1.0.0",
+  "description": "State Sports Academy - Athlete Development Lifecycle System (API)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seed/seed.js",
+    "export-seed": "node src/seed/exportSeed.js",
+    "load-datasets": "node src/seed/loadDatasets.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.0"
+  }
+}

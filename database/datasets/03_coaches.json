@@ -1,0 +1,44 @@
+[
+ {
+  "coachId": "CH-ATH",
+  "name": "Ravi Chandran",
+  "specialization": "Athletics performance & conditioning",
+  "assignedAthletes": "SSA-ATH-001;SSA-ATH-002;SSA-ATH-003;SSA-ATH-004;SSA-ATH-005",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "coachId": "CH-FTB",
+  "name": "Senthil Nathan",
+  "specialization": "Football performance & conditioning",
+  "assignedAthletes": "SSA-FTB-001;SSA-FTB-002;SSA-FTB-003;SSA-FTB-004;SSA-FTB-005",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "coachId": "CH-BDM",
+  "name": "Anitha Rajan",
+  "specialization": "Badminton performance & conditioning",
+  "assignedAthletes": "SSA-BDM-001;SSA-BDM-002;SSA-BDM-003;SSA-BDM-004;SSA-BDM-005",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "coachId": "CH-CRK",
+  "name": "Muthu Kumaran",
+  "specialization": "Cricket performance & conditioning",
+  "assignedAthletes": "SSA-CRK-001;SSA-CRK-002;SSA-CRK-003;SSA-CRK-004;SSA-CRK-005",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "coachId": "CH-BKB",
+  "name": "Lakshmi Narayanan",
+  "specialization": "Basketball performance & conditioning",
+  "assignedAthletes": "SSA-BKB-001;SSA-BKB-002;SSA-BKB-003;SSA-BKB-004;SSA-BKB-005",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "coachId": "CH-VLB",
+  "name": "Karthik Subbiah",
+  "specialization": "Volleyball performance & conditioning",
+  "assignedAthletes": "SSA-VLB-001;SSA-VLB-002;SSA-VLB-003;SSA-VLB-004;SSA-VLB-005",
+  "dataOrigin": "synthetic-demo"
+ }
+]

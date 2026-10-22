@@ -1,0 +1,52 @@
+[
+ {
+  "athleteId": "SSA-BKB-001",
+  "playerPosition": "Point Guard",
+  "games": 21,
+  "points": 315,
+  "rebounds": 63,
+  "assists": 126,
+  "fieldGoalPercent": 42.2,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "playerPosition": "Shooting Guard",
+  "games": 21,
+  "points": 378,
+  "rebounds": 63,
+  "assists": 42,
+  "fieldGoalPercent": 53.1,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "playerPosition": "Small Forward",
+  "games": 21,
+  "points": 252,
+  "rebounds": 105,
+  "assists": 63,
+  "fieldGoalPercent": 42.5,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "playerPosition": "Power Forward",
+  "games": 28,
+  "points": 532,
+  "rebounds": 112,
+  "assists": 28,
+  "fieldGoalPercent": 54.9,
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "playerPosition": "Center",
+  "games": 33,
+  "points": 627,
+  "rebounds": 330,
+  "assists": 132,
+  "fieldGoalPercent": 41.8,
+  "dataOrigin": "synthetic-demo"
+ }
+]

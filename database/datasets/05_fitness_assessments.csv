@@ -1,0 +1,241 @@
+athleteId,testName,result,unit,assessmentDate,normalizedScore,dataOrigin
+SSA-ATH-001,30 m Sprint,5.38,s,2026-06-20,61,synthetic-demo
+SSA-ATH-001,Vertical Jump,44,cm,2026-06-20,54,synthetic-demo
+SSA-ATH-001,Yo-Yo IR1,16.2,level,2026-06-20,52,synthetic-demo
+SSA-ATH-001,Plank Hold,148,s,2026-06-20,49,synthetic-demo
+SSA-ATH-001,30 m Sprint,5.48,s,2026-09-28,56,synthetic-demo
+SSA-ATH-001,Vertical Jump,46,cm,2026-09-28,60,synthetic-demo
+SSA-ATH-001,Yo-Yo IR1,16.5,level,2026-09-28,56,synthetic-demo
+SSA-ATH-001,Plank Hold,175,s,2026-09-28,64,synthetic-demo
+SSA-ATH-002,30 m Sprint,5.32,s,2026-06-20,64,synthetic-demo
+SSA-ATH-002,Vertical Jump,52,cm,2026-06-20,77,synthetic-demo
+SSA-ATH-002,Yo-Yo IR1,17,level,2026-06-20,63,synthetic-demo
+SSA-ATH-002,Plank Hold,193,s,2026-06-20,74,synthetic-demo
+SSA-ATH-002,30 m Sprint,5.3,s,2026-09-28,65,synthetic-demo
+SSA-ATH-002,Vertical Jump,50,cm,2026-09-28,71,synthetic-demo
+SSA-ATH-002,Yo-Yo IR1,17.8,level,2026-09-28,73,synthetic-demo
+SSA-ATH-002,Plank Hold,195,s,2026-09-28,75,synthetic-demo
+SSA-ATH-003,30 m Sprint,5.32,s,2026-06-20,64,synthetic-demo
+SSA-ATH-003,Vertical Jump,50,cm,2026-06-20,70,synthetic-demo
+SSA-ATH-003,Yo-Yo IR1,17.3,level,2026-06-20,66,synthetic-demo
+SSA-ATH-003,Plank Hold,164,s,2026-06-20,58,synthetic-demo
+SSA-ATH-003,30 m Sprint,5.24,s,2026-09-28,68,synthetic-demo
+SSA-ATH-003,Vertical Jump,50,cm,2026-09-28,70,synthetic-demo
+SSA-ATH-003,Yo-Yo IR1,17.7,level,2026-09-28,71,synthetic-demo
+SSA-ATH-003,Plank Hold,170,s,2026-09-28,61,synthetic-demo
+SSA-ATH-004,30 m Sprint,5.12,s,2026-06-20,74,synthetic-demo
+SSA-ATH-004,Vertical Jump,51,cm,2026-06-20,74,synthetic-demo
+SSA-ATH-004,Yo-Yo IR1,18.5,level,2026-06-20,81,synthetic-demo
+SSA-ATH-004,Plank Hold,181,s,2026-06-20,67,synthetic-demo
+SSA-ATH-004,30 m Sprint,4.96,s,2026-09-28,82,synthetic-demo
+SSA-ATH-004,Vertical Jump,54,cm,2026-09-28,83,synthetic-demo
+SSA-ATH-004,Yo-Yo IR1,18.4,level,2026-09-28,80,synthetic-demo
+SSA-ATH-004,Plank Hold,211,s,2026-09-28,84,synthetic-demo
+SSA-ATH-005,30 m Sprint,5.02,s,2026-06-20,79,synthetic-demo
+SSA-ATH-005,Vertical Jump,55,cm,2026-06-20,86,synthetic-demo
+SSA-ATH-005,Yo-Yo IR1,19,level,2026-06-20,87,synthetic-demo
+SSA-ATH-005,Plank Hold,218,s,2026-06-20,88,synthetic-demo
+SSA-ATH-005,30 m Sprint,4.88,s,2026-09-28,86,synthetic-demo
+SSA-ATH-005,Vertical Jump,53,cm,2026-09-28,81,synthetic-demo
+SSA-ATH-005,Yo-Yo IR1,19.4,level,2026-09-28,92,synthetic-demo
+SSA-ATH-005,Plank Hold,215,s,2026-09-28,86,synthetic-demo
+SSA-FTB-001,30 m Sprint,5.42,s,2026-06-20,59,synthetic-demo
+SSA-FTB-001,Vertical Jump,47,cm,2026-06-20,64,synthetic-demo
+SSA-FTB-001,Yo-Yo IR1,16.6,level,2026-06-20,58,synthetic-demo
+SSA-FTB-001,Plank Hold,164,s,2026-06-20,58,synthetic-demo
+SSA-FTB-001,30 m Sprint,5.32,s,2026-09-28,64,synthetic-demo
+SSA-FTB-001,Vertical Jump,47,cm,2026-09-28,63,synthetic-demo
+SSA-FTB-001,Yo-Yo IR1,17.1,level,2026-09-28,64,synthetic-demo
+SSA-FTB-001,Plank Hold,170,s,2026-09-28,61,synthetic-demo
+SSA-FTB-002,30 m Sprint,5.38,s,2026-06-20,61,synthetic-demo
+SSA-FTB-002,Vertical Jump,49,cm,2026-06-20,69,synthetic-demo
+SSA-FTB-002,Yo-Yo IR1,16.5,level,2026-06-20,56,synthetic-demo
+SSA-FTB-002,Plank Hold,186,s,2026-06-20,70,synthetic-demo
+SSA-FTB-002,30 m Sprint,5.42,s,2026-09-28,59,synthetic-demo
+SSA-FTB-002,Vertical Jump,49,cm,2026-09-28,68,synthetic-demo
+SSA-FTB-002,Yo-Yo IR1,17,level,2026-09-28,63,synthetic-demo
+SSA-FTB-002,Plank Hold,184,s,2026-09-28,69,synthetic-demo
+SSA-FTB-003,30 m Sprint,4.98,s,2026-06-20,81,synthetic-demo
+SSA-FTB-003,Vertical Jump,51,cm,2026-06-20,73,synthetic-demo
+SSA-FTB-003,Yo-Yo IR1,18.4,level,2026-06-20,80,synthetic-demo
+SSA-FTB-003,Plank Hold,200,s,2026-06-20,78,synthetic-demo
+SSA-FTB-003,30 m Sprint,5.12,s,2026-09-28,74,synthetic-demo
+SSA-FTB-003,Vertical Jump,55,cm,2026-09-28,85,synthetic-demo
+SSA-FTB-003,Yo-Yo IR1,18.9,level,2026-09-28,86,synthetic-demo
+SSA-FTB-003,Plank Hold,193,s,2026-09-28,74,synthetic-demo
+SSA-FTB-004,30 m Sprint,5.1,s,2026-06-20,75,synthetic-demo
+SSA-FTB-004,Vertical Jump,47,cm,2026-06-20,64,synthetic-demo
+SSA-FTB-004,Yo-Yo IR1,17.4,level,2026-06-20,67,synthetic-demo
+SSA-FTB-004,Plank Hold,175,s,2026-06-20,64,synthetic-demo
+SSA-FTB-004,30 m Sprint,5.28,s,2026-09-28,66,synthetic-demo
+SSA-FTB-004,Vertical Jump,48,cm,2026-09-28,66,synthetic-demo
+SSA-FTB-004,Yo-Yo IR1,18.1,level,2026-09-28,76,synthetic-demo
+SSA-FTB-004,Plank Hold,188,s,2026-09-28,71,synthetic-demo
+SSA-FTB-005,30 m Sprint,5.54,s,2026-06-20,53,synthetic-demo
+SSA-FTB-005,Vertical Jump,46,cm,2026-06-20,60,synthetic-demo
+SSA-FTB-005,Yo-Yo IR1,17,level,2026-06-20,63,synthetic-demo
+SSA-FTB-005,Plank Hold,164,s,2026-06-20,58,synthetic-demo
+SSA-FTB-005,30 m Sprint,5.18,s,2026-09-28,71,synthetic-demo
+SSA-FTB-005,Vertical Jump,46,cm,2026-09-28,59,synthetic-demo
+SSA-FTB-005,Yo-Yo IR1,17.2,level,2026-09-28,65,synthetic-demo
+SSA-FTB-005,Plank Hold,170,s,2026-09-28,61,synthetic-demo
+SSA-BDM-001,30 m Sprint,5.14,s,2026-06-20,73,synthetic-demo
+SSA-BDM-001,Vertical Jump,52,cm,2026-06-20,76,synthetic-demo
+SSA-BDM-001,Yo-Yo IR1,18.5,level,2026-06-20,81,synthetic-demo
+SSA-BDM-001,Plank Hold,197,s,2026-06-20,76,synthetic-demo
+SSA-BDM-001,30 m Sprint,5.18,s,2026-09-28,71,synthetic-demo
+SSA-BDM-001,Vertical Jump,54,cm,2026-09-28,83,synthetic-demo
+SSA-BDM-001,Yo-Yo IR1,18.8,level,2026-09-28,85,synthetic-demo
+SSA-BDM-001,Plank Hold,215,s,2026-09-28,86,synthetic-demo
+SSA-BDM-002,30 m Sprint,5.16,s,2026-06-20,72,synthetic-demo
+SSA-BDM-002,Vertical Jump,54,cm,2026-06-20,83,synthetic-demo
+SSA-BDM-002,Yo-Yo IR1,18.5,level,2026-06-20,81,synthetic-demo
+SSA-BDM-002,Plank Hold,200,s,2026-06-20,78,synthetic-demo
+SSA-BDM-002,30 m Sprint,5.12,s,2026-09-28,74,synthetic-demo
+SSA-BDM-002,Vertical Jump,54,cm,2026-09-28,84,synthetic-demo
+SSA-BDM-002,Yo-Yo IR1,18.7,level,2026-09-28,84,synthetic-demo
+SSA-BDM-002,Plank Hold,211,s,2026-09-28,84,synthetic-demo
+SSA-BDM-003,30 m Sprint,5.02,s,2026-06-20,79,synthetic-demo
+SSA-BDM-003,Vertical Jump,53,cm,2026-06-20,81,synthetic-demo
+SSA-BDM-003,Yo-Yo IR1,19.4,level,2026-06-20,92,synthetic-demo
+SSA-BDM-003,Plank Hold,222,s,2026-06-20,90,synthetic-demo
+SSA-BDM-003,30 m Sprint,4.9,s,2026-09-28,85,synthetic-demo
+SSA-BDM-003,Vertical Jump,59,cm,2026-09-28,96,synthetic-demo
+SSA-BDM-003,Yo-Yo IR1,18.5,level,2026-09-28,81,synthetic-demo
+SSA-BDM-003,Plank Hold,217,s,2026-09-28,87,synthetic-demo
+SSA-BDM-004,30 m Sprint,5.06,s,2026-06-20,77,synthetic-demo
+SSA-BDM-004,Vertical Jump,54,cm,2026-06-20,83,synthetic-demo
+SSA-BDM-004,Yo-Yo IR1,18.8,level,2026-06-20,85,synthetic-demo
+SSA-BDM-004,Plank Hold,202,s,2026-06-20,79,synthetic-demo
+SSA-BDM-004,30 m Sprint,4.96,s,2026-09-28,82,synthetic-demo
+SSA-BDM-004,Vertical Jump,51,cm,2026-09-28,73,synthetic-demo
+SSA-BDM-004,Yo-Yo IR1,19.1,level,2026-09-28,89,synthetic-demo
+SSA-BDM-004,Plank Hold,215,s,2026-09-28,86,synthetic-demo
+SSA-BDM-005,30 m Sprint,4.9,s,2026-06-20,85,synthetic-demo
+SSA-BDM-005,Vertical Jump,53,cm,2026-06-20,79,synthetic-demo
+SSA-BDM-005,Yo-Yo IR1,18.9,level,2026-06-20,86,synthetic-demo
+SSA-BDM-005,Plank Hold,188,s,2026-06-20,71,synthetic-demo
+SSA-BDM-005,30 m Sprint,4.88,s,2026-09-28,86,synthetic-demo
+SSA-BDM-005,Vertical Jump,53,cm,2026-09-28,79,synthetic-demo
+SSA-BDM-005,Yo-Yo IR1,19.1,level,2026-09-28,89,synthetic-demo
+SSA-BDM-005,Plank Hold,204,s,2026-09-28,80,synthetic-demo
+SSA-CRK-001,30 m Sprint,5.4,s,2026-06-20,60,synthetic-demo
+SSA-CRK-001,Vertical Jump,48,cm,2026-06-20,66,synthetic-demo
+SSA-CRK-001,Yo-Yo IR1,17.1,level,2026-06-20,64,synthetic-demo
+SSA-CRK-001,Plank Hold,163,s,2026-06-20,57,synthetic-demo
+SSA-CRK-001,30 m Sprint,5.4,s,2026-09-28,60,synthetic-demo
+SSA-CRK-001,Vertical Jump,45,cm,2026-09-28,58,synthetic-demo
+SSA-CRK-001,Yo-Yo IR1,16.6,level,2026-09-28,58,synthetic-demo
+SSA-CRK-001,Plank Hold,186,s,2026-09-28,70,synthetic-demo
+SSA-CRK-002,30 m Sprint,4.84,s,2026-06-20,88,synthetic-demo
+SSA-CRK-002,Vertical Jump,55,cm,2026-06-20,86,synthetic-demo
+SSA-CRK-002,Yo-Yo IR1,19.1,level,2026-06-20,89,synthetic-demo
+SSA-CRK-002,Plank Hold,204,s,2026-06-20,80,synthetic-demo
+SSA-CRK-002,30 m Sprint,4.88,s,2026-09-28,86,synthetic-demo
+SSA-CRK-002,Vertical Jump,56,cm,2026-09-28,89,synthetic-demo
+SSA-CRK-002,Yo-Yo IR1,19.6,level,2026-09-28,95,synthetic-demo
+SSA-CRK-002,Plank Hold,213,s,2026-09-28,85,synthetic-demo
+SSA-CRK-003,30 m Sprint,5.58,s,2026-06-20,51,synthetic-demo
+SSA-CRK-003,Vertical Jump,44,cm,2026-06-20,55,synthetic-demo
+SSA-CRK-003,Yo-Yo IR1,16.2,level,2026-06-20,53,synthetic-demo
+SSA-CRK-003,Plank Hold,168,s,2026-06-20,60,synthetic-demo
+SSA-CRK-003,30 m Sprint,5.48,s,2026-09-28,56,synthetic-demo
+SSA-CRK-003,Vertical Jump,45,cm,2026-09-28,56,synthetic-demo
+SSA-CRK-003,Yo-Yo IR1,17,level,2026-09-28,63,synthetic-demo
+SSA-CRK-003,Plank Hold,157,s,2026-09-28,54,synthetic-demo
+SSA-CRK-004,30 m Sprint,4.74,s,2026-06-20,93,synthetic-demo
+SSA-CRK-004,Vertical Jump,55,cm,2026-06-20,87,synthetic-demo
+SSA-CRK-004,Yo-Yo IR1,19.4,level,2026-06-20,93,synthetic-demo
+SSA-CRK-004,Plank Hold,226,s,2026-06-20,92,synthetic-demo
+SSA-CRK-004,30 m Sprint,4.66,s,2026-09-28,97,synthetic-demo
+SSA-CRK-004,Vertical Jump,54,cm,2026-09-28,84,synthetic-demo
+SSA-CRK-004,Yo-Yo IR1,18.5,level,2026-09-28,81,synthetic-demo
+SSA-CRK-004,Plank Hold,217,s,2026-09-28,87,synthetic-demo
+SSA-CRK-005,30 m Sprint,5.32,s,2026-06-20,64,synthetic-demo
+SSA-CRK-005,Vertical Jump,45,cm,2026-06-20,56,synthetic-demo
+SSA-CRK-005,Yo-Yo IR1,16.6,level,2026-06-20,58,synthetic-demo
+SSA-CRK-005,Plank Hold,163,s,2026-06-20,57,synthetic-demo
+SSA-CRK-005,30 m Sprint,5.46,s,2026-09-28,57,synthetic-demo
+SSA-CRK-005,Vertical Jump,47,cm,2026-09-28,62,synthetic-demo
+SSA-CRK-005,Yo-Yo IR1,17.6,level,2026-09-28,70,synthetic-demo
+SSA-CRK-005,Plank Hold,161,s,2026-09-28,56,synthetic-demo
+SSA-BKB-001,30 m Sprint,5.32,s,2026-06-20,64,synthetic-demo
+SSA-BKB-001,Vertical Jump,45,cm,2026-06-20,56,synthetic-demo
+SSA-BKB-001,Yo-Yo IR1,17,level,2026-06-20,62,synthetic-demo
+SSA-BKB-001,Plank Hold,155,s,2026-06-20,53,synthetic-demo
+SSA-BKB-001,30 m Sprint,5.52,s,2026-09-28,54,synthetic-demo
+SSA-BKB-001,Vertical Jump,47,cm,2026-09-28,63,synthetic-demo
+SSA-BKB-001,Yo-Yo IR1,17.2,level,2026-09-28,65,synthetic-demo
+SSA-BKB-001,Plank Hold,155,s,2026-09-28,53,synthetic-demo
+SSA-BKB-002,30 m Sprint,5.08,s,2026-06-20,76,synthetic-demo
+SSA-BKB-002,Vertical Jump,57,cm,2026-06-20,90,synthetic-demo
+SSA-BKB-002,Yo-Yo IR1,18.9,level,2026-06-20,86,synthetic-demo
+SSA-BKB-002,Plank Hold,200,s,2026-06-20,78,synthetic-demo
+SSA-BKB-002,30 m Sprint,4.82,s,2026-09-28,89,synthetic-demo
+SSA-BKB-002,Vertical Jump,58,cm,2026-09-28,94,synthetic-demo
+SSA-BKB-002,Yo-Yo IR1,19.4,level,2026-09-28,93,synthetic-demo
+SSA-BKB-002,Plank Hold,227,s,2026-09-28,93,synthetic-demo
+SSA-BKB-003,30 m Sprint,4.92,s,2026-06-20,84,synthetic-demo
+SSA-BKB-003,Vertical Jump,50,cm,2026-06-20,70,synthetic-demo
+SSA-BKB-003,Yo-Yo IR1,18,level,2026-06-20,75,synthetic-demo
+SSA-BKB-003,Plank Hold,197,s,2026-06-20,76,synthetic-demo
+SSA-BKB-003,30 m Sprint,4.94,s,2026-09-28,83,synthetic-demo
+SSA-BKB-003,Vertical Jump,56,cm,2026-09-28,89,synthetic-demo
+SSA-BKB-003,Yo-Yo IR1,18.2,level,2026-09-28,77,synthetic-demo
+SSA-BKB-003,Plank Hold,204,s,2026-09-28,80,synthetic-demo
+SSA-BKB-004,30 m Sprint,5.16,s,2026-06-20,72,synthetic-demo
+SSA-BKB-004,Vertical Jump,52,cm,2026-06-20,78,synthetic-demo
+SSA-BKB-004,Yo-Yo IR1,17.6,level,2026-06-20,70,synthetic-demo
+SSA-BKB-004,Plank Hold,184,s,2026-06-20,69,synthetic-demo
+SSA-BKB-004,30 m Sprint,5,s,2026-09-28,80,synthetic-demo
+SSA-BKB-004,Vertical Jump,50,cm,2026-09-28,72,synthetic-demo
+SSA-BKB-004,Yo-Yo IR1,18.6,level,2026-09-28,82,synthetic-demo
+SSA-BKB-004,Plank Hold,195,s,2026-09-28,75,synthetic-demo
+SSA-BKB-005,30 m Sprint,4.84,s,2026-06-20,88,synthetic-demo
+SSA-BKB-005,Vertical Jump,52,cm,2026-06-20,78,synthetic-demo
+SSA-BKB-005,Yo-Yo IR1,18.4,level,2026-06-20,80,synthetic-demo
+SSA-BKB-005,Plank Hold,226,s,2026-06-20,92,synthetic-demo
+SSA-BKB-005,30 m Sprint,4.96,s,2026-09-28,82,synthetic-demo
+SSA-BKB-005,Vertical Jump,58,cm,2026-09-28,93,synthetic-demo
+SSA-BKB-005,Yo-Yo IR1,18.9,level,2026-09-28,86,synthetic-demo
+SSA-BKB-005,Plank Hold,233,s,2026-09-28,96,synthetic-demo
+SSA-VLB-001,30 m Sprint,4.68,s,2026-06-20,96,synthetic-demo
+SSA-VLB-001,Vertical Jump,57,cm,2026-06-20,90,synthetic-demo
+SSA-VLB-001,Yo-Yo IR1,19.7,level,2026-06-20,96,synthetic-demo
+SSA-VLB-001,Plank Hold,213,s,2026-06-20,85,synthetic-demo
+SSA-VLB-001,30 m Sprint,4.9,s,2026-09-28,85,synthetic-demo
+SSA-VLB-001,Vertical Jump,60,cm,2026-09-28,99,synthetic-demo
+SSA-VLB-001,Yo-Yo IR1,19.2,level,2026-09-28,90,synthetic-demo
+SSA-VLB-001,Plank Hold,217,s,2026-09-28,87,synthetic-demo
+SSA-VLB-002,30 m Sprint,5.36,s,2026-06-20,62,synthetic-demo
+SSA-VLB-002,Vertical Jump,46,cm,2026-06-20,60,synthetic-demo
+SSA-VLB-002,Yo-Yo IR1,17.4,level,2026-06-20,68,synthetic-demo
+SSA-VLB-002,Plank Hold,184,s,2026-06-20,69,synthetic-demo
+SSA-VLB-002,30 m Sprint,5.32,s,2026-09-28,64,synthetic-demo
+SSA-VLB-002,Vertical Jump,50,cm,2026-09-28,72,synthetic-demo
+SSA-VLB-002,Yo-Yo IR1,17,level,2026-09-28,63,synthetic-demo
+SSA-VLB-002,Plank Hold,179,s,2026-09-28,66,synthetic-demo
+SSA-VLB-003,30 m Sprint,5.2,s,2026-06-20,70,synthetic-demo
+SSA-VLB-003,Vertical Jump,52,cm,2026-06-20,76,synthetic-demo
+SSA-VLB-003,Yo-Yo IR1,17.8,level,2026-06-20,73,synthetic-demo
+SSA-VLB-003,Plank Hold,209,s,2026-06-20,83,synthetic-demo
+SSA-VLB-003,30 m Sprint,5.16,s,2026-09-28,72,synthetic-demo
+SSA-VLB-003,Vertical Jump,51,cm,2026-09-28,75,synthetic-demo
+SSA-VLB-003,Yo-Yo IR1,17.7,level,2026-09-28,71,synthetic-demo
+SSA-VLB-003,Plank Hold,202,s,2026-09-28,79,synthetic-demo
+SSA-VLB-004,30 m Sprint,5.28,s,2026-06-20,66,synthetic-demo
+SSA-VLB-004,Vertical Jump,44,cm,2026-06-20,53,synthetic-demo
+SSA-VLB-004,Yo-Yo IR1,17,level,2026-06-20,63,synthetic-demo
+SSA-VLB-004,Plank Hold,172,s,2026-06-20,62,synthetic-demo
+SSA-VLB-004,30 m Sprint,5.44,s,2026-09-28,58,synthetic-demo
+SSA-VLB-004,Vertical Jump,44,cm,2026-09-28,55,synthetic-demo
+SSA-VLB-004,Yo-Yo IR1,17.1,level,2026-09-28,64,synthetic-demo
+SSA-VLB-004,Plank Hold,164,s,2026-09-28,58,synthetic-demo
+SSA-VLB-005,30 m Sprint,4.98,s,2026-06-20,81,synthetic-demo
+SSA-VLB-005,Vertical Jump,56,cm,2026-06-20,88,synthetic-demo
+SSA-VLB-005,Yo-Yo IR1,19,level,2026-06-20,87,synthetic-demo
+SSA-VLB-005,Plank Hold,229,s,2026-06-20,94,synthetic-demo
+SSA-VLB-005,30 m Sprint,4.74,s,2026-09-28,93,synthetic-demo
+SSA-VLB-005,Vertical Jump,59,cm,2026-09-28,98,synthetic-demo
+SSA-VLB-005,Yo-Yo IR1,19.8,level,2026-09-28,97,synthetic-demo
+SSA-VLB-005,Plank Hold,211,s,2026-09-28,84,synthetic-demo

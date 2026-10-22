@@ -1,0 +1,997 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 171,
+  "weightKg": 64,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 177,
+  "weightKg": 61,
+  "bloodGroup": "B+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": [
+   {
+    "_id": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e5"
+    },
+    "type": "Shin splints",
+    "bodyPart": "Left shin",
+    "severity": "Minor",
+    "date": {
+     "$date": "2026-08-09T11:42:05.039Z"
+    },
+    "status": "Recovered",
+    "recordedBy": {
+     "$oid": "6ad4b08daf6c37c8ec10e998"
+    }
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 189,
+  "weightKg": 77,
+  "bloodGroup": "O+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 173,
+  "weightKg": 56,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": [
+   {
+    "_id": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e8"
+    },
+    "type": "Ankle sprain",
+    "bodyPart": "Right ankle",
+    "severity": "Moderate",
+    "date": {
+     "$date": "2026-09-30T11:42:05.039Z"
+    },
+    "status": "Recovering",
+    "notes": "Physio 3x/week.",
+    "recordedBy": {
+     "$oid": "6ad4b08daf6c37c8ec10e998"
+    }
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "examDate": {
+   "$date": "2026-03-22T11:42:05.039Z"
+  },
+  "heightCm": 164,
+  "weightKg": 81,
+  "bloodGroup": "O-",
+  "condition": "Stress-related knee strain",
+  "restrictions": "No training until re-examination",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "Re-examination required after physiotherapy.",
+  "status": "Failed",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ea"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 168,
+  "weightKg": 52,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9eb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 165,
+  "weightKg": 61,
+  "bloodGroup": "AB+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ec"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 187,
+  "weightKg": 66,
+  "bloodGroup": "O+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ed"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b6"
+  },
+  "examDate": {
+   "$date": "2026-10-15T11:42:05.039Z"
+  },
+  "heightCm": 183,
+  "weightKg": 54,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "Awaiting decision",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Under Review",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ee"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 165,
+  "weightKg": 81,
+  "bloodGroup": "AB+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ef"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 164,
+  "weightKg": 53,
+  "bloodGroup": "AB+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9bc"
+  },
+  "examDate": {
+   "$date": "2026-10-15T11:42:05.039Z"
+  },
+  "heightCm": 175,
+  "weightKg": 69,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "Awaiting decision",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Pending",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 186,
+  "weightKg": 83,
+  "bloodGroup": "O-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 183,
+  "weightKg": 70,
+  "bloodGroup": "B+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": [
+   {
+    "_id": {
+     "$oid": "6ad4b08daf6c37c8ec10e9f3"
+    },
+    "type": "Hamstring strain",
+    "bodyPart": "Left hamstring",
+    "severity": "Moderate",
+    "date": {
+     "$date": "2026-10-09T11:42:05.039Z"
+    },
+    "status": "Active",
+    "notes": "Rest for 2 weeks.",
+    "recordedBy": {
+     "$oid": "6ad4b08daf6c37c8ec10e998"
+    }
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 165,
+  "weightKg": 54,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 164,
+  "weightKg": 83,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 176,
+  "weightKg": 80,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "examDate": {
+   "$date": "2026-10-15T11:42:05.039Z"
+  },
+  "heightCm": 181,
+  "weightKg": 61,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "Awaiting decision",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "Re-examination after ankle sprain.",
+  "status": "Under Review",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 164,
+  "weightKg": 85,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9f9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 188,
+  "weightKg": 82,
+  "bloodGroup": "O-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9fa"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 183,
+  "weightKg": 85,
+  "bloodGroup": "B+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": [
+   {
+    "_id": {
+     "$oid": "6ad4b08daf6c37c8ec10e9fb"
+    },
+    "type": "Shoulder soreness",
+    "bodyPart": "Right shoulder",
+    "severity": "Minor",
+    "date": {
+     "$date": "2026-10-13T11:42:05.039Z"
+    },
+    "status": "Active",
+    "notes": "Reduce overhead load.",
+    "recordedBy": {
+     "$oid": "6ad4b08daf6c37c8ec10e998"
+    }
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9fc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 171,
+  "weightKg": 58,
+  "bloodGroup": "A+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9fd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 173,
+  "weightKg": 82,
+  "bloodGroup": "O-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9fe"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d2"
+  },
+  "examDate": {
+   "$date": "2026-10-15T11:42:05.039Z"
+  },
+  "heightCm": 162,
+  "weightKg": 59,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "Awaiting decision",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Pending",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ff"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 166,
+  "weightKg": 65,
+  "bloodGroup": "O-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea00"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 168,
+  "weightKg": 60,
+  "bloodGroup": "AB+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea01"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 161,
+  "weightKg": 62,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea02"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 173,
+  "weightKg": 59,
+  "bloodGroup": "AB+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea03"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 183,
+  "weightKg": 70,
+  "bloodGroup": "O-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea04"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 168,
+  "weightKg": 73,
+  "bloodGroup": "O+",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea05"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 187,
+  "weightKg": 72,
+  "bloodGroup": "O+",
+  "condition": "Fit for sports training",
+  "restrictions": "Avoid high-impact drills for 2 weeks",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea06"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "examDate": {
+   "$date": "2026-05-21T11:42:05.039Z"
+  },
+  "heightCm": 184,
+  "weightKg": 67,
+  "bloodGroup": "B-",
+  "condition": "Fit for sports training",
+  "restrictions": "None",
+  "observations": "Cardio-respiratory and musculoskeletal examination completed.",
+  "remarks": "No contraindications noted.",
+  "status": "Cleared",
+  "examiner": {
+   "$oid": "6ad4b08daf6c37c8ec10e998"
+  },
+  "injuries": []
+ }
+]

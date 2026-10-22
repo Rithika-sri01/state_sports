@@ -1,0 +1,690 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec0e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "stats": {
+   "event": "100 m",
+   "timeSeconds": 13.04,
+   "distanceMetres": null,
+   "bestRank": 5,
+   "personalBest": "13.04 s"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec0f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "stats": {
+   "playerPosition": "Goalkeeper",
+   "matches": 19,
+   "goals": 0,
+   "assists": 2,
+   "minutesPlayed": 1558
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec10"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "stats": {
+   "matches": 25,
+   "wins": 17,
+   "losses": 8,
+   "tournamentResults": "Semi-final",
+   "ranking": 152
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec11"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "stats": {
+   "playerPosition": "Batter",
+   "matches": 19,
+   "runs": 798,
+   "battingAverage": 53.2,
+   "wickets": 0,
+   "bowlingFigures": null
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec12"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "stats": {
+   "playerPosition": "Point Guard",
+   "games": 19,
+   "points": 228,
+   "rebounds": 95,
+   "assists": 76,
+   "fieldGoalPercent": 49.1
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec13"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "stats": {
+   "playerPosition": "Setter",
+   "matches": 24,
+   "sets": 96,
+   "attacks": 408,
+   "blocks": 72,
+   "serves": 144
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec14"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "stats": {
+   "event": "200 m",
+   "timeSeconds": 25.76,
+   "distanceMetres": null,
+   "bestRank": 3,
+   "personalBest": "25.76 s"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec15"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "stats": {
+   "matches": 27,
+   "wins": 20,
+   "losses": 7,
+   "tournamentResults": "Winner",
+   "ranking": 268
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec16"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "stats": {
+   "playerPosition": "Bowler",
+   "matches": 22,
+   "runs": 101,
+   "battingAverage": 5.61,
+   "wickets": 36,
+   "bowlingFigures": "4/20"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec17"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "stats": {
+   "playerPosition": "Outside Hitter",
+   "matches": 15,
+   "sets": 45,
+   "attacks": 315,
+   "blocks": 60,
+   "serves": 75
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec18"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "stats": {
+   "event": "400 m",
+   "timeSeconds": 55.2,
+   "distanceMetres": null,
+   "bestRank": 2,
+   "personalBest": "55.2 s"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec19"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "stats": {
+   "playerPosition": "Midfielder",
+   "matches": 21,
+   "goals": 5,
+   "assists": 6,
+   "minutesPlayed": 1554
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "stats": {
+   "matches": 35,
+   "wins": 23,
+   "losses": 12,
+   "tournamentResults": "Semi-final",
+   "ranking": null
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "stats": {
+   "playerPosition": "All-rounder",
+   "matches": 11,
+   "runs": 702,
+   "battingAverage": 78,
+   "wickets": 16,
+   "bowlingFigures": "3/19"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "stats": {
+   "playerPosition": "Small Forward",
+   "games": 31,
+   "points": 217,
+   "rebounds": 93,
+   "assists": 31,
+   "fieldGoalPercent": 54.8
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "stats": {
+   "playerPosition": "Middle Blocker",
+   "matches": 21,
+   "sets": 63,
+   "attacks": 252,
+   "blocks": 63,
+   "serves": 84
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "stats": {
+   "event": "800 m",
+   "timeSeconds": 130,
+   "distanceMetres": null,
+   "bestRank": 4,
+   "personalBest": "130 s"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec1f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "stats": {
+   "playerPosition": "Forward",
+   "matches": 12,
+   "goals": 6,
+   "assists": 1,
+   "minutesPlayed": 1008
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec20"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "stats": {
+   "matches": 29,
+   "wins": 19,
+   "losses": 10,
+   "tournamentResults": "Semi-final",
+   "ranking": 28
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec21"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "stats": {
+   "playerPosition": "Power Forward",
+   "games": 18,
+   "points": 270,
+   "rebounds": 72,
+   "assists": 72,
+   "fieldGoalPercent": 38.2
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec22"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "stats": {
+   "playerPosition": "Opposite",
+   "matches": 20,
+   "sets": 60,
+   "attacks": 280,
+   "blocks": 80,
+   "serves": 100
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec23"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "stats": {
+   "event": "Long Jump",
+   "timeSeconds": null,
+   "distanceMetres": 5.92,
+   "bestRank": 3,
+   "personalBest": "5.92 m"
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec24"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "stats": {
+   "playerPosition": "Goalkeeper",
+   "matches": 18,
+   "goals": 0,
+   "assists": 2,
+   "minutesPlayed": 1440
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec25"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "stats": {
+   "matches": 32,
+   "wins": 22,
+   "losses": 10,
+   "tournamentResults": "Runner-up",
+   "ranking": 31
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec26"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "stats": {
+   "playerPosition": "Batter",
+   "matches": 19,
+   "runs": 340,
+   "battingAverage": 22.67,
+   "wickets": 0,
+   "bowlingFigures": null
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec27"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "stats": {
+   "playerPosition": "Center",
+   "games": 21,
+   "points": 357,
+   "rebounds": 189,
+   "assists": 63,
+   "fieldGoalPercent": 54.3
+  },
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ec28"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "stats": {
+   "playerPosition": "Libero",
+   "matches": 14,
+   "sets": 56,
+   "attacks": 224,
+   "blocks": 56,
+   "serves": 42
+  },
+  "dataOrigin": "synthetic-demo"
+ }
+]

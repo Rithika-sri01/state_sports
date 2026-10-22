@@ -1,0 +1,272 @@
+[
+ {
+  "athleteId": "SSA-ATH-001",
+  "name": "Arjun Karthik",
+  "dateOfBirth": "2007-10-07",
+  "sport": "Athletics",
+  "eventOrPosition": "100 m",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "name": "Divya Lakshmi",
+  "dateOfBirth": "2008-04-11",
+  "sport": "Athletics",
+  "eventOrPosition": "200 m",
+  "academyLevel": "Academy Level 2",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "name": "Harish Kumar",
+  "dateOfBirth": "2008-12-10",
+  "sport": "Athletics",
+  "eventOrPosition": "400 m",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "name": "Meena Priya",
+  "dateOfBirth": "2004-04-06",
+  "sport": "Athletics",
+  "eventOrPosition": "800 m",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "name": "Surya Prakash",
+  "dateOfBirth": "2008-10-12",
+  "sport": "Athletics",
+  "eventOrPosition": "Long Jump",
+  "academyLevel": "State Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "name": "Kavya Shree",
+  "dateOfBirth": "2009-08-05",
+  "sport": "Football",
+  "eventOrPosition": "Goalkeeper",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "name": "Naveen Raj",
+  "dateOfBirth": "2005-03-24",
+  "sport": "Football",
+  "eventOrPosition": "Defender",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "name": "Aishwarya Devi",
+  "dateOfBirth": "2007-08-25",
+  "sport": "Football",
+  "eventOrPosition": "Midfielder",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "name": "Vignesh Murugan",
+  "dateOfBirth": "2004-04-10",
+  "sport": "Football",
+  "eventOrPosition": "Forward",
+  "academyLevel": "Academy Level 2",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "name": "Sandhya Rani",
+  "dateOfBirth": "2008-10-16",
+  "sport": "Football",
+  "eventOrPosition": "Goalkeeper",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "name": "Praveen Kumar",
+  "dateOfBirth": "2008-08-02",
+  "sport": "Badminton",
+  "eventOrPosition": "Doubles",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "name": "Janani Selvam",
+  "dateOfBirth": "2005-11-01",
+  "sport": "Badminton",
+  "eventOrPosition": "Singles",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "name": "Gokul Krishnan",
+  "dateOfBirth": "2005-10-05",
+  "sport": "Badminton",
+  "eventOrPosition": "Doubles",
+  "academyLevel": "Elite Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "name": "Harini Balaji",
+  "dateOfBirth": "2004-03-04",
+  "sport": "Badminton",
+  "eventOrPosition": "Singles",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "name": "Dinesh Babu",
+  "dateOfBirth": "2006-01-11",
+  "sport": "Badminton",
+  "eventOrPosition": "Doubles",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "name": "Nandhini Ravi",
+  "dateOfBirth": "2006-06-05",
+  "sport": "Cricket",
+  "eventOrPosition": "Batter",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "name": "Santhosh Kumar",
+  "dateOfBirth": "2006-02-16",
+  "sport": "Cricket",
+  "eventOrPosition": "Bowler",
+  "academyLevel": "State Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "name": "Ramya Subramani",
+  "dateOfBirth": "2008-06-20",
+  "sport": "Cricket",
+  "eventOrPosition": "All-rounder",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "name": "Yuvaraj Sekar",
+  "dateOfBirth": "2009-05-17",
+  "sport": "Cricket",
+  "eventOrPosition": "Wicket-keeper",
+  "academyLevel": "Elite Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "name": "Pavithra Anand",
+  "dateOfBirth": "2004-01-14",
+  "sport": "Cricket",
+  "eventOrPosition": "Batter",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "name": "Tharun Vel",
+  "dateOfBirth": "2010-09-15",
+  "sport": "Basketball",
+  "eventOrPosition": "Point Guard",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "name": "Keerthana Mohan",
+  "dateOfBirth": "2006-02-13",
+  "sport": "Basketball",
+  "eventOrPosition": "Shooting Guard",
+  "academyLevel": "State Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "name": "Mohammed Imran",
+  "dateOfBirth": "2004-02-04",
+  "sport": "Basketball",
+  "eventOrPosition": "Small Forward",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "name": "Deepika Suresh",
+  "dateOfBirth": "2005-01-22",
+  "sport": "Basketball",
+  "eventOrPosition": "Power Forward",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "name": "Lokesh Waran",
+  "dateOfBirth": "2008-05-10",
+  "sport": "Basketball",
+  "eventOrPosition": "Center",
+  "academyLevel": "Elite Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "name": "Rohit Anand",
+  "dateOfBirth": "2006-08-22",
+  "sport": "Volleyball",
+  "eventOrPosition": "Setter",
+  "academyLevel": "Elite Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "name": "Swetha Narayanan",
+  "dateOfBirth": "2005-01-09",
+  "sport": "Volleyball",
+  "eventOrPosition": "Outside Hitter",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "name": "Bharath Kannan",
+  "dateOfBirth": "2006-09-15",
+  "sport": "Volleyball",
+  "eventOrPosition": "Middle Blocker",
+  "academyLevel": "District Camp",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "name": "Monica Joseph",
+  "dateOfBirth": "2009-06-15",
+  "sport": "Volleyball",
+  "eventOrPosition": "Opposite",
+  "academyLevel": "Academy Level 1",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "name": "Aravind Pandian",
+  "dateOfBirth": "2005-07-06",
+  "sport": "Volleyball",
+  "eventOrPosition": "Libero",
+  "academyLevel": "Elite Camp",
+  "dataOrigin": "synthetic-demo"
+ }
+]

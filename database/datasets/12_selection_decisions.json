@@ -1,0 +1,132 @@
+[
+ {
+  "decisionId": "SD-SSA-ATH-003",
+  "requestId": "PR-SSA-ATH-003",
+  "athleteId": "SSA-ATH-003",
+  "decision": "Selected",
+  "reason": "Evidence and competition record support promotion.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-06",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-FTB-001",
+  "requestId": "PR-SSA-FTB-001",
+  "athleteId": "SSA-FTB-001",
+  "decision": "Selected",
+  "reason": "Evidence and competition record support promotion.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-14",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-FTB-002",
+  "requestId": "PR-SSA-FTB-002",
+  "athleteId": "SSA-FTB-002",
+  "decision": "Not Selected",
+  "reason": "Competition consistency below the standard for the next level.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-FTB-003",
+  "requestId": "PR-SSA-FTB-003",
+  "athleteId": "SSA-FTB-003",
+  "decision": "Further Review",
+  "reason": "Needs another assessment cycle and updated evidence.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-04",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-BDM-001",
+  "requestId": "PR-SSA-BDM-001",
+  "athleteId": "SSA-BDM-001",
+  "decision": "Not Selected",
+  "reason": "Competition consistency below the standard for the next level.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-04",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-BDM-002",
+  "requestId": "PR-SSA-BDM-002",
+  "athleteId": "SSA-BDM-002",
+  "decision": "Further Review",
+  "reason": "Needs another assessment cycle and updated evidence.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-11",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-BDM-005",
+  "requestId": "PR-SSA-BDM-005",
+  "athleteId": "SSA-BDM-005",
+  "decision": "Selected",
+  "reason": "Evidence and competition record support promotion.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-06",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-CRK-002",
+  "requestId": "PR-SSA-CRK-002",
+  "athleteId": "SSA-CRK-002",
+  "decision": "Further Review",
+  "reason": "Needs another assessment cycle and updated evidence.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-09",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-BKB-003",
+  "requestId": "PR-SSA-BKB-003",
+  "athleteId": "SSA-BKB-003",
+  "decision": "Selected",
+  "reason": "Evidence and competition record support promotion.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-11",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-BKB-005",
+  "requestId": "PR-SSA-BKB-005",
+  "athleteId": "SSA-BKB-005",
+  "decision": "Not Selected",
+  "reason": "Competition consistency below the standard for the next level.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-11",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-VLB-001",
+  "requestId": "PR-SSA-VLB-001",
+  "athleteId": "SSA-VLB-001",
+  "decision": "Selected",
+  "reason": "Evidence and competition record support promotion.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-12",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-VLB-002",
+  "requestId": "PR-SSA-VLB-002",
+  "athleteId": "SSA-VLB-002",
+  "decision": "Not Selected",
+  "reason": "Competition consistency below the standard for the next level.",
+  "reviewer": "Selection Committee - Member",
+  "decisionDate": "2026-10-15",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "decisionId": "SD-SSA-VLB-003",
+  "requestId": "PR-SSA-VLB-003",
+  "athleteId": "SSA-VLB-003",
+  "decision": "Further Review",
+  "reason": "Needs another assessment cycle and updated evidence.",
+  "reviewer": "Selection Committee - Chair",
+  "decisionDate": "2026-10-08",
+  "dataOrigin": "synthetic-demo"
+ }
+]

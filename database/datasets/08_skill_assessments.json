@@ -1,0 +1,2162 @@
+[
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Start & Reaction",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Technique",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Stride Efficiency",
+  "score": 5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Race Tactics",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Start & Reaction",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Technique",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Stride Efficiency",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-001",
+  "skillName": "Race Tactics",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Start & Reaction",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Technique",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Stride Efficiency",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Race Tactics",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Start & Reaction",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Technique",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Stride Efficiency",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "skillName": "Race Tactics",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Start & Reaction",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Technique",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Stride Efficiency",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Race Tactics",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Start & Reaction",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Technique",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Stride Efficiency",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "skillName": "Race Tactics",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Start & Reaction",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Technique",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Stride Efficiency",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Race Tactics",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Start & Reaction",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Technique",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Stride Efficiency",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "skillName": "Race Tactics",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Start & Reaction",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Technique",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Stride Efficiency",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Race Tactics",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Start & Reaction",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Technique",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Stride Efficiency",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "skillName": "Race Tactics",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Ravi Chandran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Passing",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Dribbling",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Ball Control",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Positioning",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Passing",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Dribbling",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Ball Control",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-001",
+  "skillName": "Positioning",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Passing",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Dribbling",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Ball Control",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Positioning",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Passing",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Dribbling",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Ball Control",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-002",
+  "skillName": "Positioning",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Passing",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Dribbling",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Ball Control",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Positioning",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Passing",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Dribbling",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Ball Control",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-003",
+  "skillName": "Positioning",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Passing",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Dribbling",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Ball Control",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Positioning",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Passing",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Dribbling",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Ball Control",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-004",
+  "skillName": "Positioning",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Passing",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Dribbling",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Ball Control",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Positioning",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Passing",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Dribbling",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Ball Control",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-FTB-005",
+  "skillName": "Positioning",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Senthil Nathan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Footwork",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Smash",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Net Play",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Court Awareness",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Footwork",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Smash",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Net Play",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-001",
+  "skillName": "Court Awareness",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Footwork",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Smash",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Net Play",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Court Awareness",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Footwork",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Smash",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Net Play",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-002",
+  "skillName": "Court Awareness",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Footwork",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Smash",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Net Play",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Court Awareness",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Footwork",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Smash",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Net Play",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-003",
+  "skillName": "Court Awareness",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Footwork",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Smash",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Net Play",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Court Awareness",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Footwork",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Smash",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Net Play",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-004",
+  "skillName": "Court Awareness",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Footwork",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Smash",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Net Play",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Court Awareness",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Footwork",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Smash",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Net Play",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BDM-005",
+  "skillName": "Court Awareness",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Anitha Rajan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Batting Technique",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Bowling Accuracy",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Fielding",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Game Awareness",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Batting Technique",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Bowling Accuracy",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Fielding",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-001",
+  "skillName": "Game Awareness",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Batting Technique",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Bowling Accuracy",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Fielding",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Game Awareness",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Batting Technique",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Bowling Accuracy",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Fielding",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-002",
+  "skillName": "Game Awareness",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Batting Technique",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Bowling Accuracy",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Fielding",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Game Awareness",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Batting Technique",
+  "score": 5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Bowling Accuracy",
+  "score": 5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Fielding",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-003",
+  "skillName": "Game Awareness",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Batting Technique",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Bowling Accuracy",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Fielding",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Game Awareness",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Batting Technique",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Bowling Accuracy",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Fielding",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-004",
+  "skillName": "Game Awareness",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Batting Technique",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Bowling Accuracy",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Fielding",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Game Awareness",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Batting Technique",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Bowling Accuracy",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Fielding",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-CRK-005",
+  "skillName": "Game Awareness",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Muthu Kumaran",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Shooting",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Ball Handling",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Defense",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Court Vision",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Shooting",
+  "score": 5.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Ball Handling",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Defense",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-001",
+  "skillName": "Court Vision",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Shooting",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Ball Handling",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Defense",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Court Vision",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Shooting",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Ball Handling",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Defense",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-002",
+  "skillName": "Court Vision",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Shooting",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Ball Handling",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Defense",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Court Vision",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Shooting",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Ball Handling",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Defense",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-003",
+  "skillName": "Court Vision",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Shooting",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Ball Handling",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Defense",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Court Vision",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Shooting",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Ball Handling",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Defense",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-004",
+  "skillName": "Court Vision",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Shooting",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Ball Handling",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Defense",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Court Vision",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Shooting",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Ball Handling",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Defense",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-BKB-005",
+  "skillName": "Court Vision",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Lakshmi Narayanan",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Serving",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Spiking",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Blocking",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Reception",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Serving",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Spiking",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Blocking",
+  "score": 10,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-001",
+  "skillName": "Reception",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Serving",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Spiking",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Blocking",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Reception",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Serving",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Spiking",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Blocking",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-002",
+  "skillName": "Reception",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Serving",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Spiking",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Blocking",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Reception",
+  "score": 8,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Serving",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Spiking",
+  "score": 8.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Blocking",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-003",
+  "skillName": "Reception",
+  "score": 7.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Serving",
+  "score": 5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Spiking",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Blocking",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Reception",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Serving",
+  "score": 7,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Spiking",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Blocking",
+  "score": 6,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-004",
+  "skillName": "Reception",
+  "score": 6.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Serving",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Spiking",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Blocking",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Reception",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-07-10",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Serving",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Spiking",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Blocking",
+  "score": 9.5,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-VLB-005",
+  "skillName": "Reception",
+  "score": 9,
+  "maxScore": 10,
+  "evaluator": "Karthik Subbiah",
+  "assessmentDate": "2026-10-03",
+  "dataOrigin": "synthetic-demo"
+ }
+]

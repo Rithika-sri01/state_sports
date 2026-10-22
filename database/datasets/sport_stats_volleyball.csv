@@ -1,0 +1,6 @@
+athleteId,playerPosition,matches,sets,attacks,blocks,serves,dataOrigin
+SSA-VLB-001,Setter,19,76,247,38,76,synthetic-demo
+SSA-VLB-002,Outside Hitter,28,112,588,28,224,synthetic-demo
+SSA-VLB-003,Middle Blocker,29,116,319,58,232,synthetic-demo
+SSA-VLB-004,Opposite,17,51,408,51,102,synthetic-demo
+SSA-VLB-005,Libero,18,54,144,36,36,synthetic-demo

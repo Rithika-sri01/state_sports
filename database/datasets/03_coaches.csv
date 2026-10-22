@@ -1,0 +1,7 @@
+coachId,name,specialization,assignedAthletes,dataOrigin
+CH-ATH,Ravi Chandran,Athletics performance & conditioning,SSA-ATH-001;SSA-ATH-002;SSA-ATH-003;SSA-ATH-004;SSA-ATH-005,synthetic-demo
+CH-FTB,Senthil Nathan,Football performance & conditioning,SSA-FTB-001;SSA-FTB-002;SSA-FTB-003;SSA-FTB-004;SSA-FTB-005,synthetic-demo
+CH-BDM,Anitha Rajan,Badminton performance & conditioning,SSA-BDM-001;SSA-BDM-002;SSA-BDM-003;SSA-BDM-004;SSA-BDM-005,synthetic-demo
+CH-CRK,Muthu Kumaran,Cricket performance & conditioning,SSA-CRK-001;SSA-CRK-002;SSA-CRK-003;SSA-CRK-004;SSA-CRK-005,synthetic-demo
+CH-BKB,Lakshmi Narayanan,Basketball performance & conditioning,SSA-BKB-001;SSA-BKB-002;SSA-BKB-003;SSA-BKB-004;SSA-BKB-005,synthetic-demo
+CH-VLB,Karthik Subbiah,Volleyball performance & conditioning,SSA-VLB-001;SSA-VLB-002;SSA-VLB-003;SSA-VLB-004;SSA-VLB-005,synthetic-demo

@@ -1,0 +1,5645 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea07"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 84,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea08"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 81,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea09"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 56,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0c"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 61,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 76,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 59,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea0f"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea10"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea11"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 76,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea12"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 63,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea13"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea14"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea15"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98b"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9a8"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b4"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c0"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9cc"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d8"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 55,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 56,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1c"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 59,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 94,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 58,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 47,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea1f"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 48,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 94,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea20"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea21"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 48,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea22"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 51,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 92,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea23"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 66,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea24"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 52,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 63,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea25"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 57,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 61,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea26"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 58,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 84,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea27"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": true,
+    "performance": 55,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": true,
+    "performance": 92,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": true,
+    "performance": 81,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea28"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98c"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9aa"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c2"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ce"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9da"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea2d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 92,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea2e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea2f"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea30"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 94,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea31"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea32"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea33"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 93,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea34"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea35"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 85,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea36"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea37"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea38"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea39"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 66,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 81,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea3a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea3b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98d"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ac"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b8"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c4"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d0"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9dc"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea40"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 59,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea41"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea42"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 55,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea43"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 66,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea44"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 51,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 82,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea45"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 56,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea46"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 52,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea47"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea48"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 60,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea49"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 50,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea4a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 54,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea4b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": true,
+    "performance": 56,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea4c"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea4d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea4e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98e"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ae"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ba"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c6"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9de"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea53"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea54"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 96,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea55"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea56"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea57"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 65,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 87,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea58"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 66,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 81,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea59"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 84,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 97,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5c"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 86,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 88,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 84,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 91,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea5f"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": true,
+    "performance": 72,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 92,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 90,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea60"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": true,
+    "performance": 89,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": true,
+    "performance": 95,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea61"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e98f"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b0"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9c8"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d4"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e0"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea66"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Fundamentals drill",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-07-26T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 79,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 76,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 57,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 54,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea67"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Conditioning circuit",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-01T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 64,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 59,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea68"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Tactical walk-through",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-08-07T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 60,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea69"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Practice match",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-08-13T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 57,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 55,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6a"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Speed & agility",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-08-19T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 83,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 61,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 59,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6b"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Recovery & mobility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-08-25T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 58,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 68,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6c"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Fundamentals drill",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-08-31T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 70,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6d"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Conditioning circuit",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-09-06T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 58,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6e"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Tactical walk-through",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-09-12T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 76,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 51,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea6f"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Practice match",
+  "type": "Recovery",
+  "date": {
+   "$date": "2026-09-18T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 69,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 76,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea70"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Speed & agility",
+  "type": "Technical",
+  "date": {
+   "$date": "2026-09-24T11:42:05.039Z"
+  },
+  "durationMin": 75,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 77,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 71,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 61,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 50,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea71"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Recovery & mobility",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-09-30T11:42:05.039Z"
+  },
+  "durationMin": 120,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 80,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 53,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 67,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea72"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Fundamentals drill",
+  "type": "Tactical",
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "durationMin": 60,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": false,
+    "performance": 0,
+    "remarks": "Absent"
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 75,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 55,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 74,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 56,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea73"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Conditioning circuit",
+  "type": "Match Practice",
+  "date": {
+   "$date": "2026-10-12T11:42:05.039Z"
+  },
+  "durationMin": 90,
+  "status": "Completed",
+  "remarks": "Session completed as planned.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": true,
+    "performance": 78,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": true,
+    "performance": 73,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": true,
+    "performance": 57,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": true,
+    "performance": 66,
+    "remarks": ""
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": true,
+    "performance": 62,
+    "remarks": ""
+   }
+  ]
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea74"
+  },
+  "sport": {
+   "$oid": "6ad4b08daf6c37c8ec10e990"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "title": "Morning conditioning",
+  "type": "Fitness",
+  "date": {
+   "$date": "2026-10-18T06:30:00Z"
+  },
+  "durationMin": 90,
+  "status": "Scheduled",
+  "remarks": "Scheduled - mark attendance after the session.",
+  "attendance": [
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9b2"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9be"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9ca"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9d6"
+    },
+    "present": false,
+    "performance": 0
+   },
+   {
+    "athlete": {
+     "$oid": "6ad4b08daf6c37c8ec10e9e2"
+    },
+    "present": false,
+    "performance": 0
+   }
+  ]
+ }
+]

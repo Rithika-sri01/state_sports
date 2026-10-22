@@ -1,0 +1,242 @@
+[
+ {
+  "sport": "Athletics",
+  "event": "100 m",
+  "category": "Track",
+  "position": "",
+  "measurementUnit": "s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Athletics",
+  "event": "200 m",
+  "category": "Track",
+  "position": "",
+  "measurementUnit": "s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Athletics",
+  "event": "400 m",
+  "category": "Track",
+  "position": "",
+  "measurementUnit": "s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Athletics",
+  "event": "800 m",
+  "category": "Track",
+  "position": "",
+  "measurementUnit": "s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Athletics",
+  "event": "Long Jump",
+  "category": "Field",
+  "position": "",
+  "measurementUnit": "m",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Athletics",
+  "event": "Javelin Throw",
+  "category": "Field",
+  "position": "",
+  "measurementUnit": "m",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Football",
+  "event": "Match",
+  "category": "Team",
+  "position": "Goalkeeper",
+  "measurementUnit": "goals",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Football",
+  "event": "Match",
+  "category": "Team",
+  "position": "Defender",
+  "measurementUnit": "goals",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Football",
+  "event": "Match",
+  "category": "Team",
+  "position": "Midfielder",
+  "measurementUnit": "goals",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Football",
+  "event": "Match",
+  "category": "Team",
+  "position": "Forward",
+  "measurementUnit": "goals",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Badminton",
+  "event": "Singles",
+  "category": "Individual",
+  "position": "",
+  "measurementUnit": "games",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Badminton",
+  "event": "Doubles",
+  "category": "Individual",
+  "position": "",
+  "measurementUnit": "games",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "T20 Match",
+  "category": "Team",
+  "position": "Batter",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "T20 Match",
+  "category": "Team",
+  "position": "Bowler",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "T20 Match",
+  "category": "Team",
+  "position": "All-rounder",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "T20 Match",
+  "category": "Team",
+  "position": "Wicket-keeper",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "One-Day Match",
+  "category": "Team",
+  "position": "Batter",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "One-Day Match",
+  "category": "Team",
+  "position": "Bowler",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "One-Day Match",
+  "category": "Team",
+  "position": "All-rounder",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Cricket",
+  "event": "One-Day Match",
+  "category": "Team",
+  "position": "Wicket-keeper",
+  "measurementUnit": "runs",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Basketball",
+  "event": "5x5 Game",
+  "category": "Team",
+  "position": "Point Guard",
+  "measurementUnit": "points",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Basketball",
+  "event": "5x5 Game",
+  "category": "Team",
+  "position": "Shooting Guard",
+  "measurementUnit": "points",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Basketball",
+  "event": "5x5 Game",
+  "category": "Team",
+  "position": "Small Forward",
+  "measurementUnit": "points",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Basketball",
+  "event": "5x5 Game",
+  "category": "Team",
+  "position": "Power Forward",
+  "measurementUnit": "points",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Basketball",
+  "event": "5x5 Game",
+  "category": "Team",
+  "position": "Center",
+  "measurementUnit": "points",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Volleyball",
+  "event": "Match",
+  "category": "Team",
+  "position": "Setter",
+  "measurementUnit": "sets",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Volleyball",
+  "event": "Match",
+  "category": "Team",
+  "position": "Outside Hitter",
+  "measurementUnit": "sets",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Volleyball",
+  "event": "Match",
+  "category": "Team",
+  "position": "Middle Blocker",
+  "measurementUnit": "sets",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Volleyball",
+  "event": "Match",
+  "category": "Team",
+  "position": "Opposite",
+  "measurementUnit": "sets",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "sport": "Volleyball",
+  "event": "Match",
+  "category": "Team",
+  "position": "Libero",
+  "measurementUnit": "sets",
+  "dataOrigin": "synthetic-demo"
+ }
+]

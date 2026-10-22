@@ -1,0 +1,6 @@
+athleteId,playerPosition,games,points,rebounds,assists,fieldGoalPercent,dataOrigin
+SSA-BKB-001,Point Guard,21,315,63,126,42.2,synthetic-demo
+SSA-BKB-002,Shooting Guard,21,378,63,42,53.1,synthetic-demo
+SSA-BKB-003,Small Forward,21,252,105,63,42.5,synthetic-demo
+SSA-BKB-004,Power Forward,28,532,112,28,54.9,synthetic-demo
+SSA-BKB-005,Center,33,627,330,132,41.8,synthetic-demo

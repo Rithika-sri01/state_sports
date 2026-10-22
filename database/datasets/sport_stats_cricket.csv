@@ -1,0 +1,6 @@
+athleteId,playerPosition,matches,runs,battingAverage,wickets,bowlingFigures,dataOrigin
+SSA-CRK-001,Batter,18,604,43.14,0,,synthetic-demo
+SSA-CRK-002,Bowler,27,78,3.55,14,3/20,synthetic-demo
+SSA-CRK-003,All-rounder,28,582,26.45,20,2/23,synthetic-demo
+SSA-CRK-004,Wicket-keeper,25,662,33.1,0,,synthetic-demo
+SSA-CRK-005,Batter,15,844,70.33,0,,synthetic-demo

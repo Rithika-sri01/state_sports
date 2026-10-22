@@ -1,0 +1,47 @@
+[
+ {
+  "athleteId": "SSA-ATH-001",
+  "event": "100 m",
+  "timeSeconds": 12.95,
+  "distanceMetres": "",
+  "bestRank": 5,
+  "personalBest": "12.95 s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-002",
+  "event": "200 m",
+  "timeSeconds": 26.12,
+  "distanceMetres": "",
+  "bestRank": 4,
+  "personalBest": "26.12 s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-003",
+  "event": "400 m",
+  "timeSeconds": 57.4,
+  "distanceMetres": "",
+  "bestRank": 4,
+  "personalBest": "57.4 s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-004",
+  "event": "800 m",
+  "timeSeconds": 124.5,
+  "distanceMetres": "",
+  "bestRank": 3,
+  "personalBest": "124.5 s",
+  "dataOrigin": "synthetic-demo"
+ },
+ {
+  "athleteId": "SSA-ATH-005",
+  "event": "Long Jump",
+  "timeSeconds": "",
+  "distanceMetres": 6.48,
+  "bestRank": 2,
+  "personalBest": "6.48 m",
+  "dataOrigin": "synthetic-demo"
+ }
+]

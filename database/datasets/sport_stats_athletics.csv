@@ -1,0 +1,6 @@
+athleteId,event,timeSeconds,distanceMetres,bestRank,personalBest,dataOrigin
+SSA-ATH-001,100 m,12.95,,5,12.95 s,synthetic-demo
+SSA-ATH-002,200 m,26.12,,4,26.12 s,synthetic-demo
+SSA-ATH-003,400 m,57.4,,4,57.4 s,synthetic-demo
+SSA-ATH-004,800 m,124.5,,3,124.5 s,synthetic-demo
+SSA-ATH-005,Long Jump,,6.48,2,6.48 m,synthetic-demo

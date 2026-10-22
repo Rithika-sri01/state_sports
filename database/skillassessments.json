@@ -1,0 +1,2810 @@
+[
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 49,
+  "tactical": 51,
+  "consistency": 51,
+  "performance": 57,
+  "score": 52,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 57,
+  "tactical": 56,
+  "consistency": 55,
+  "performance": 51,
+  "score": 55,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 53,
+  "tactical": 54,
+  "consistency": 57,
+  "performance": 62,
+  "score": 57,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea7f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 60,
+  "tactical": 63,
+  "consistency": 56,
+  "performance": 61,
+  "score": 60,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea84"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 55,
+  "tactical": 59,
+  "consistency": 54,
+  "performance": 53,
+  "score": 55,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea85"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 61,
+  "tactical": 64,
+  "consistency": 56,
+  "performance": 58,
+  "score": 60,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea86"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 59,
+  "tactical": 57,
+  "consistency": 59,
+  "performance": 63,
+  "score": 60,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea87"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9aa"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 64,
+  "tactical": 63,
+  "consistency": 67,
+  "performance": 64,
+  "score": 65,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 65,
+  "tactical": 67,
+  "consistency": 73,
+  "performance": 65,
+  "score": 68,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 67,
+  "tactical": 68,
+  "consistency": 70,
+  "performance": 66,
+  "score": 68,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 73,
+  "tactical": 77,
+  "consistency": 69,
+  "performance": 72,
+  "score": 73,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea8f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ac"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 77,
+  "tactical": 75,
+  "consistency": 71,
+  "performance": 76,
+  "score": 75,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea95"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 69,
+  "tactical": 71,
+  "consistency": 65,
+  "performance": 68,
+  "score": 68,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea96"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 75,
+  "tactical": 68,
+  "consistency": 69,
+  "performance": 66,
+  "score": 70,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea97"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 72,
+  "tactical": 77,
+  "consistency": 68,
+  "performance": 78,
+  "score": 74,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea98"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ae"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 78,
+  "tactical": 75,
+  "consistency": 79,
+  "performance": 79,
+  "score": 78,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 62,
+  "tactical": 67,
+  "consistency": 66,
+  "performance": 62,
+  "score": 64,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 63,
+  "tactical": 63,
+  "consistency": 67,
+  "performance": 64,
+  "score": 64,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ea9f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 71,
+  "tactical": 63,
+  "consistency": 63,
+  "performance": 70,
+  "score": 67,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 68,
+  "tactical": 72,
+  "consistency": 73,
+  "performance": 72,
+  "score": 71,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 73,
+  "tactical": 75,
+  "consistency": 81,
+  "performance": 80,
+  "score": 77,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 76,
+  "tactical": 83,
+  "consistency": 83,
+  "performance": 74,
+  "score": 79,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 79,
+  "tactical": 83,
+  "consistency": 83,
+  "performance": 82,
+  "score": 82,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaa8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 83,
+  "tactical": 78,
+  "consistency": 84,
+  "performance": 78,
+  "score": 81,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaae"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 74,
+  "tactical": 67,
+  "consistency": 75,
+  "performance": 74,
+  "score": 73,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaaf"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 75,
+  "tactical": 69,
+  "consistency": 77,
+  "performance": 77,
+  "score": 75,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 71,
+  "tactical": 79,
+  "consistency": 70,
+  "performance": 75,
+  "score": 74,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 81,
+  "tactical": 76,
+  "consistency": 80,
+  "performance": 80,
+  "score": 79,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 86,
+  "tactical": 93,
+  "consistency": 88,
+  "performance": 89,
+  "score": 89,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 93,
+  "tactical": 92,
+  "consistency": 95,
+  "performance": 87,
+  "score": 92,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eab9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 89,
+  "tactical": 90,
+  "consistency": 92,
+  "performance": 90,
+  "score": 90,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaba"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9b8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 95,
+  "tactical": 94,
+  "consistency": 98,
+  "performance": 95,
+  "score": 96,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac0"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 51,
+  "tactical": 54,
+  "consistency": 58,
+  "performance": 57,
+  "score": 55,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 59,
+  "tactical": 56,
+  "consistency": 59,
+  "performance": 55,
+  "score": 57,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 56,
+  "tactical": 56,
+  "consistency": 54,
+  "performance": 57,
+  "score": 56,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ba"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 62,
+  "tactical": 61,
+  "consistency": 57,
+  "performance": 59,
+  "score": 60,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac8"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 72,
+  "tactical": 68,
+  "consistency": 66,
+  "performance": 72,
+  "score": 70,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eac9"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 73,
+  "tactical": 72,
+  "consistency": 74,
+  "performance": 66,
+  "score": 71,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaca"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 76,
+  "tactical": 72,
+  "consistency": 68,
+  "performance": 74,
+  "score": 73,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eacb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9be"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 76,
+  "tactical": 76,
+  "consistency": 78,
+  "performance": 72,
+  "score": 76,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead1"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 82,
+  "tactical": 79,
+  "consistency": 77,
+  "performance": 77,
+  "score": 79,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead2"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 75,
+  "tactical": 82,
+  "consistency": 78,
+  "performance": 75,
+  "score": 78,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 82,
+  "tactical": 84,
+  "consistency": 80,
+  "performance": 80,
+  "score": 82,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10ead4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 85,
+  "tactical": 84,
+  "consistency": 84,
+  "performance": 85,
+  "score": 85,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eada"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 93,
+  "tactical": 86,
+  "consistency": 90,
+  "performance": 89,
+  "score": 90,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eadb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 86,
+  "tactical": 94,
+  "consistency": 93,
+  "performance": 86,
+  "score": 90,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eadc"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 92,
+  "tactical": 97,
+  "consistency": 90,
+  "performance": 96,
+  "score": 94,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eadd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 95,
+  "tactical": 96,
+  "consistency": 97,
+  "performance": 97,
+  "score": 96,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae3"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 65,
+  "tactical": 63,
+  "consistency": 57,
+  "performance": 58,
+  "score": 61,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 61,
+  "tactical": 67,
+  "consistency": 62,
+  "performance": 65,
+  "score": 64,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 62,
+  "tactical": 68,
+  "consistency": 66,
+  "performance": 69,
+  "score": 66,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eae6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 71,
+  "tactical": 70,
+  "consistency": 69,
+  "performance": 72,
+  "score": 71,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaeb"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 72,
+  "tactical": 69,
+  "consistency": 71,
+  "performance": 69,
+  "score": 70,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaec"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 71,
+  "tactical": 72,
+  "consistency": 77,
+  "performance": 71,
+  "score": 73,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaed"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 75,
+  "tactical": 70,
+  "consistency": 72,
+  "performance": 73,
+  "score": 73,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaee"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 78,
+  "tactical": 77,
+  "consistency": 80,
+  "performance": 81,
+  "score": 79,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf4"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 79,
+  "tactical": 83,
+  "consistency": 81,
+  "performance": 81,
+  "score": 81,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf5"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 80,
+  "tactical": 81,
+  "consistency": 85,
+  "performance": 81,
+  "score": 82,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf6"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 86,
+  "tactical": 88,
+  "consistency": 84,
+  "performance": 87,
+  "score": 86,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaf7"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9c8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 92,
+  "tactical": 86,
+  "consistency": 85,
+  "performance": 85,
+  "score": 87,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eafd"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 55,
+  "tactical": 52,
+  "consistency": 52,
+  "performance": 56,
+  "score": 54,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eafe"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 59,
+  "tactical": 60,
+  "consistency": 60,
+  "performance": 61,
+  "score": 60,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eaff"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 58,
+  "tactical": 61,
+  "consistency": 58,
+  "performance": 56,
+  "score": 58,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb00"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ca"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 62,
+  "tactical": 60,
+  "consistency": 56,
+  "performance": 64,
+  "score": 61,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb05"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 69,
+  "tactical": 69,
+  "consistency": 61,
+  "performance": 65,
+  "score": 66,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb06"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 67,
+  "tactical": 70,
+  "consistency": 69,
+  "performance": 68,
+  "score": 69,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb07"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 71,
+  "tactical": 71,
+  "consistency": 73,
+  "performance": 70,
+  "score": 71,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb08"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9cc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 69,
+  "tactical": 72,
+  "consistency": 71,
+  "performance": 73,
+  "score": 71,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 84,
+  "tactical": 86,
+  "consistency": 88,
+  "performance": 88,
+  "score": 87,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 83,
+  "tactical": 86,
+  "consistency": 82,
+  "performance": 86,
+  "score": 84,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb0f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 87,
+  "tactical": 85,
+  "consistency": 91,
+  "performance": 86,
+  "score": 87,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb10"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9ce"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 90,
+  "tactical": 93,
+  "consistency": 86,
+  "performance": 90,
+  "score": 90,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb16"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 67,
+  "tactical": 64,
+  "consistency": 65,
+  "performance": 68,
+  "score": 66,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb17"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 67,
+  "tactical": 72,
+  "consistency": 74,
+  "performance": 73,
+  "score": 72,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb18"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 68,
+  "tactical": 72,
+  "consistency": 74,
+  "performance": 72,
+  "score": 72,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb19"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 79,
+  "tactical": 75,
+  "consistency": 77,
+  "performance": 70,
+  "score": 75,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb1f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 79,
+  "tactical": 82,
+  "consistency": 76,
+  "performance": 79,
+  "score": 79,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb20"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 84,
+  "tactical": 86,
+  "consistency": 80,
+  "performance": 85,
+  "score": 84,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb21"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 84,
+  "tactical": 87,
+  "consistency": 80,
+  "performance": 86,
+  "score": 84,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb22"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d4"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 85,
+  "tactical": 85,
+  "consistency": 84,
+  "performance": 87,
+  "score": 85,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb28"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 70,
+  "tactical": 68,
+  "consistency": 69,
+  "performance": 70,
+  "score": 69,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb29"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 67,
+  "tactical": 65,
+  "consistency": 68,
+  "performance": 69,
+  "score": 67,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb2a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 74,
+  "tactical": 69,
+  "consistency": 74,
+  "performance": 68,
+  "score": 71,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb2b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d6"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 76,
+  "tactical": 74,
+  "consistency": 73,
+  "performance": 67,
+  "score": 73,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb30"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 80,
+  "tactical": 74,
+  "consistency": 75,
+  "performance": 78,
+  "score": 77,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb31"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 82,
+  "tactical": 77,
+  "consistency": 84,
+  "performance": 80,
+  "score": 81,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb32"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 87,
+  "tactical": 81,
+  "consistency": 81,
+  "performance": 84,
+  "score": 83,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb33"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9d8"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99c"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 82,
+  "tactical": 85,
+  "consistency": 85,
+  "performance": 83,
+  "score": 84,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb39"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 60,
+  "tactical": 65,
+  "consistency": 56,
+  "performance": 62,
+  "score": 61,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb3a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 58,
+  "tactical": 63,
+  "consistency": 62,
+  "performance": 61,
+  "score": 61,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb3b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 62,
+  "tactical": 61,
+  "consistency": 66,
+  "performance": 63,
+  "score": 63,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb3c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9da"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e99e"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 70,
+  "tactical": 64,
+  "consistency": 67,
+  "performance": 63,
+  "score": 66,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb41"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 74,
+  "tactical": 75,
+  "consistency": 81,
+  "performance": 80,
+  "score": 78,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb42"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 84,
+  "tactical": 83,
+  "consistency": 81,
+  "performance": 82,
+  "score": 83,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb43"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 88,
+  "tactical": 81,
+  "consistency": 83,
+  "performance": 86,
+  "score": 85,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb44"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9dc"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a0"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 85,
+  "tactical": 83,
+  "consistency": 86,
+  "performance": 87,
+  "score": 85,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb4a"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 72,
+  "tactical": 76,
+  "consistency": 70,
+  "performance": 74,
+  "score": 73,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb4b"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 80,
+  "tactical": 74,
+  "consistency": 78,
+  "performance": 80,
+  "score": 78,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb4c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 81,
+  "tactical": 74,
+  "consistency": 73,
+  "performance": 72,
+  "score": 75,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb4d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9de"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a2"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 80,
+  "tactical": 84,
+  "consistency": 81,
+  "performance": 77,
+  "score": 81,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb53"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 93,
+  "tactical": 87,
+  "consistency": 86,
+  "performance": 92,
+  "score": 90,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb54"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 88,
+  "tactical": 86,
+  "consistency": 87,
+  "performance": 88,
+  "score": 87,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb55"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 89,
+  "tactical": 95,
+  "consistency": 94,
+  "performance": 96,
+  "score": 94,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb56"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e0"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a4"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 93,
+  "tactical": 98,
+  "consistency": 99,
+  "performance": 99,
+  "score": 97,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5c"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-07-10T11:42:05.039Z"
+  },
+  "technical": 47,
+  "tactical": 52,
+  "consistency": 53,
+  "performance": 52,
+  "score": 51,
+  "remarks": "Consistent effort; maintain intensity."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5d"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-08-09T11:42:05.039Z"
+  },
+  "technical": 50,
+  "tactical": 49,
+  "consistency": 55,
+  "performance": 50,
+  "score": 51,
+  "remarks": "Needs sharper decision-making under pressure."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5e"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-09-08T11:42:05.039Z"
+  },
+  "technical": 55,
+  "tactical": 50,
+  "consistency": 55,
+  "performance": 55,
+  "score": 54,
+  "remarks": "Good progress on fundamentals."
+ },
+ {
+  "createdAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "updatedAt": {
+   "$date": "2026-10-18T11:42:05.195Z"
+  },
+  "_id": {
+   "$oid": "6ad4b08daf6c37c8ec10eb5f"
+  },
+  "athlete": {
+   "$oid": "6ad4b08daf6c37c8ec10e9e2"
+  },
+  "coach": {
+   "$oid": "6ad4b08daf6c37c8ec10e9a6"
+  },
+  "date": {
+   "$date": "2026-10-06T11:42:05.039Z"
+  },
+  "technical": 55,
+  "tactical": 61,
+  "consistency": 53,
+  "performance": 53,
+  "score": 56,
+  "remarks": "Good progress on fundamentals."
+ }
+]

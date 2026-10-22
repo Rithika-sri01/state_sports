@@ -1,0 +1,14 @@
+{
+  "name": "state-sports-academy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "State Sports Academy - Athlete Development Lifecycle System (React + Express + MongoDB)",
+  "scripts": {
+    "setup": "npm install --prefix server && npm install --prefix client",
+    "seed": "npm run seed --prefix server",
+    "load-datasets": "npm run load-datasets --prefix server",
+    "dev": "concurrently -n api,web -c blue,green \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client"
+  },
+  "devDependencies": { "concurrently": "^8.2.2" }
+}

@@ -1,0 +1,31 @@
+athleteId,name,dateOfBirth,sport,eventOrPosition,academyLevel,dataOrigin
+SSA-ATH-001,Arjun Karthik,2007-10-07,Athletics,100 m,Academy Level 1,synthetic-demo
+SSA-ATH-002,Divya Lakshmi,2008-04-11,Athletics,200 m,Academy Level 2,synthetic-demo
+SSA-ATH-003,Harish Kumar,2008-12-10,Athletics,400 m,Academy Level 1,synthetic-demo
+SSA-ATH-004,Meena Priya,2004-04-06,Athletics,800 m,District Camp,synthetic-demo
+SSA-ATH-005,Surya Prakash,2008-10-12,Athletics,Long Jump,State Camp,synthetic-demo
+SSA-FTB-001,Kavya Shree,2009-08-05,Football,Goalkeeper,Academy Level 1,synthetic-demo
+SSA-FTB-002,Naveen Raj,2005-03-24,Football,Defender,Academy Level 1,synthetic-demo
+SSA-FTB-003,Aishwarya Devi,2007-08-25,Football,Midfielder,District Camp,synthetic-demo
+SSA-FTB-004,Vignesh Murugan,2004-04-10,Football,Forward,Academy Level 2,synthetic-demo
+SSA-FTB-005,Sandhya Rani,2008-10-16,Football,Goalkeeper,Academy Level 1,synthetic-demo
+SSA-BDM-001,Praveen Kumar,2008-08-02,Badminton,Doubles,District Camp,synthetic-demo
+SSA-BDM-002,Janani Selvam,2005-11-01,Badminton,Singles,District Camp,synthetic-demo
+SSA-BDM-003,Gokul Krishnan,2005-10-05,Badminton,Doubles,Elite Camp,synthetic-demo
+SSA-BDM-004,Harini Balaji,2004-03-04,Badminton,Singles,District Camp,synthetic-demo
+SSA-BDM-005,Dinesh Babu,2006-01-11,Badminton,Doubles,District Camp,synthetic-demo
+SSA-CRK-001,Nandhini Ravi,2006-06-05,Cricket,Batter,Academy Level 1,synthetic-demo
+SSA-CRK-002,Santhosh Kumar,2006-02-16,Cricket,Bowler,State Camp,synthetic-demo
+SSA-CRK-003,Ramya Subramani,2008-06-20,Cricket,All-rounder,Academy Level 1,synthetic-demo
+SSA-CRK-004,Yuvaraj Sekar,2009-05-17,Cricket,Wicket-keeper,Elite Camp,synthetic-demo
+SSA-CRK-005,Pavithra Anand,2004-01-14,Cricket,Batter,Academy Level 1,synthetic-demo
+SSA-BKB-001,Tharun Vel,2010-09-15,Basketball,Point Guard,Academy Level 1,synthetic-demo
+SSA-BKB-002,Keerthana Mohan,2006-02-13,Basketball,Shooting Guard,State Camp,synthetic-demo
+SSA-BKB-003,Mohammed Imran,2004-02-04,Basketball,Small Forward,District Camp,synthetic-demo
+SSA-BKB-004,Deepika Suresh,2005-01-22,Basketball,Power Forward,District Camp,synthetic-demo
+SSA-BKB-005,Lokesh Waran,2008-05-10,Basketball,Center,Elite Camp,synthetic-demo
+SSA-VLB-001,Rohit Anand,2006-08-22,Volleyball,Setter,Elite Camp,synthetic-demo
+SSA-VLB-002,Swetha Narayanan,2005-01-09,Volleyball,Outside Hitter,Academy Level 1,synthetic-demo
+SSA-VLB-003,Bharath Kannan,2006-09-15,Volleyball,Middle Blocker,District Camp,synthetic-demo
+SSA-VLB-004,Monica Joseph,2009-06-15,Volleyball,Opposite,Academy Level 1,synthetic-demo
+SSA-VLB-005,Aravind Pandian,2005-07-06,Volleyball,Libero,Elite Camp,synthetic-demo
